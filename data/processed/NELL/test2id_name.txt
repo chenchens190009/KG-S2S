@@ -1,0 +1,2159 @@
+2158
+sports game : N1937 World Series | sport : Baseball | sports games port
+sports game : N2003 World Series | sport : Baseball | sports games port
+sports game : N1946 World Series | sport : Baseball | sports games port
+sports game : N1955 World Series | sport : Baseball | sports games port
+sports game : N1964 World Series | sport : Baseball | sports games port
+sports game : N1973 World Series | sport : Baseball | sports games port
+sports game : N1982 World Series | sport : Baseball | sports games port
+sports game : N1959 World Series | sport : Baseball | sports games port
+sports game : N1991 World Series | sport : Baseball | sports games port
+sports game : N1968 World Series | sport : Baseball | sports games port
+sports game : N1977 World Series | sport : Baseball | sports games port
+sports game : N1916 World Series | sport : Baseball | sports games port
+sports game : N1986 World Series | sport : Baseball | sports games port
+sports game : N1995 World Series | sport : Baseball | sports games port
+sports game : N1934 World Series | sport : Baseball | sports games port
+sports game : N2000 World Series | sport : Baseball | sports games port
+sports game : N1943 World Series | sport : Baseball | sports games port
+sports game : N1952 World Series | sport : Baseball | sports games port
+sports game : N1999 World Series | sport : Baseball | sports games port
+sports game : N1961 World Series | sport : Baseball | sports games port
+sports game : N2004 World Series | sport : Baseball | sports games port
+sports game : N1938 World Series | sport : Baseball | sports games port
+sports game : N1970 World Series | sport : Baseball | sports games port
+sports game : N1947 World Series | sport : Baseball | sports games port
+sports game : N1956 World Series | sport : Baseball | sports games port
+sports game : N1965 World Series | sport : Baseball | sports games port
+sports game : N2008 World Series | sport : Baseball | sports games port
+sports game : N1974 World Series | sport : Baseball | sports games port
+sports game : Western Conference | sport : Basketball | sports games port
+sports game : N1983 World Series | sport : Baseball | sports games port
+sports game : Nlcs | sport : Baseball | sports games port
+sports game : N1931 World Series | sport : Baseball | sports games port
+sports game : N1969 World Series | sport : Baseball | sports games port
+sports game : N1978 World Series | sport : Baseball | sports games port
+sports game : N1908 World Series | sport : Baseball | sports games port
+sports game : N1987 World Series | sport : Baseball | sports games port
+sports game : Alcs | sport : Baseball | sports games port
+sports game : Alds | sport : Baseball | sports games port
+sports game : First World Series | sport : Baseball | sports games port
+sports game : N1996 World Series | sport : Baseball | sports games port
+sports game : N1926 World Series | sport : Baseball | sports games port
+sports game : N1935 World Series | sport : Baseball | sports games port
+sports game : N2001 World Series | sport : Baseball | sports games port
+sports game : N2002 World Cup | sport : Soccer | sports games port
+sports game : N2010 World Series | sport : Baseball | sports games port
+sports game : N1953 World Series | sport : Baseball | sports games port
+sports game : N1962 World Series | sport : Baseball | sports games port
+sports game : N1939 World Series | sport : Baseball | sports games port
+sports game : N1980 World Series | sport : Baseball | sports games port
+sports game : N1957 World Series | sport : Baseball | sports games port
+sports game : N1966 World Series | sport : Baseball | sports games port
+sports game : N2009 World Series | sport : Baseball | sports games port
+sports game : N1984 World Series | sport : Baseball | sports games port
+sports game : N1923 World Series | sport : Baseball | sports games port
+sports game : N1932 World Series | sport : Baseball | sports games port
+sports game : N1941 World Series | sport : Baseball | sports games port
+sports game : N1918 World Series | sport : Baseball | sports games port
+sports game : N1950 World Series | sport : Baseball | sports games port
+sports game : N1988 World Series | sport : Baseball | sports games port
+sports game : N1927 World Series | sport : Baseball | sports games port
+sports game : N1936 World Series | sport : Baseball | sports games port
+sports game : N2002 World Series | sport : Baseball | sports games port
+sports game : N1945 World Series | sport : Baseball | sports games port
+sports game : N1972 World Series | sport : Baseball | sports games port
+sports game : N1949 World Series | sport : Baseball | sports games port
+sports game : N1981 World Series | sport : Baseball | sports games port
+sports game : N1958 World Series | sport : Baseball | sports games port
+sports game : N1990 World Series | sport : Baseball | sports games port
+sports game : N1967 World Series | sport : Baseball | sports games port
+sports game : World Championship | sport : Baseball | sports games port
+sports game : N2003 Alcs | sport : Baseball | sports games port
+sports game : N1951 World Series | sport : Baseball | sports games port
+sports game : N1998 World Series | sport : Baseball | sports games port
+sports game : N1928 World Series | sport : Baseball | sports games port
+automobile maker : Lexus | city : Dallas | automobile maker dealers in city
+automobile maker : Buick | city : Columbus | automobile maker dealers in city
+automobile maker : Buick | city : San Diego | automobile maker dealers in city
+automobile maker : Kia | city : Arlington | automobile maker dealers in city
+automobile maker : Kia | city : Austin | automobile maker dealers in city
+automobile maker : Kia | city : Mission | automobile maker dealers in city
+automobile maker : Kia | city : Killeen | automobile maker dealers in city
+automobile maker : Kia | city : Abilene | automobile maker dealers in city
+automobile maker : Kia | city : Amarillo | automobile maker dealers in city
+automobile maker : Kia | city : Pasadena | automobile maker dealers in city
+automobile maker : Kia | city : Tyler | automobile maker dealers in city
+automobile maker : Kia | city : Spring | automobile maker dealers in city
+automobile maker : Kia | city : Brownsville | automobile maker dealers in city
+automobile maker : Kia | city : Plano | automobile maker dealers in city
+automobile maker : Kia | city : Dallas | automobile maker dealers in city
+automobile maker : Kia | city : Odessa | automobile maker dealers in city
+automobile maker : Kia | city : Lubbock | automobile maker dealers in city
+automobile maker : Kia | city : Beaumont | automobile maker dealers in city
+automobile maker : Kia | city : Garland | automobile maker dealers in city
+automobile maker : Kia | organization : Midland | automobile maker dealers in city
+automobile maker : Kia | city : Houston | automobile maker dealers in city
+automobile maker : Jaguar | city : Coventry | automobile maker dealers in city
+automobile maker : Jaguar | city : Birmingham | automobile maker dealers in city
+automobile maker : Jaguar | city : Houston | automobile maker dealers in city
+automobile maker : Suzuki | city : Tucson | automobile maker dealers in city
+automobile maker : Acura | city : Phoenix's Arizona | automobile maker dealers in city
+automobile maker : Acura | city : Hawaii | automobile maker dealers in city
+automobile maker : Acura | city : Newcastle | automobile maker dealers in city
+automobile maker : Acura | city : Aiea | automobile maker dealers in city
+automobile maker : Acura | city : Buffalo | automobile maker dealers in city
+automobile maker : Acura | city : Seattle | automobile maker dealers in city
+automobile maker : Acura | city : Dallas | automobile maker dealers in city
+automobile maker : Acura | city : Orlando | automobile maker dealers in city
+automobile maker : Acura | city : Hoffman Estates | automobile maker dealers in city
+automobile maker : Acura | city : Boulder Colorado | automobile maker dealers in city
+automobile maker : Acura | city : Denver | automobile maker dealers in city
+automobile maker : Acura | city : Weber | automobile maker dealers in city
+automobile maker : Acura | city : Omaha | automobile maker dealers in city
+automobile maker : Acura | city : Honolulu | automobile maker dealers in city
+automobile maker : Acura | city : Mississippi | automobile maker dealers in city
+automobile maker : Acura | city : Alabama | automobile maker dealers in city
+automobile maker : Acura | city : South Portland | automobile maker dealers in city
+automobile maker : Acura | city : Colorado Springs's Colorado | automobile maker dealers in city
+automobile maker : Acura | city : Schaumburg | automobile maker dealers in city
+automobile maker : Acura | city : Reno | automobile maker dealers in city
+automobile maker : Acura | city : Los Angeles's California | automobile maker dealers in city
+automobile maker : Acura | city : Libertyville | automobile maker dealers in city
+automobile maker : Acura | city : Austin | automobile maker dealers in city
+automobile maker : Acura | city : Wheaton | automobile maker dealers in city
+automobile maker : Acura | city : Cleveland | automobile maker dealers in city
+automobile maker : Acura | city : Westmont | automobile maker dealers in city
+automobile maker : Acura | city : Georgia | automobile maker dealers in city
+automobile maker : Acura | city : Indianapolis | automobile maker dealers in city
+automobile maker : Acura | city : Bozeman | automobile maker dealers in city
+automobile maker : Acura | city : Oak Lawn | automobile maker dealers in city
+automobile maker : Acura | city : Arlington Heights | automobile maker dealers in city
+automobile maker : Acura | city : Newark | automobile maker dealers in city
+automobile maker : Acura | city : Lancaster | automobile maker dealers in city
+automobile maker : Acura | city : Barre | automobile maker dealers in city
+automobile maker : Acura | city : Chicago South | automobile maker dealers in city
+automobile maker : Acura | city : Kansas | automobile maker dealers in city
+automobile maker : Acura | city : Naperville | automobile maker dealers in city
+automobile maker : Acura | city : Augusta | automobile maker dealers in city
+automobile maker : Acura | city : Philadelphia | automobile maker dealers in city
+automobile maker : Acura | city : New York | automobile maker dealers in city
+automobile maker : Acura | city : Phoenix | automobile maker dealers in city
+automobile maker : Acura | city : Atlanta | automobile maker dealers in city
+automobile maker : Acura | city : Las Vegas | automobile maker dealers in city
+automobile maker : Acura | city : Tampa | automobile maker dealers in city
+automobile maker : Acura | city : San Diego | automobile maker dealers in city
+automobile maker : Acura | city : Portland | automobile maker dealers in city
+automobile maker : Acura | geopolitical location : Wilmington | automobile maker dealers in city
+automobile maker : Acura | county : Los Angeles Ca | automobile maker dealers in city
+automobile maker : Acura | geopolitical organization : Kailua Kona | automobile maker dealers in city
+automobile maker : Acura | city : Houston | automobile maker dealers in city
+automobile maker : Isuzu | city : Knoxville | automobile maker dealers in city
+automobile maker : Cadillac | city : Austin | automobile maker dealers in city
+automobile maker : Cadillac | city : San Antonio | automobile maker dealers in city
+automobile maker : Cadillac | city : Dallas | automobile maker dealers in city
+automobile maker : Cadillac | city : Fort Worth | automobile maker dealers in city
+automobile maker : Cadillac | city : San Diego | automobile maker dealers in city
+automobile maker : Cadillac | city : Houston | automobile maker dealers in city
+automobile maker : Hyundai | city : San Diego | automobile maker dealers in city
+automobile maker : Honda | city : Seattle | automobile maker dealers in city
+automobile maker : Honda | city : Dallas | automobile maker dealers in city
+automobile maker : Honda | city : Orlando | automobile maker dealers in city
+automobile maker : Honda | city : Tucson | automobile maker dealers in city
+automobile maker : Honda | city : Sacramento | automobile maker dealers in city
+automobile maker : Honda | city : San Francisco | automobile maker dealers in city
+automobile maker : Honda | city : San Antonio | automobile maker dealers in city
+automobile maker : Honda | city : Tulsa | automobile maker dealers in city
+automobile maker : Honda | city : Fort Worth | automobile maker dealers in city
+automobile maker : Honda | city : Indianapolis | automobile maker dealers in city
+automobile maker : Honda | city : Albuquerque | automobile maker dealers in city
+automobile maker : Honda | city : Denver | automobile maker dealers in city
+automobile maker : Honda | city : Memphis | automobile maker dealers in city
+automobile maker : Honda | city : Knoxville | automobile maker dealers in city
+automobile maker : Honda | city : Lancaster | automobile maker dealers in city
+automobile maker : Honda | city : Atlanta | automobile maker dealers in city
+automobile maker : Honda | city : Philadelphia | automobile maker dealers in city
+automobile maker : Honda | city : Phoenix | automobile maker dealers in city
+automobile maker : Honda | city : Columbus | automobile maker dealers in city
+automobile maker : Honda | city : Peoria | automobile maker dealers in city
+automobile maker : Honda | city : South Minneapolis | automobile maker dealers in city
+automobile maker : Honda | city : Fort Lauderdale | automobile maker dealers in city
+automobile maker : Honda | city : Tampa | automobile maker dealers in city
+automobile maker : Honda | city : San Diego | automobile maker dealers in city
+automobile maker : Honda | geopolitical organization : Jacksonville | automobile maker dealers in city
+automobile maker : Honda | city : Kansas City | automobile maker dealers in city
+automobile maker : Honda | geopolitical location : Wilmington | automobile maker dealers in city
+automobile maker : Honda | geopolitical location : Fredericksburg | automobile maker dealers in city
+automobile maker : Honda | geopolitical location : Bakersfield | automobile maker dealers in city
+automobile maker : Honda | geopolitical location : San Luis Obispo | automobile maker dealers in city
+automobile maker : Honda | city : Houston | automobile maker dealers in city
+automobile maker : Toyota | city : Seattle | automobile maker dealers in city
+automobile maker : Toyota | city : Dallas | automobile maker dealers in city
+automobile maker : Toyota | city : Tucson | automobile maker dealers in city
+automobile maker : Toyota | city : Denver | automobile maker dealers in city
+automobile maker : Toyota | city : Chicago South | automobile maker dealers in city
+automobile maker : Toyota | city : Sacramento | automobile maker dealers in city
+automobile maker : Toyota | city : San Diego | automobile maker dealers in city
+automobile maker : Toyota | city : Portland | automobile maker dealers in city
+automobile maker : Toyota | county : Los Angeles Ca | automobile maker dealers in city
+automobile maker : Toyota | city : Houston | automobile maker dealers in city
+automobile maker : Audi | city : Chicago South | automobile maker dealers in city
+automobile maker : Nissan | city : Arlington | automobile maker dealers in city
+automobile maker : Nissan | city : Austin | automobile maker dealers in city
+automobile maker : Nissan | city : Phoenix's Arizona | automobile maker dealers in city
+automobile maker : Nissan | city : Abilene | automobile maker dealers in city
+automobile maker : Nissan | city : San Antonio | automobile maker dealers in city
+automobile maker : Nissan | city : Pasadena | automobile maker dealers in city
+automobile maker : Nissan | city : Tucson Arizona | automobile maker dealers in city
+automobile maker : Nissan | city : Spring | automobile maker dealers in city
+automobile maker : Nissan | city : Seattle | automobile maker dealers in city
+automobile maker : Nissan | city : Plano | automobile maker dealers in city
+automobile maker : Nissan | city : New Orleans | automobile maker dealers in city
+automobile maker : Nissan | city : Odessa | automobile maker dealers in city
+automobile maker : Nissan | city : Worcester | automobile maker dealers in city
+automobile maker : Nissan | city : Indianapolis | automobile maker dealers in city
+automobile maker : Nissan | city : Beaumont | automobile maker dealers in city
+automobile maker : Nissan | city : San Diego's California | automobile maker dealers in city
+automobile maker : Nissan | city : Boulder Colorado | automobile maker dealers in city
+automobile maker : Nissan | city : Mission | automobile maker dealers in city
+automobile maker : Nissan | city : Killeen | automobile maker dealers in city
+automobile maker : Nissan | city : Amarillo | automobile maker dealers in city
+automobile maker : Nissan | city : Antonio | automobile maker dealers in city
+automobile maker : Nissan | city : Tyler | automobile maker dealers in city
+automobile maker : Nissan | city : Brownsville | automobile maker dealers in city
+automobile maker : Nissan | city : Lubbock | automobile maker dealers in city
+automobile maker : Nissan | city : Atlanta Georgia | automobile maker dealers in city
+automobile maker : Nissan | city : Orlando's Florida | automobile maker dealers in city
+automobile maker : Nissan | city : Garland | automobile maker dealers in city
+automobile maker : Nissan | city : Los Angeles's California | automobile maker dealers in city
+automobile maker : Nissan | city : Philadelphia | automobile maker dealers in city
+automobile maker : Nissan | city : San Diego | automobile maker dealers in city
+automobile maker : Nissan | location : Avondale Arizona | automobile maker dealers in city
+automobile maker : Nissan | organization : Midland | automobile maker dealers in city
+automobile maker : Nissan | geopolitical location : Lunenburg | automobile maker dealers in city
+automobile maker : Nissan | city : Houston | automobile maker dealers in city
+automobile maker : Nissan | county : Miami's Florida | automobile maker dealers in city
+automobile maker : Daewoo | county : Los Angeles Ca | automobile maker dealers in city
+automobile maker : Dodge | city : Seattle | automobile maker dealers in city
+automobile maker : Dodge | city : Milwaukee | automobile maker dealers in city
+automobile maker : Dodge | city : San Diego | automobile maker dealers in city
+automobile maker : Dodge | city : Houston | automobile maker dealers in city
+automobile maker : Chevrolet | city : Seattle | automobile maker dealers in city
+automobile maker : Chevrolet | city : Dallas | automobile maker dealers in city
+automobile maker : Chevrolet | city : Indianapolis | automobile maker dealers in city
+automobile maker : Chevrolet | city : Denver | automobile maker dealers in city
+automobile maker : Chevrolet | city : Detroit | automobile maker dealers in city
+automobile maker : Chevrolet | city : Layton | automobile maker dealers in city
+automobile maker : Chevrolet | city : Milwaukee | automobile maker dealers in city
+automobile maker : Chevrolet | city : Oklahoma City | automobile maker dealers in city
+automobile maker : Chevrolet | city : Philadelphia | automobile maker dealers in city
+automobile maker : Chevrolet | city : Baltimore | automobile maker dealers in city
+automobile maker : Chevrolet | geopolitical location : Diego | automobile maker dealers in city
+automobile maker : Chevrolet | geopolitical location : Louisville | automobile maker dealers in city
+automobile maker : Chevrolet | city : Houston | automobile maker dealers in city
+athlete : Peter Moylan | body part : Shoulders | athlete injured his body part
+athlete : Peter Moylan | body part : Fingers001 | athlete injured his body part
+athlete : Peter Moylan | body part : Hand001 | athlete injured his body part
+person : Ricky | body part : Hand001 | athlete injured his body part
+person : Randy | body part : Hands | athlete injured his body part
+person : Randy | body part : Hand001 | athlete injured his body part
+athlete : Ray | body part : Shoulders | athlete injured his body part
+athlete : Ferguson | body part : Hand001 | athlete injured his body part
+athlete : Kenny | body part : Hands | athlete injured his body part
+person mexico : Sean Casey | body part : Hands | athlete injured his body part
+person mexico : Sean Casey | body part : Eyes001 | athlete injured his body part
+athlete : Steve | body part : Shoulders | athlete injured his body part
+athlete : Aidan | body part : Eyes001 | athlete injured his body part
+athlete : Lt's Joseph R's Hunt | body part : Hands | athlete injured his body part
+athlete : Lt's Joseph R's Hunt | body part : Eyes001 | athlete injured his body part
+athlete : Lt's Joseph R's Hunt | body part : Hand001 | athlete injured his body part
+athlete : Michael Lee | body part : Fingers001 | athlete injured his body part
+athlete : Michael Lee | body part : Eyes001 | athlete injured his body part
+athlete : Michael Lee | body part : Hand001 | athlete injured his body part
+athlete : Jason | body part : Shoulders | athlete injured his body part
+athlete : Jason | body part : Hands | athlete injured his body part
+athlete : Jason | body part : Fingers001 | athlete injured his body part
+athlete : Jeremy | body part : Hands | athlete injured his body part
+athlete : Jeremy | body part : Shoulders | athlete injured his body part
+athlete : Jeremy | body part : Hand001 | athlete injured his body part
+athlete : Big Show | body part : Hand001 | athlete injured his body part
+athlete : Patrick Roy | body part : Hand001 | athlete injured his body part
+person mexico : Luis | body part : Eyes001 | athlete injured his body part
+male : Scott | body part : Hands | athlete injured his body part
+male : Scott | body part : Hand001 | athlete injured his body part
+athlete : Henry | body part : Hands | athlete injured his body part
+person mexico : Brad Ziegler | body part : Hands | athlete injured his body part
+person mexico : Cliff Lee | body part : Hands | athlete injured his body part
+person mexico : Cliff Lee | body part : Hand001 | athlete injured his body part
+athlete : Michael | body part : Hands | athlete injured his body part
+athlete : Michael | body part : Fingers001 | athlete injured his body part
+athlete : Michael | body part : Eyes001 | athlete injured his body part
+person australia : Frank | body part : Hands | athlete injured his body part
+person australia : Frank | body part : Shoulders | athlete injured his body part
+person australia : Frank | body part : Fingers001 | athlete injured his body part
+person australia : Frank | body part : Eyes001 | athlete injured his body part
+athlete : Holliday | body part : Hand001 | athlete injured his body part
+person mexico : Brett Myers | body part : Eyes001 | athlete injured his body part
+person mexico : Dmitri Young | body part : Hand001 | athlete injured his body part
+person mexico : Paul Byrd | body part : Hand001 | athlete injured his body part
+person : Ben | body part : Hands | athlete injured his body part
+person : Ben | body part : Shoulders | athlete injured his body part
+person : Ben | body part : Fingers001 | athlete injured his body part
+person : Ben | body part : Hand001 | athlete injured his body part
+person mexico : Miller | body part : Hands | athlete injured his body part
+person mexico : Miller | body part : Hand001 | athlete injured his body part
+athlete : Ryan | body part : Hands | athlete injured his body part
+athlete : Ryan | body part : Eyes001 | athlete injured his body part
+athlete : Ryan | body part : Hand001 | athlete injured his body part
+person mexico : Jack Morris | body part : Eyes001 | athlete injured his body part
+person mexico : Jack Morris | body part : Hand001 | athlete injured his body part
+person : Clark001 | body part : Fingers001 | athlete injured his body part
+athlete : Gary | body part : Hands | athlete injured his body part
+athlete : Gary | body part : Hand001 | athlete injured his body part
+coach : Smith | body part : Hand001 | athlete injured his body part
+person : Terry | body part : Hands | athlete injured his body part
+person : Terry | body part : Hand001 | athlete injured his body part
+person north america : Roy Halladay | body part : Hands | athlete injured his body part
+athlete : Damon | body part : Hands | athlete injured his body part
+athlete : Williams | body part : Hand001 | athlete injured his body part
+person : Anthony | body part : Hands | athlete injured his body part
+person : Anthony | body part : Hand001 | athlete injured his body part
+person : Aaron | body part : Hands | athlete injured his body part
+person : Aaron | body part : Hand001 | athlete injured his body part
+city : Lancaster | person : Diana Greenough | geopolitical location residence of persion
+geopolitical location : Cheboygan | person : Terry Blaskowski | geopolitical location residence of persion
+geopolitical location : Cheboygan | person : Cheryl001 | geopolitical location residence of persion
+geopolitical location : Shaker Heights | politician us : Paul | geopolitical location residence of persion
+geopolitical location : Shaker Heights | person : Arthur001 | geopolitical location residence of persion
+city : Ypsilanti | person : Christine Moellering | geopolitical location residence of persion
+city : Ypsilanti | person : Mark Moellering | geopolitical location residence of persion
+visualiza ble scene : Hollywood | athlete : Woodward | geopolitical location residence of persion
+visualiza ble scene : Hollywood | person : Newman | geopolitical location residence of persion
+geopolitical location : Florida001 | person : Alex Sink | geopolitical location residence of persion
+geopolitical location : Florida001 | politician us : Charlie Crist | geopolitical location residence of persion
+country : France France | person : Kathleen | geopolitical location residence of persion
+county : Westport | athlete : Woodward | geopolitical location residence of persion
+county : Westport | person : Newman | geopolitical location residence of persion
+city : Havana | person : Fidel | geopolitical location residence of persion
+country : China | person : Guo Jingjing | geopolitical location residence of persion
+country : Arabia Saudita | person : Qusai Khidr | geopolitical location residence of persion
+city : Fresno | politician : Ashley Swearengin | geopolitical location residence of persion
+organization : Ghanian | politician : Kwame Nkrumah | geopolitical location residence of persion
+city : Edmonton | politician : Stephen Mandel | geopolitical location residence of persion
+city : Toronto | politician : Rob Ford | geopolitical location residence of persion
+country : United Arab Emirates | person : Mohammed Bin Rashid Al Maktoum | geopolitical location residence of persion
+geopolitical location : Dubai | person : Mohammed Bin Rashid Al Maktoum | geopolitical location residence of persion
+city : Concord | person : Rose | geopolitical location residence of persion
+geopolitical location : Mass | politician us : Edward J's Markey | geopolitical location residence of persion
+country : England | person : Kick | geopolitical location residence of persion
+country : Democratic Republic of Congo | person : Mukwege | geopolitical location residence of persion
+state or province : California | politician us : Arnold Schwarzenegger | geopolitical location residence of persion
+country : Soviet Union | person : Kick | geopolitical location residence of persion
+country : Spain | person us : Javier Bardem | geopolitical location residence of persion
+country : Spain | person : Lionel Messi | geopolitical location residence of persion
+country : U S | politician us : Barack Obama | geopolitical location residence of persion
+country : Tanzania | person : Julius Nyerere | geopolitical location residence of persion
+city : Denver | person us : Democratic | geopolitical location residence of persion
+state or province : Rhode Island | person : Republican | geopolitical location residence of persion
+geopolitical location : West Jordan | person : Larry I's Rougle | geopolitical location residence of persion
+city : Louisiana | person : Republican | geopolitical location residence of persion
+country : Mexico | person : Goffredo Marcaccini | geopolitical location residence of persion
+country : Mexico | person : Alix Goldsmith | geopolitical location residence of persion
+country : Mexico | politician : James Goldsmith | geopolitical location residence of persion
+country : Mexico | person : Lorena Ochoa | geopolitical location residence of persion
+country : Martinique | person : Aime Cesaire | geopolitical location residence of persion
+country : Cuba | person : Fidel | geopolitical location residence of persion
+country : Cuba | person : Fidel Castro001 | geopolitical location residence of persion
+state or province : Connecticut | person : Governor | geopolitical location residence of persion
+state or province : Connecticut | person : Republican | geopolitical location residence of persion
+state or province : Wisconsin | person : Republican | geopolitical location residence of persion
+city : Cleveland | person : Sills | geopolitical location residence of persion
+geopolitical location : Jalisco | person : Goffredo Marcaccini | geopolitical location residence of persion
+geopolitical location : Jalisco | person : Alix Goldsmith | geopolitical location residence of persion
+geopolitical location : Jalisco | politician : James Goldsmith | geopolitical location residence of persion
+state or province : New Hampshire | person : Republican | geopolitical location residence of persion
+city : Shanghai | politician : Han Zheng | geopolitical location residence of persion
+county : Utah | person : Larry I's Rougle | geopolitical location residence of persion
+country : Zimbabwe | person : Mugabe | geopolitical location residence of persion
+state or province : Utah | person : Republican | geopolitical location residence of persion
+county : London City | politician : Boris Johnson | geopolitical location residence of persion
+county : London City | politician us : Ken Livingstone | geopolitical location residence of persion
+organization : Chinese | person : Hua Guofeng | geopolitical location residence of persion
+state or province : Illinois | person : Senator | geopolitical location residence of persion
+state or province : Illinois | person : Representative | geopolitical location residence of persion
+state or province : Illinois | politician us : Barack Obama | geopolitical location residence of persion
+state or province : Illinois | politician us : U S's Sen | geopolitical location residence of persion
+state or province : Kentucky | person : Republican | geopolitical location residence of persion
+country : Zambia | person : Kenneth Kaunda | geopolitical location residence of persion
+county : Philadelphia | politician : Michael Nutter | geopolitical location residence of persion
+county : Philadelphia | person : Republican | geopolitical location residence of persion
+city : Alabama | person : Republican | geopolitical location residence of persion
+state or province : Iowa | person : Republican | geopolitical location residence of persion
+country : Israel | person : Sheetrit | geopolitical location residence of persion
+state or province : Nevada | person : Sig Rogich | geopolitical location residence of persion
+state or province : North Carolina | politician us : Jesse Helms | geopolitical location residence of persion
+state or province : North Carolina | person : Republican | geopolitical location residence of persion
+country : Brazil | director : Jose Padilha | geopolitical location residence of persion
+geopolitical location : Dorchester | person : Rose | geopolitical location residence of persion
+state or province : Tennessee | person : Republican | geopolitical location residence of persion
+organization : Zambian | person : Levy Mwanawasa | geopolitical location residence of persion
+state or province : Oklahoma | person : Republican | geopolitical location residence of persion
+organization : Italian | politician us : Silvio Berlusconi | geopolitical location residence of persion
+country : Sri Lanka | person : Arthur C's Clarke | geopolitical location residence of persion
+organization : Indian | person : V P's Singh | geopolitical location residence of persion
+city : Phoenix | person : Wes Gullett | geopolitical location residence of persion
+county : Los Angeles Ca | politician : Antonio Villaraigosa | geopolitical location residence of persion
+county : Los Angeles Ca | person : Richard Riordan | geopolitical location residence of persion
+city : Rome | politician : Walter Veltroni | geopolitical location residence of persion
+city : Rock | person : Stanley | geopolitical location residence of persion
+city : Nashville | politician : Bill Purcell | geopolitical location residence of persion
+city : Ohio | politician us : Paul | geopolitical location residence of persion
+city : Ohio | person : Arthur | geopolitical location residence of persion
+city : Ohio | person : Republican | geopolitical location residence of persion
+state or province : Fontana | person : Bryan A's Brewster | geopolitical location residence of persion
+organization : Indonesian | person : Suharto | geopolitical location residence of persion
+country : United States | person : Kick | geopolitical location residence of persion
+state or province : Michigan | politician us : John Engler | geopolitical location residence of persion
+city : D C | person : Republican | geopolitical location residence of persion
+state or province : New Mexico | politician us : Domenici | geopolitical location residence of persion
+island : Portland | journalist : Sam Adams | geopolitical location residence of persion
+city : Beijing | person : Guo Jingjing | geopolitical location residence of persion
+county : Seattle | coach : Wife | geopolitical location residence of persion
+city : Honolulu | politician : Mufi Hannemann | geopolitical location residence of persion
+geopolitical organization : Baltimore | politician : Sheila Dixon | geopolitical location residence of persion
+city : Chicago South | politician us : Richard M's Daley | geopolitical location residence of persion
+city : Chicago South | person : Republican | geopolitical location residence of persion
+city : South Minneapolis | person : Republican | geopolitical location residence of persion
+state or province : Virginia | person : Mildred Jeter Loving | geopolitical location residence of persion
+state or province : Virginia | person : Republican | geopolitical location residence of persion
+city : Milwaukee | politician us : Tom Barrett | geopolitical location residence of persion
+geopolitical location : Alaska001 | politician us : Frank H's Murkowski | geopolitical location residence of persion
+geopolitical location : Alaska001 | person : Sarah Palin | geopolitical location residence of persion
+state or province : Indiana | person : Republican | geopolitical location residence of persion
+state or province : Pennsylvania | person : Republican | geopolitical location residence of persion
+city : Nebraska | person : Republican | geopolitical location residence of persion
+city : Texas | person : Jeffrey D's Kettle | geopolitical location residence of persion
+city : Texas | politician us : Us Senator | geopolitical location residence of persion
+city : Texas | politician us : Tom Delay | geopolitical location residence of persion
+city : Texas | politician : Kent Hance | geopolitical location residence of persion
+country : Us | politician us : Jesse Helms | geopolitical location residence of persion
+country : Us | politician us : Barack Obama | geopolitical location residence of persion
+country : Us | person : President George | geopolitical location residence of persion
+city : Casablanca | person north america : Neil Bogart | geopolitical location residence of persion
+city : Detroit | coach : Dave Bing | geopolitical location residence of persion
+city : Detroit | politician us : John D's Dingell | geopolitical location residence of persion
+state or province : Massachusetts | person : Republican | geopolitical location residence of persion
+state or province : Wyoming | person : Republican | geopolitical location residence of persion
+state or province : West Virginia | person : Republican | geopolitical location residence of persion
+state or province : Tn | politician : Bill Purcell | geopolitical location residence of persion
+state or province : North Dakota | person : Republican | geopolitical location residence of persion
+city : Kansas | person : Republican | geopolitical location residence of persion
+state or province : Arizona | person : Morris K's Udall | geopolitical location residence of persion
+state or province : Arizona | person : Senator | geopolitical location residence of persion
+state or province : Arizona | person : Mr | geopolitical location residence of persion
+state or province : Arizona | person : Republican | geopolitical location residence of persion
+state or province : New Jersey | politician us : Woodrow Wilson | geopolitical location residence of persion
+city : London | person : Meg Rosoff | geopolitical location residence of persion
+city : London | politician : Boris Johnson | geopolitical location residence of persion
+city : London | politician us : Ken Livingstone | geopolitical location residence of persion
+state or province : Colorado | person : Republican | geopolitical location residence of persion
+organization : Southern African Country | criminal : Robert Mugabe | geopolitical location residence of persion
+state or province : Maryland | person : Republican | geopolitical location residence of persion
+state or province : Maine | person : Republican | geopolitical location residence of persion
+city : Georgia | person : Senator | geopolitical location residence of persion
+city : Georgia | politician us : U S's Sen | geopolitical location residence of persion
+city : Georgia | person : Republican | geopolitical location residence of persion
+politician us : Andrew Jackson | politician us : Clinton | politician us endorses politician us
+politician us : F's Kennedy | politician us : Abraham Lincoln | politician us endorses politician us
+visualiza ble scene : Kennedy | politician : Mccain | politician us endorses politician us
+politician us : Barbra Streisand | politician us : Clinton | politician us endorses politician us
+politician us : Presidential Candidate John Mccain | politician us : Palin | politician us endorses politician us
+politician us : Presidential Candidate John Mccain | politician us : Barack Obama | politician us endorses politician us
+politician us : Democratic Presidential Nominee Barack Obama | politician : Mccain | politician us endorses politician us
+politician us : Joe Biden | politician us : President Barack Obama | politician us endorses politician us
+politician us : Joe Biden | politician us : Clinton | politician us endorses politician us
+politician us : Joe Biden | politician : Mccain | politician us endorses politician us
+politician us : Joe Biden | politician us : Former President Bill Clinton | politician us endorses politician us
+politician us : Joe Biden | politician us : Barack Obama | politician us endorses politician us
+politician us : Barrack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Barrack Obama | politician : Mccain | politician us endorses politician us
+politician us : President George W's Bush | politician us : Gore | politician us endorses politician us
+politician us : President George W's Bush | politician us : Clinton | politician us endorses politician us
+politician us : President George W's Bush | politician : Mccain | politician us endorses politician us
+politician us : President George W's Bush | politician us : Condoleezza Rice | politician us endorses politician us
+politician us : President George W's Bush | politician us : Bush | politician us endorses politician us
+politician us : President George W's Bush | politician us : Dick Cheney | politician us endorses politician us
+politician us : President George W's Bush | politician us : John Kerry | politician us endorses politician us
+politician us : U S's President Bill Clinton | politician us : Clinton | politician us endorses politician us
+politician us : Senator Hillary Clinton | politician : Mccain | politician us endorses politician us
+politician us : Al Gore | politician us : Clinton | politician us endorses politician us
+politician us : Al Gore | politician us : Former President Bill Clinton | politician us endorses politician us
+politician us : Al Gore | politician us : Barack Obama | politician us endorses politician us
+politician us : Al Gore | politician us : John Kerry | politician us endorses politician us
+politician us : Al Gore | politician us : Bill Clinton | politician us endorses politician us
+politician us : Governor Sarah Palin | politician : Mccain | politician us endorses politician us
+politician us : Governor Sarah Palin | politician us : John Mccain | politician us endorses politician us
+politician us : Michael Moore | politician us : Clinton | politician us endorses politician us
+politician us : Sen's Mccain | politician us : Palin | politician us endorses politician us
+politician us : John Edwards | politician us : Clinton | politician us endorses politician us
+politician us : John Edwards | politician us : Barack Obama | politician us endorses politician us
+politician us : John Edwards | politician us : John Kerry | politician us endorses politician us
+politician us : Jesse Jackson | politician us : Clinton | politician us endorses politician us
+politician us : Michelle Obama | politician us : Clinton | politician us endorses politician us
+male : Gerald Ford | politician us : Bush | politician us endorses politician us
+politician us : Ted Kennedy | politician us : Clinton | politician us endorses politician us
+politician us : Senator Obama | politician us : Clinton | politician us endorses politician us
+politician us : Harry Reid | politician us : Clinton | politician us endorses politician us
+politician us : President Elect Obama | politician us : Clinton | politician us endorses politician us
+politician us : Condoleezza Rice | politician us : Clinton | politician us endorses politician us
+professor : Robert Kennedy | politician us : Clinton | politician us endorses politician us
+politician us : Rahm Emanuel | politician us : Clinton | politician us endorses politician us
+politician us : John F's Kennedy | politician us : Clinton | politician us endorses politician us
+politician us : Senator Clinton | politician us : Clinton | politician us endorses politician us
+politician us : John Mccain | politician us : Palin | politician us endorses politician us
+politician us : John Mccain | politician us : Gore | politician us endorses politician us
+politician us : John Mccain | politician : Gov's Sarah Palin | politician us endorses politician us
+politician us : John Mccain | politician us : Governor Sarah Palin | politician us endorses politician us
+politician us : John Mccain | politician us : Clinton | politician us endorses politician us
+politician us : John Mccain | politician : Mccain | politician us endorses politician us
+politician us : John Mccain | politician us : Nominee Barack Obama | politician us endorses politician us
+politician us : John Mccain | politician us : Romney | politician us endorses politician us
+politician us : John Mccain | politician us : Senator Barack Obama | politician us endorses politician us
+female : Hillary | politician us : Gore | politician us endorses politician us
+female : Hillary | politician us : Clinton | politician us endorses politician us
+politician us : Republican Presidential Nominee John Mccain | politician us : Palin | politician us endorses politician us
+politician us : Romney | politician us : Clinton | politician us endorses politician us
+politician us : Jimmy Carter | politician us : President Bush | politician us endorses politician us
+politician us : Jimmy Carter | politician us : Bush | politician us endorses politician us
+politician us : Jimmy Carter | politician us : President Gerald Ford | politician us endorses politician us
+politician us : Defense Secretary Donald Rumsfeld | politician us : Condoleezza Rice | politician us endorses politician us
+politician us : George H's W's Bush | politician us : President Ronald Reagan | politician us endorses politician us
+politician us : Clinton | politician us : Abraham Lincoln | politician us endorses politician us
+politician us : Clinton | female : Hillary | politician us endorses politician us
+politician us : Clinton | politician us : Jon Stewart | politician us endorses politician us
+politician us : Clinton | politician us : Michael Moore | politician us endorses politician us
+politician us : Clinton | politician us : Gloria Steinem | politician us endorses politician us
+politician us : Clinton | celebrity : Colin Powell | politician us endorses politician us
+politician us : Clinton | politician us : Huckabee | politician us endorses politician us
+politician us : Clinton | politician us : Bill Bradley | politician us endorses politician us
+politician us : Clinton | politician us : Gore | politician us endorses politician us
+politician us : Clinton | politician us : Barrack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Charles Schumer | politician us endorses politician us
+politician us : Clinton | politician us : President Bush | politician us endorses politician us
+politician us : Clinton | politician us : Bill Richardson | politician us endorses politician us
+politician us : Clinton | politician us : Chris Dodd | politician us endorses politician us
+politician us : Clinton | politician us : Richard Nixon | politician us endorses politician us
+politician us : Clinton | politician us : Wesley Clark | politician us endorses politician us
+politician us : Clinton | politician us : President Clinton | politician us endorses politician us
+politician us : Clinton | politician us : Howard Dean | politician us endorses politician us
+politician us : Clinton | politician us : President Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Candidate Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Former President Bush | politician us endorses politician us
+politician us : Clinton | politician : Mccain | politician us endorses politician us
+politician us : Clinton | politician us : George H's W's Bush | politician us endorses politician us
+politician us : Clinton | politician us : Bob Dole | politician us endorses politician us
+politician us : Clinton | politician us : Senator Kerry | politician us endorses politician us
+politician us : Clinton | politician us : Condoleezza Rice | politician us endorses politician us
+politician us : Clinton | politician us : Senator Obama | politician us endorses politician us
+politician us : Clinton | politician : President Barack | politician us endorses politician us
+politician us : Clinton | politician us : Fred Thompson | politician us endorses politician us
+politician us : Clinton | politician us : Senator Clinton | politician us endorses politician us
+politician us : Clinton | politician us : Jesse Jackson | politician us endorses politician us
+politician us : Clinton | politician us : Tipper Gore | politician us endorses politician us
+politician us : Clinton | politician us : Former President Bill Clinton | politician us endorses politician us
+politician us : Clinton | politician us : Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : U S's President Bill Clinton | politician us endorses politician us
+politician us : Clinton | politician us : President George H's Bush | politician us endorses politician us
+politician us : Clinton | politician us : Caroline Kennedy | politician us endorses politician us
+politician us : Clinton | politician us : Senator Joe Biden | politician us endorses politician us
+politician us : Clinton | politician : Former President Clinton | politician us endorses politician us
+politician us : Clinton | politician us : Joe Biden | politician us endorses politician us
+politician us : Clinton | politician us : Nominee Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Democratic Presidential Candidate Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Former President George Bush | politician us endorses politician us
+politician us : Clinton | politician us : Laura Bush | politician us endorses politician us
+politician us : Clinton | politician us : Romney | politician us endorses politician us
+politician us : Clinton | politician us : President Elect Obama | politician us endorses politician us
+politician us : Clinton | politician us : Presidential Candidate Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Barack Hussein | politician us endorses politician us
+politician us : Clinton | politician us : Bush | politician us endorses politician us
+politician us : Clinton | politician us : Joe Lieberman | politician us endorses politician us
+politician us : Clinton | politician us : Rudy Giuliani | politician us endorses politician us
+politician us : Clinton | politician us : John F's Kennedy | politician us endorses politician us
+politician us : Clinton | politician us : Senator Hillary Clinton | politician us endorses politician us
+politician us : Clinton | politician us : Senator Mccain | politician us endorses politician us
+politician us : Clinton | politician us : John Mccain | politician us endorses politician us
+politician us : Clinton | politician us : Sen's Barack | politician us endorses politician us
+politician us : Clinton | politician us : Barack | politician us endorses politician us
+politician us : Clinton | politician us : Candidates Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : President George W's Bush | politician us endorses politician us
+politician us : Clinton | politician us : Martin Luther King | politician us endorses politician us
+politician us : Clinton | politician us : George Washington | politician us endorses politician us
+politician us : Clinton | politician us : President Jimmy Carter | politician us endorses politician us
+politician us : Clinton | politician us : George W Bush | politician us endorses politician us
+politician us : Clinton | politician us : President Elect Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Barney Frank | politician us endorses politician us
+politician us : Clinton | politician us : Ted Kennedy | politician us endorses politician us
+politician us : Clinton | politician us : Eliot Spitzer | politician us endorses politician us
+politician us : Clinton | politician us : Al Gore | politician us endorses politician us
+politician us : Clinton | politician us : Harry Reid | politician us endorses politician us
+politician us : Clinton | politician us : Sen's Barack Obama | politician us endorses politician us
+politician us : Clinton | politician us : Michael Jordan | politician us endorses politician us
+politician us : Clinton | politician us : Harry Truman | politician us endorses politician us
+politician us : Clinton | politician us : Mark Warner | politician us endorses politician us
+politician us : Clinton | politician us : Mike Huckabee | politician us endorses politician us
+politician us : Clinton | politician us : Hillary Rodham Clinton | politician us endorses politician us
+politician us : John Ashcroft | politician us : Bush | politician us endorses politician us
+politician us : Mr's Mccain | politician us : Palin | politician us endorses politician us
+politician us : Ronald Reagan | politician us : Bush | politician us endorses politician us
+politician us : Ronald Reagan | politician us : President Gerald Ford | politician us endorses politician us
+politician us : Wesley Clark | politician us : Clinton | politician us endorses politician us
+politician us : Wesley Clark | politician us : Hillary Clinton | politician us endorses politician us
+politician us : James Baker | politician us : Bush | politician us endorses politician us
+politician us : Former President Bill Clinton | politician us : Gore | politician us endorses politician us
+politician us : Former President Bill Clinton | politician us : Clinton | politician us endorses politician us
+politician us : Former President Bill Clinton | politician us : Bush | politician us endorses politician us
+politician us : Former President Bill Clinton | politician us : Al Gore | politician us endorses politician us
+politician us : Bill Richardson | politician us : Clinton | politician us endorses politician us
+politician us : Democratic Presidential Candidate Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Richard Nixon | politician us : Clinton | politician us endorses politician us
+politician us : Richard Nixon | visualiza ble scene : Kennedy | politician us endorses politician us
+politician : Former President Clinton | politician us : Gore | politician us endorses politician us
+politician : Former President Clinton | politician us : Clinton | politician us endorses politician us
+politician : Former President Clinton | politician us : Bush | politician us endorses politician us
+politician us : President Clinton | politician us : Clinton | politician us endorses politician us
+politician us : President Clinton | politician us : Bush | politician us endorses politician us
+politician us : President Clinton | politician us : Al Gore | politician us endorses politician us
+politician us : Hillary Clinton | politician us : Gore | politician us endorses politician us
+politician us : Hillary Clinton | politician us : Clinton | politician us endorses politician us
+politician us : Hillary Clinton | politician : Mccain | politician us endorses politician us
+politician us : Hillary Clinton | politician us : Barack Obama | politician us endorses politician us
+politician us : Hillary Clinton | politician us : President Obama | politician us endorses politician us
+politician us : Hillary Clinton | politician us : Romney | politician us endorses politician us
+politician us : Herman Cain | politician us : Romney | politician us endorses politician us
+politician us : Presidents Reagan | politician us : Bush | politician us endorses politician us
+politician us : Senator Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Senator Barack Obama | politician : Mccain | politician us endorses politician us
+politician us : Nominee Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Nominee Barack Obama | politician : Mccain | politician us endorses politician us
+politician us : George W Bush | politician us : Gore | politician us endorses politician us
+politician us : George W Bush | politician us : Clinton | politician us endorses politician us
+politician us : George W Bush | politician : Mccain | politician us endorses politician us
+celebrity : Colin Powell | politician us : Clinton | politician us endorses politician us
+celebrity : Colin Powell | politician : Mccain | politician us endorses politician us
+celebrity : Colin Powell | politician us : Bush | politician us endorses politician us
+politician us : President Bush | politician us : Palin | politician us endorses politician us
+politician us : President Bush | politician us : Gore | politician us endorses politician us
+politician us : President Bush | politician us : Clinton | politician us endorses politician us
+politician us : President Bush | politician us : Condoleezza Rice | politician us endorses politician us
+politician : Alaska Gov's Sarah Palin | politician : Mccain | politician us endorses politician us
+politician us : Bill Clinton | politician us : Gore | politician us endorses politician us
+politician us : Bill Clinton | politician us : State Hillary Clinton | politician us endorses politician us
+politician us : Bill Clinton | politician us : Clinton | politician us endorses politician us
+politician us : Bill Clinton | politician us : President George H's W's Bush | politician us endorses politician us
+politician us : Bill Clinton | politician us : Hillary Clinton | politician us endorses politician us
+politician us : Bill Clinton | politician us : Bush | politician us endorses politician us
+politician us : Bill Clinton | politician us : President George W's Bush | politician us endorses politician us
+politician us : Bill Clinton | politician us : Al Gore | politician us endorses politician us
+politician us : Caroline Kennedy | politician us : Clinton | politician us endorses politician us
+politician us : Caroline Kennedy | politician us : Barack Obama | politician us endorses politician us
+politician us : Hopeful Barack Obama | politician : Mccain | politician us endorses politician us
+politician us : Rick Santorum | politician us : Romney | politician us endorses politician us
+politician us : President George Bush | politician us : Clinton | politician us endorses politician us
+politician us : President George Bush | politician : Mccain | politician us endorses politician us
+politician us : Alaska Governor Sarah Palin | politician : Mccain | politician us endorses politician us
+politician us : Barack Obama | politician us : Palin | politician us endorses politician us
+politician us : Barack Obama | politician us : Gore | politician us endorses politician us
+politician us : Barack Obama | politician us : Rick Santorum | politician us endorses politician us
+politician us : Barack Obama | politician us : Senator John Mccain | politician us endorses politician us
+politician us : Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Barack Obama | politician : Mccain | politician us endorses politician us
+politician us : Barack Obama | politician us : Former President Bill Clinton | politician us endorses politician us
+politician us : Barack Obama | politician us : Joe Biden | politician us endorses politician us
+politician us : Barack Obama | politician us : Mitt Romney | politician us endorses politician us
+politician us : Barack Obama | politician us : Romney | politician us endorses politician us
+politician us : Laura Bush | politician us : Clinton | politician us endorses politician us
+politician us : President Elect Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : President Elect Barack Obama | politician : Mccain | politician us endorses politician us
+politician us : Lyndon Johnson | visualiza ble scene : Kennedy | politician us endorses politician us
+politician us : Gore | female : Hillary | politician us endorses politician us
+politician us : Gore | politician us : President Bush | politician us endorses politician us
+politician us : Gore | politician us : Vice President Cheney | politician us endorses politician us
+politician us : Gore | politician us : Clinton | politician us endorses politician us
+politician us : Gore | politician us : Former President Bill Clinton | politician us endorses politician us
+politician us : Gore | politician : Former President Clinton | politician us endorses politician us
+politician us : Gore | politician us : Hillary Clinton | politician us endorses politician us
+politician us : Gore | politician us : Bill | politician us endorses politician us
+politician us : Gore | politician us : President Jimmy Carter | politician us endorses politician us
+politician us : Gore | politician us : Bill Clinton | politician us endorses politician us
+politician us : Senator Kerry | politician us : Clinton | politician us endorses politician us
+politician us : Bush | female : Hillary | politician us endorses politician us
+politician us : Bush | politician us : Michael Moore | politician us endorses politician us
+politician us : Bush | celebrity : Colin Powell | politician us endorses politician us
+politician us : Bush | astronaut : Herbert Hoover | politician us endorses politician us
+politician us : Bush | politician us : President Bush | politician us endorses politician us
+politician us : Bush | politician us : President Clinton | politician us endorses politician us
+politician us : Bush | politician us : Senator John Mccain | politician us endorses politician us
+politician us : Bush | politician us : Vice President Al Gore | politician us endorses politician us
+politician us : Bush | politician us : Former President Bush | politician us endorses politician us
+politician us : Bush | politician us : Clinton | politician us endorses politician us
+politician us : Bush | politician us : Senator John Kerry | politician us endorses politician us
+politician us : Bush | politician us : Senator Kerry | politician us endorses politician us
+politician us : Bush | politician us : Senator Clinton | politician us endorses politician us
+politician us : Bush | politician us : Karl Rove | politician us endorses politician us
+politician us : Bush | politician us : President George Bush | politician us endorses politician us
+politician us : Bush | politician us : Former President Bill Clinton | politician us endorses politician us
+politician us : Bush | politician us : Lieberman | politician us endorses politician us
+politician us : Bush | politician us : Ronald Reagan | politician us endorses politician us
+politician us : Bush | politician us : Vice President Dick Cheney | politician us endorses politician us
+politician us : Bush | politician : Former President Clinton | politician us endorses politician us
+politician us : Bush | politician us : Former President George Bush | politician us endorses politician us
+politician us : Bush | politician us : Santorum | politician us endorses politician us
+politician us : Bush | politician us : Mitt Romney | politician us endorses politician us
+politician us : Bush | politician us : President Elect Obama | politician us endorses politician us
+politician us : Bush | politician us : George W's Bush | politician us endorses politician us
+politician us : Bush | politician us : Rudy Giuliani | politician us endorses politician us
+politician us : Bush | politician us : Dick Cheney | politician us endorses politician us
+politician us : Bush | politician us : John Ashcroft | politician us endorses politician us
+politician us : Bush | politician us : Senator Mccain | politician us endorses politician us
+politician us : Bush | politician us : John Mccain | politician us endorses politician us
+politician us : Bush | politician us : Jeb Bush | politician us endorses politician us
+politician us : Bush | politician us : President George W's Bush | politician us endorses politician us
+politician us : Bush | politician us : President Jimmy Carter | politician us endorses politician us
+politician us : Bush | politician us : Donald Rumsfeld | politician us endorses politician us
+politician us : Bush | politician us : John Kerry | politician us endorses politician us
+politician us : Bush | politician us : Al Gore | politician us endorses politician us
+politician us : Bush | politician us : Bill Clinton | politician us endorses politician us
+politician us : Bill | politician us : Gore | politician us endorses politician us
+politician us : Candidate Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Bradley | politician us : Al Gore | politician us endorses politician us
+politician us : Eliot Spitzer | politician us : Clinton | politician us endorses politician us
+person us : Donald Trump | politician us : Romney | politician us endorses politician us
+politician us : Gloria Steinem | politician us : Clinton | politician us endorses politician us
+politician us : President Jimmy Carter | politician us : Gore | politician us endorses politician us
+politician us : Tipper Gore | politician us : Clinton | politician us endorses politician us
+politician us : Senator John Mccain | politician us : Palin | politician us endorses politician us
+politician us : Senator John Mccain | politician us : Governor Sarah Palin | politician us endorses politician us
+politician us : Senator John Mccain | politician us : Sarah Palin | politician us endorses politician us
+politician us : Senator John Mccain | politician us : Romney | politician us endorses politician us
+politician us : Candidates Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Senator Mccain | politician us : Palin | politician us endorses politician us
+politician us : Senator Mccain | politician us : Clinton | politician us endorses politician us
+politician us : Senator Mccain | politician us : Sarah Palin | politician us endorses politician us
+politician us : Senator Mccain | politician us : Romney | politician us endorses politician us
+politician us : Senator Mccain | politician us : Bush | politician us endorses politician us
+politician us : Dwight Eisenhower | visualiza ble scene : Kennedy | politician us endorses politician us
+politician us : Howard Dean | politician us : Clinton | politician us endorses politician us
+politician us : Democrat Barack Obama | politician : Mccain | politician us endorses politician us
+politician : Mccain | politician us : Palin | politician us endorses politician us
+politician : Mccain | politician : Gov's Sarah Palin | politician us endorses politician us
+politician : Mccain | politician us : Democrat Obama | politician us endorses politician us
+politician : Mccain | politician us : Barrack Obama | politician us endorses politician us
+politician : Mccain | politician us : Governor Sarah Palin | politician us endorses politician us
+politician : Mccain | politician us : Candidate Barack Obama | politician us endorses politician us
+politician : Mccain | politician us : Clinton | politician us endorses politician us
+politician : Mccain | politician us : Senator Obama | politician us endorses politician us
+politician : Mccain | politician us : Fred Thompson | politician us endorses politician us
+politician : Mccain | politician us : Nominee Barack Obama | politician us endorses politician us
+politician : Mccain | politician us : Democratic Presidential Candidate Barack Obama | politician us endorses politician us
+politician : Mccain | politician us : Presidential Candidate Barack Obama | politician us endorses politician us
+politician : Mccain | politician us : Joe Lieberman | politician us endorses politician us
+politician : Mccain | politician us : Dick Cheney | politician us endorses politician us
+politician : Mccain | politician us : President George W's Bush | politician us endorses politician us
+politician : Mccain | politician us : President Elect Barack Obama | politician us endorses politician us
+politician : Mccain | politician us : Democrat Barack Obama | politician us endorses politician us
+politician us : Vice President Al Gore | politician us : Clinton | politician us endorses politician us
+female : Elizabeth Dole | politician us : Clinton | politician us endorses politician us
+politician us : Charles Schumer | politician us : Clinton | politician us endorses politician us
+politician us : Hillary Rodham Clinton | politician us : Clinton | politician us endorses politician us
+politician us : Hillary Rodham Clinton | politician : Mccain | politician us endorses politician us
+politician us : Hillary Rodham Clinton | politician us : Senator Barack Obama | politician us endorses politician us
+politician : Gov's Sarah Palin | politician : Mccain | politician us endorses politician us
+politician : Gov's Sarah Palin | politician us : John Mccain | politician us endorses politician us
+politician us : Bill Bradley | politician us : Vice President Al Gore | politician us endorses politician us
+politician us : Bill Bradley | politician us : Clinton | politician us endorses politician us
+politician us : Tim Pawlenty | politician us : Romney | politician us endorses politician us
+politician us : Joe Lieberman | politician us : Clinton | politician us endorses politician us
+politician us : Joe Lieberman | politician : Mccain | politician us endorses politician us
+politician us : Lindsey Graham | politician : Mccain | politician us endorses politician us
+politician us : Democrat Obama | politician : Mccain | politician us endorses politician us
+celebrity : Hilary Clinton | politician : Mccain | politician us endorses politician us
+politician us : Mike Huckabee | politician us : Clinton | politician us endorses politician us
+politician us : Mike Huckabee | politician : Mccain | politician us endorses politician us
+politician us : Mike Huckabee | politician us : Romney | politician us endorses politician us
+politician us : Fred Thompson | politician us : Clinton | politician us endorses politician us
+politician us : Fred Thompson | politician : Mccain | politician us endorses politician us
+politician us : Fred Thompson | politician us : John Mccain | politician us endorses politician us
+politician us : John Kerry | politician us : Gore | politician us endorses politician us
+politician us : John Kerry | politician us : President Bush | politician us endorses politician us
+politician us : John Kerry | politician us : President George W Bush | politician us endorses politician us
+politician us : John Kerry | politician us : John Edwards | politician us endorses politician us
+politician us : John Kerry | politician us : Bush | politician us endorses politician us
+politician us : John Kerry | politician us : Al Gore | politician us endorses politician us
+politician us : President Obama | politician us : Hillary Clinton | politician us endorses politician us
+politician us : Rudy Giuliani | politician us : Clinton | politician us endorses politician us
+politician us : Rudy Giuliani | politician : Mccain | politician us endorses politician us
+politician us : Rudy Giuliani | politician us : Romney | politician us endorses politician us
+politician us : Rudy Giuliani | politician us : John Mccain | politician us endorses politician us
+politician us : Arnold Schwarzenegger | politician us : Clinton | politician us endorses politician us
+politician us : Madeleine Albright | politician us : Clinton | politician us endorses politician us
+politician us : Sen's Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Senators Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Palin | politician us : Mr's Mccain | politician us endorses politician us
+politician us : Palin | politician us : Sen's Mccain | politician us endorses politician us
+politician us : Palin | politician us : President Bush | politician us endorses politician us
+politician us : Palin | politician us : Senator John Mccain | politician us endorses politician us
+politician us : Palin | politician us : Clinton | politician us endorses politician us
+politician us : Palin | politician : Mccain | politician us endorses politician us
+politician us : Palin | politician us : President Obama | politician us endorses politician us
+politician us : Palin | politician us : Presidential Candidate John Mccain | politician us endorses politician us
+politician us : Palin | politician us : Romney | politician us endorses politician us
+politician us : Palin | politician us : Senator Mccain | politician us endorses politician us
+politician us : Palin | politician us : John Mccain | politician us endorses politician us
+politician us : Palin | politician us : Republican Presidential Nominee John Mccain | politician us endorses politician us
+politician us : Palin | politician us : Presidential Nominee John Mccain | politician us endorses politician us
+politician us : Barney Frank | politician us : Clinton | politician us endorses politician us
+politician us : President Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Presidential Nominee John Mccain | politician us : Palin | politician us endorses politician us
+politician us : Abraham Lincoln | politician us : Clinton | politician us endorses politician us
+politician us : Abraham Lincoln | politician us : F's Kennedy | politician us endorses politician us
+politician us : Jeb Bush | politician us : Romney | politician us endorses politician us
+politician us : George H W's Bush | politician us : President Ronald Reagan | politician us endorses politician us
+politician us : Sarah Palin | politician us : Palin | politician us endorses politician us
+politician us : Sarah Palin | politician us : Senator John Mccain | politician us endorses politician us
+politician us : Sarah Palin | politician us : Clinton | politician us endorses politician us
+politician us : Sarah Palin | politician : Mccain | politician us endorses politician us
+politician us : Sarah Palin | politician us : Presidential Candidate John Mccain | politician us endorses politician us
+politician us : Sarah Palin | politician us : Senator Mccain | politician us endorses politician us
+politician us : Sarah Palin | politician us : John Mccain | politician us endorses politician us
+politician us : Mark Warner | politician us : Clinton | politician us endorses politician us
+politician us : Huckabee | politician us : Clinton | politician us endorses politician us
+politician us : Former President Bush | politician us : Clinton | politician us endorses politician us
+politician us : Harry Truman | politician us : Clinton | politician us endorses politician us
+politician us : Dick Cheney | politician us : President Bush | politician us endorses politician us
+politician us : Dick Cheney | politician : Mccain | politician us endorses politician us
+politician us : Dick Cheney | politician us : Bush | politician us endorses politician us
+politician us : Dick Cheney | politician us : John Mccain | politician us endorses politician us
+politician us : Dick Cheney | politician us : President George W's Bush | politician us endorses politician us
+politician us : George W's Bush | politician us : President Clinton | politician us endorses politician us
+politician us : George W's Bush | politician us : President Ronald Reagan | politician us endorses politician us
+politician us : George W's Bush | politician us : Vice President Al Gore | politician us endorses politician us
+politician us : George W's Bush | politician us : Former President Bill Clinton | politician us endorses politician us
+politician us : George W's Bush | politician us : Ronald Reagan | politician us endorses politician us
+politician us : George W's Bush | politician us : President Obama | politician us endorses politician us
+politician us : George W's Bush | politician us : Dick Cheney | politician us endorses politician us
+politician us : Mitt Romney | politician : Mccain | politician us endorses politician us
+politician us : Mitt Romney | politician us : Romney | politician us endorses politician us
+politician us : Presidential Candidate Barack Obama | politician us : Clinton | politician us endorses politician us
+politician us : Presidential Candidate Barack Obama | politician : Mccain | politician us endorses politician us
+politician us : Bob Dole | politician us : Clinton | politician us endorses politician us
+politician us : Chris Dodd | politician us : Clinton | politician us endorses politician us
+politician us : Chris Dodd | politician us : Barack Obama | politician us endorses politician us
+insect : Marine Life | arthropod : Crustaceans | animal such as invertebrate
+insect : Marine Life | arthropod : Sponges | animal such as invertebrate
+insect : Marine Life | insect : Crabs | animal such as invertebrate
+insect : Marine Life | invertebrate : Clams | animal such as invertebrate
+insect : Marine Life | invertebrate : Corals | animal such as invertebrate
+insect : Green Lacewings | insect : Insects | animal such as invertebrate
+invertebrate : Sandflies | insect : Insects | animal such as invertebrate
+insect : No See Ums | insect : Insects | animal such as invertebrate
+insect : Whiteflies | insect : Insects | animal such as invertebrate
+insect : Whiteflies | insect : Pests | animal such as invertebrate
+arthropod : Insect Larvae | insect : Invertebrates | animal such as invertebrate
+crustacean : Shrimp | arthropod : Crustaceans | animal such as invertebrate
+crustacean : Shrimp | arthropod : Shellfish | animal such as invertebrate
+mammal : Shrews | insect : Small Mammals | animal such as invertebrate
+animal : Animals001 | animal : Possums | animal such as invertebrate
+animal : Animals001 | arachnid : Butterflies | animal such as invertebrate
+animal : Animals001 | insect : Ground Squirrels | animal such as invertebrate
+animal : Animals001 | arthropod : Crustaceans | animal such as invertebrate
+animal : Animals001 | arthropod : Sponges | animal such as invertebrate
+animal : Animals001 | arthropod : Raccoons | animal such as invertebrate
+animal : Animals001 | arthropod : Opossums | animal such as invertebrate
+animal : Animals001 | animal : Fleas001 | animal such as invertebrate
+animal : Animals001 | insect : Beetles | animal such as invertebrate
+animal : Animals001 | insect : Ants | animal such as invertebrate
+animal : Animals001 | arthropod : Spiders | animal such as invertebrate
+animal : Animals001 | animal : Hedgehogs001 | animal such as invertebrate
+animal : Animals001 | insect : Bugs | animal such as invertebrate
+animal : Animals001 | insect : Flies | animal such as invertebrate
+animal : Animals001 | invertebrate : Clams | animal such as invertebrate
+animal : Animals001 | insect : Snails | animal such as invertebrate
+animal : Animals001 | invertebrate : Moles | animal such as invertebrate
+animal : Animals001 | invertebrate : Worms | animal such as invertebrate
+animal : Animals001 | insect : Insects | animal such as invertebrate
+animal : Animals001 | crustacean : Mollusks | animal such as invertebrate
+animal : Animals001 | insect : Termites | animal such as invertebrate
+animal : Animals001 | invertebrate : Corals | animal such as invertebrate
+animal : Animals001 | animal : Cattle | animal such as invertebrate
+animal : Animals001 | arachnid : Scorpions | animal such as invertebrate
+animal : Animals001 | invertebrate : Slugs | animal such as invertebrate
+animal : Animals001 | animal : Deer001 | animal such as invertebrate
+arthropod : Seafood | insect : Crabs | animal such as invertebrate
+arthropod : Seafood | crustacean : Lobsters | animal such as invertebrate
+insect : Black Flies | insect : Insects | animal such as invertebrate
+insect : Yellow Jackets | insect : Insects | animal such as invertebrate
+arthropod : Crustaceans | insect : Crabs | animal such as invertebrate
+arthropod : Crustaceans | insect : Invertebrates | animal such as invertebrate
+arthropod : Crustaceans | crustacean : Lobsters | animal such as invertebrate
+arthropod : Crustaceans | arthropod : Shrimps | animal such as invertebrate
+animal : Vertebrates | invertebrate : Mammals | animal such as invertebrate
+animal : Vertebrates | animal : Reptiles002 | animal such as invertebrate
+insect : Grubs | insect : Pests | animal such as invertebrate
+animal : Sea Creatures | arthropod : Sponges | animal such as invertebrate
+animal : Sea Creatures | invertebrate : Clams | animal such as invertebrate
+animal : Sea Creatures | invertebrate : Corals | animal such as invertebrate
+animal : Sea Creatures | invertebrate : Jellyfish | animal such as invertebrate
+animal : Microorganisms | insect : Earthworms | animal such as invertebrate
+insect : Gnats | animal : Small Insects | animal such as invertebrate
+insect : Gnats | insect : Bugs | animal such as invertebrate
+insect : Gnats | insect : Insects | animal such as invertebrate
+insect : Insect Pests | insect : Mites | animal such as invertebrate
+insect : Insect Pests | insect : Flies | animal such as invertebrate
+insect : Insect Pests | insect : Aphids | animal such as invertebrate
+insect : Blackflies | insect : Insects | animal such as invertebrate
+insect : Crickets | insect : Insects | animal such as invertebrate
+invertebrate : Nematodes | insect : Pests | animal such as invertebrate
+animal : Stoats | insect : Pests | animal such as invertebrate
+insect : Lacewings | insect : Insects | animal such as invertebrate
+insect : Lacewings | insect : Beneficial Insects | animal such as invertebrate
+animal : Big Game Animals | animal : Deer001 | animal such as invertebrate
+invertebrate : Molluscs | arthropod : Oysters | animal such as invertebrate
+arthropod : Shellfish | invertebrate : Clams | animal such as invertebrate
+arthropod : Shellfish | invertebrate : Scallops | animal such as invertebrate
+insect : Earthworms | insect : Insects | animal such as invertebrate
+insect : Pests | arthropod : Houseflies | animal such as invertebrate
+insect : Pests | crustacean : Lice | animal such as invertebrate
+insect : Pests | arthropod : White Flies | animal such as invertebrate
+insect : Pests | arthropod : Spiders | animal such as invertebrate
+insect : Pests | invertebrate : Nematodes | animal such as invertebrate
+insect : Pests | insect : Snails | animal such as invertebrate
+insect : Pests | insect : Insects | animal such as invertebrate
+insect : Pests | invertebrate : Slugs | animal such as invertebrate
+insect : Pests | invertebrate : Crickets | animal such as invertebrate
+mammal : Rats | insect : Small Mammals | animal such as invertebrate
+insect : Mayflies | insect : Insects | animal such as invertebrate
+insect : Lady Beetles | insect : Insects | animal such as invertebrate
+crustacean : Black Worms | crustacean : Shrimp | animal such as invertebrate
+insect : Caterpillars | insect : Bugs | animal such as invertebrate
+insect : Caterpillars | insect : Pests | animal such as invertebrate
+mammal : Farm Animals | animal : Cattle | animal such as invertebrate
+arthropod : White Flies | insect : Pests | animal such as invertebrate
+mammal : Bats | arthropod : Pollinators | animal such as invertebrate
+mammal : Bats | invertebrate : Mammals | animal such as invertebrate
+mammal : Bats | insect : Small Mammals | animal such as invertebrate
+animal : Ungulates | animal : Deer001 | animal such as invertebrate
+animal : Social Insects | insect : Wasps | animal such as invertebrate
+crustacean : Daphnia | crustacean : Shrimp | animal such as invertebrate
+animal : Birds003 | arthropod : Pollinators | animal such as invertebrate
+animal : Birds003 | insect : Sparrows | animal such as invertebrate
+insect : Snails | insect : Invertebrates | animal such as invertebrate
+insect : Flies | insect : Ants | animal such as invertebrate
+insect : Flies | insect : Bugs | animal such as invertebrate
+insect : Flies | insect : Insects | animal such as invertebrate
+insect : Flies | insect : Pests | animal such as invertebrate
+insect : Flies | insect : Midges | animal such as invertebrate
+insect : Fleas | insect : Insects | animal such as invertebrate
+insect : Fleas | insect : Pests | animal such as invertebrate
+insect : Jackets | insect : Insects | animal such as invertebrate
+insect : Midges | insect : Flies | animal such as invertebrate
+insect : Midges | insect : Insects | animal such as invertebrate
+insect : Midges | insect : Pests | animal such as invertebrate
+insect : Mealworms | insect : Insects | animal such as invertebrate
+crustacean : Brine Shrimp | crustacean : Shrimp | animal such as invertebrate
+animal : Rare Animals | animal : Deer001 | animal such as invertebrate
+animal : Large Animals | animal : Cattle | animal such as invertebrate
+invertebrate : Slugs | insect : Garden Pests | animal such as invertebrate
+invertebrate : Slugs | insect : Insects | animal such as invertebrate
+crustacean : Maine Lobster | crustacean : Lobsters | animal such as invertebrate
+arthropod : Pollinators | arachnid : Butterflies | animal such as invertebrate
+arthropod : Pollinators | insect : Insects | animal such as invertebrate
+arthropod : Pollinators | animal : Moths001 | animal such as invertebrate
+mammal : Predators | insect : Larvae | animal such as invertebrate
+mammal : Predators | arthropod : Spiders | animal such as invertebrate
+mammal : Predators | insect : Lacewings | animal such as invertebrate
+mammal : Predators | insect : Flies | animal such as invertebrate
+mammal : Predators | insect : Insects | animal such as invertebrate
+animal : Gophers | insect : Pests | animal such as invertebrate
+insect : Roaches | insect : Insects | animal such as invertebrate
+insect : Roaches | insect : Pests | animal such as invertebrate
+insect : Spider Mites | insect : Bugs | animal such as invertebrate
+insect : Spider Mites | insect : Insects | animal such as invertebrate
+insect : Beneficial Insects | insect : Lacewings | animal such as invertebrate
+insect : Beneficial Insects | arthropod : Mantis | animal such as invertebrate
+insect : Beneficial Insects | insect : Hoverflies | animal such as invertebrate
+insect : Beneficial Insects | insect : Wasps | animal such as invertebrate
+insect : Beneficial Insects | insect : Parasitic Wasps | animal such as invertebrate
+insect : Invertebrates | arthropod : Spiders | animal such as invertebrate
+insect : Invertebrates | arthropod : Insect Larvae | animal such as invertebrate
+insect : Invertebrates | invertebrate : Worms | animal such as invertebrate
+insect : Invertebrates | crustacean : Shrimp | animal such as invertebrate
+insect : Invertebrates | insect : Insects | animal such as invertebrate
+insect : Invertebrates | crustacean : Mollusks | animal such as invertebrate
+insect : Invertebrates | invertebrate : Slugs | animal such as invertebrate
+arthropod : Micro Worms | crustacean : Shrimp | animal such as invertebrate
+arthropod : Zooplankton | arthropod : Rotifers | animal such as invertebrate
+animal : Big Game | animal : Deer001 | animal such as invertebrate
+invertebrate : Mammals | insect : Insects | animal such as invertebrate
+invertebrate : Mammals | animal : Deer001 | animal such as invertebrate
+insect : Grasshoppers | insect : Insects | animal such as invertebrate
+insect : Grasshoppers | insect : Pests | animal such as invertebrate
+insect : Ladybirds | insect : Insects | animal such as invertebrate
+insect : Hornets | insect : Insects | animal such as invertebrate
+animal : Organisms | insect : Mites | animal such as invertebrate
+animal : Organisms | arthropod : Crustaceans | animal such as invertebrate
+animal : Organisms | insect : Crabs | animal such as invertebrate
+animal : Organisms | arachnid : Butterflies | animal such as invertebrate
+animal : Organisms | animal : Man | animal such as invertebrate
+animal : Organisms | insect : Bees | animal such as invertebrate
+animal : Organisms | insect : Beetles | animal such as invertebrate
+animal : Organisms | insect : Ants | animal such as invertebrate
+animal : Organisms | insect : Flies | animal such as invertebrate
+animal : Organisms | invertebrate : Nematodes | animal such as invertebrate
+animal : Organisms | invertebrate : Clams | animal such as invertebrate
+animal : Organisms | insect : Snails | animal such as invertebrate
+animal : Organisms | insect : Earthworms | animal such as invertebrate
+animal : Organisms | invertebrate : Worms | animal such as invertebrate
+animal : Organisms | insect : Insects | animal such as invertebrate
+animal : Organisms | crustacean : Mollusks | animal such as invertebrate
+animal : Organisms | insect : Termites | animal such as invertebrate
+animal : Organisms | insect : Pests | animal such as invertebrate
+insect : Mealy Bugs | insect : Pests | animal such as invertebrate
+insect : Wasps | arthropod : Pollinators | animal such as invertebrate
+insect : Wasps | insect : Insects | animal such as invertebrate
+insect : Wasps | insect : Beneficial Insects | animal such as invertebrate
+agricultural product : Livestock | animal : Cattle | animal such as invertebrate
+invertebrate : Stages | insect : Insects | animal such as invertebrate
+invertebrate : Infusoria | crustacean : Shrimp | animal such as invertebrate
+insect : Aphids | insect : Bugs | animal such as invertebrate
+insect : Aphids | insect : Insects | animal such as invertebrate
+insect : Aphids | insect : Insect Pests | animal such as invertebrate
+insect : Thrips | insect : Bugs | animal such as invertebrate
+insect : Thrips | insect : Insects | animal such as invertebrate
+animal : Herbivores | animal : Deer001 | animal such as invertebrate
+arthropod : Arthropods | arthropod : Spiders | animal such as invertebrate
+arthropod : Arthropods | insect : Insects | animal such as invertebrate
+arthropod : Arthropods | arthropod : Centipedes | animal such as invertebrate
+insect : Scales | insect : Insects | animal such as invertebrate
+arthropod : Rotifers | crustacean : Shrimp | animal such as invertebrate
+reptile : Mice | invertebrate : Mammals | animal such as invertebrate
+reptile : Mice | insect : Small Mammals | animal such as invertebrate
+reptile : Mice | insect : Small Rodents | animal such as invertebrate
+reptile : Mice | insect : Pests | animal such as invertebrate
+insect : Moths | insect : Insects | animal such as invertebrate
+insect : Moths | insect : Pests | animal such as invertebrate
+insect : Mosquito Larvae | crustacean : Shrimp | animal such as invertebrate
+insect : Mosquitos | insect : Flies | animal such as invertebrate
+insect : Mosquitos | insect : Insects | animal such as invertebrate
+insect : Mosquitos | insect : Pests | animal such as invertebrate
+insect : Mites | insect : Bugs | animal such as invertebrate
+insect : Mites | animal : Arthropods001 | animal such as invertebrate
+insect : Mites | insect : Insects | animal such as invertebrate
+insect : Mites | insect : Pests | animal such as invertebrate
+arthropod : Krill | crustacean : Shrimp | animal such as invertebrate
+insect : Larvae | insect : Insects | animal such as invertebrate
+insect : Scale Insects | insect : Insects | animal such as invertebrate
+animal : Fleas001 | animal : Arthropods001 | animal such as invertebrate
+insect : Sand Flies | insect : Insects | animal such as invertebrate
+insect : Crabs | insect : Invertebrates | animal such as invertebrate
+insect : Ladybugs | insect : Insects | animal such as invertebrate
+insect : Ladybugs | insect : Beneficial Insects | animal such as invertebrate
+amphibian : Redfish | crustacean : Shrimp | animal such as invertebrate
+invertebrate : Bloodworms | crustacean : Shrimp | animal such as invertebrate
+mammal : Wild Animals | arthropod : Raccoons | animal such as invertebrate
+mammal : Wild Animals | animal : Deer001 | animal such as invertebrate
+arthropod : Prey | invertebrate : Worms | animal such as invertebrate
+arthropod : Prey | insect : Insects | animal such as invertebrate
+arthropod : Prey | animal : Deer001 | animal such as invertebrate
+insect : House Flies | insect : Insects | animal such as invertebrate
+insect : Mantids | insect : Insects | animal such as invertebrate
+insect : Larva | insect : Insects | animal such as invertebrate
+mammal : Exotic Pets | animal : Reptiles002 | animal such as invertebrate
+insect : Bug | insect : Insects | animal such as invertebrate
+insect : Leafhoppers | insect : Bugs | animal such as invertebrate
+insect : Leafhoppers | insect : Insects | animal such as invertebrate
+insect : Leafhoppers | insect : Pests | animal such as invertebrate
+arthropod : Prawns | arthropod : Crustaceans | animal such as invertebrate
+arthropod : Plankton | crustacean : Shrimp | animal such as invertebrate
+insect : Honey Bees | insect : Insects | animal such as invertebrate
+insect : Dragonflies | insect : Insects | animal such as invertebrate
+insect : Hoverflies | insect : Insects | animal such as invertebrate
+arthropod : Spiders | arthropod : Arthropods | animal such as invertebrate
+arthropod : Spiders | insect : Invertebrates | animal such as invertebrate
+insect : Fungus Gnats | insect : Insects | animal such as invertebrate
+insect : Honeybees | insect : Insects | animal such as invertebrate
+crustacean : Ghost Shrimp | crustacean : Shrimp | animal such as invertebrate
+animal : Game Species | animal : Deer001 | animal such as invertebrate
+insect : Ticks | insect : Ectoparasites | animal such as invertebrate
+insect : Ticks | insect : Insects | animal such as invertebrate
+insect : Ticks | insect : Pests | animal such as invertebrate
+animal : Creatures | arthropod : Crustaceans | animal such as invertebrate
+animal : Creatures | arthropod : Sponges | animal such as invertebrate
+animal : Creatures | insect : Crabs | animal such as invertebrate
+animal : Creatures | animal : Reptiles002 | animal such as invertebrate
+animal : Creatures | invertebrate : Clams | animal such as invertebrate
+animal : Creatures | insect : Snails | animal such as invertebrate
+animal : Creatures | invertebrate : Worms | animal such as invertebrate
+animal : Creatures | insect : Insects | animal such as invertebrate
+animal : Creatures | insect : Mosquitoes | animal such as invertebrate
+animal : Creatures | insect : Termites | animal such as invertebrate
+animal : Creatures | insect : Moths | animal such as invertebrate
+animal : Creatures | arachnid : Scorpions | animal such as invertebrate
+animal : Creatures | invertebrate : Jellyfish | animal such as invertebrate
+animal : Creatures | insect : Cockroaches | animal such as invertebrate
+animal : Creatures | animal : Deer001 | animal such as invertebrate
+insect : Beetles | insect : Insects | animal such as invertebrate
+arthropod : Small Invertebrates | insect : Snails | animal such as invertebrate
+arthropod : Small Invertebrates | insect : Insects | animal such as invertebrate
+arthropod : Small Invertebrates | invertebrate : Slugs | animal such as invertebrate
+insect : Bumblebees | insect : Insects | animal such as invertebrate
+insect : Parasitoids | insect : Insects | animal such as invertebrate
+insect : Parasitic Wasps | insect : Insects | animal such as invertebrate
+insect : Parasitic Wasps | insect : Beneficial Insects | animal such as invertebrate
+mammal : Squirrels | insect : Pests | animal such as invertebrate
+insect : Lady Bugs | insect : Insects | animal such as invertebrate
+insect : Natural Enemies | insect : Insects | animal such as invertebrate
+insect : Termites | insect : Insects | animal such as invertebrate
+insect : Termites | insect : Pests | animal such as invertebrate
+crustacean : Mysis Shrimp | crustacean : Shrimp | animal such as invertebrate
+mammal : Small Animals | animal : Reptiles002 | animal such as invertebrate
+mammal : Small Animals | insect : Snails | animal such as invertebrate
+mammal : Small Animals | invertebrate : Worms | animal such as invertebrate
+mammal : Small Animals | invertebrate : Crustaceans | animal such as invertebrate
+mammal : Small Animals | insect : Insects | animal such as invertebrate
+insect : Butterflies | insect : Insects | animal such as invertebrate
+crustacean : Mollusks | insect : Snails | animal such as invertebrate
+crustacean : Mollusks | insect : Invertebrates | animal such as invertebrate
+crustacean : Mollusks | arthropod : Clams | animal such as invertebrate
+arthropod : Bloodworm | crustacean : Shrimp | animal such as invertebrate
+insect : Cockroaches | insect : Bugs | animal such as invertebrate
+insect : Cockroaches | insect : Insects | animal such as invertebrate
+mammal : Rodents | insect : Insects | animal such as invertebrate
+mammal : Rodents | insect : Pests | animal such as invertebrate
+mammal : Rabbits | insect : Pests | animal such as invertebrate
+insect : Locusts | insect : Insects | animal such as invertebrate
+invertebrate : Worms | crustacean : Shrimp | animal such as invertebrate
+invertebrate : Worms | insect : Insects | animal such as invertebrate
+invertebrate : Worms | insect : Pests | animal such as invertebrate
+animal : Predator | insect : Insects | animal such as invertebrate
+insect : Scale | insect : Insects | animal such as invertebrate
+insect : Moth | insect : Insects | animal such as invertebrate
+animal : Arthropods001 | insect : Ticks | animal such as invertebrate
+animal : Arthropods001 | insect : Crabs | animal such as invertebrate
+animal : Arthropods001 | animal : Fleas001 | animal such as invertebrate
+animal : Marine Animals | arthropod : Crustaceans | animal such as invertebrate
+animal : Marine Animals | invertebrate : Corals | animal such as invertebrate
+animal : Marine Animals | invertebrate : Jellyfish | animal such as invertebrate
+insect : Ants | animal : Small Insects | animal such as invertebrate
+insect : Ants | insect : Larvae | animal such as invertebrate
+insect : Ants | insect : Insects | animal such as invertebrate
+insect : Carpenter Ants | insect : Insects | animal such as invertebrate
+insect : Carpenter Ants | insect : Pests | animal such as invertebrate
+insect : Bugs | insect : Mites | animal such as invertebrate
+insect : Bugs | insect : Gnats | animal such as invertebrate
+insect : Bugs | insect : Dragonflies | animal such as invertebrate
+insect : Bugs | insect : Beetles | animal such as invertebrate
+insect : Bugs | insect : Ants | animal such as invertebrate
+insect : Bugs | arthropod : Spiders | animal such as invertebrate
+insect : Bugs | insect : Flies | animal such as invertebrate
+insect : Bugs | insect : Leafhoppers | animal such as invertebrate
+insect : Bugs | insect : Fleas | animal such as invertebrate
+insect : Bugs | insect : Insects | animal such as invertebrate
+insect : Bugs | insect : Spider Mites | animal such as invertebrate
+insect : Bugs | insect : Termites | animal such as invertebrate
+insect : Bugs | insect : Mosquitos | animal such as invertebrate
+insect : Bugs | insect : Caterpillars | animal such as invertebrate
+insect : Bugs | insect : Thrips | animal such as invertebrate
+insect : Bugs | insect : Pests | animal such as invertebrate
+insect : Mosquitoes | arthropod : Arthropods | animal such as invertebrate
+insect : Mosquitoes | insect : Bugs | animal such as invertebrate
+insect : Mosquitoes | insect : Insects | animal such as invertebrate
+insect : Bees | arthropod : Pollinators | animal such as invertebrate
+insect : Bees | insect : Bugs | animal such as invertebrate
+insect : Bees | insect : Insects | animal such as invertebrate
+arthropod : Copepods | crustacean : Shrimp | animal such as invertebrate
+arachnid : Butterflies | arthropod : Pollinators | animal such as invertebrate
+insect : Insects | insect : Jackets | animal such as invertebrate
+insect : Insects | insect : Ticks | animal such as invertebrate
+insect : Insects | insect : Yellow Jackets | animal such as invertebrate
+insect : Insects | arthropod : Pollinators | animal such as invertebrate
+insect : Insects | insect : Scales | animal such as invertebrate
+insect : Insects | insect : Bug | animal such as invertebrate
+insect : Insects | invertebrate : Nymphs | animal such as invertebrate
+insect : Insects | insect : Gnats | animal such as invertebrate
+insect : Insects | insect : Larvae | animal such as invertebrate
+insect : Insects | insect : Dragonflies | animal such as invertebrate
+insect : Insects | insect : Bees | animal such as invertebrate
+insect : Insects | insect : Mantids | animal such as invertebrate
+insect : Insects | insect : Ladybirds | animal such as invertebrate
+insect : Insects | insect : Beetles | animal such as invertebrate
+insect : Insects | insect : Ants | animal such as invertebrate
+insect : Insects | insect : Whiteflies | animal such as invertebrate
+insect : Insects | insect : Beetle Larvae | animal such as invertebrate
+insect : Insects | insect : Grasshoppers | animal such as invertebrate
+insect : Insects | insect : Lacewings | animal such as invertebrate
+insect : Insects | invertebrate : Sandflies | animal such as invertebrate
+insect : Insects | insect : Bugs | animal such as invertebrate
+insect : Insects | insect : Flies | animal such as invertebrate
+insect : Insects | insect : Snails | animal such as invertebrate
+insect : Insects | insect : Leafhoppers | animal such as invertebrate
+insect : Insects | insect : Fleas | animal such as invertebrate
+insect : Insects | insect : Larva | animal such as invertebrate
+insect : Insects | insect : Earthworms | animal such as invertebrate
+insect : Insects | arthropod : Mantis | animal such as invertebrate
+insect : Insects | insect : Mealworms | animal such as invertebrate
+insect : Insects | insect : Grubs | animal such as invertebrate
+insect : Insects | invertebrate : Worms | animal such as invertebrate
+insect : Insects | insect : Locusts | animal such as invertebrate
+insect : Insects | insect : Hoverflies | animal such as invertebrate
+insect : Insects | insect : Invertebrates | animal such as invertebrate
+insect : Insects | insect : Mealy Bugs | animal such as invertebrate
+insect : Insects | insect : Chiggers | animal such as invertebrate
+insect : Insects | insect : House Flies | animal such as invertebrate
+insect : Insects | insect : Lady Bugs | animal such as invertebrate
+insect : Insects | insect : Mantises | animal such as invertebrate
+insect : Insects | insect : Honey Bees | animal such as invertebrate
+insect : Insects | insect : Cicadas | animal such as invertebrate
+insect : Insects | insect : Roaches | animal such as invertebrate
+insect : Insects | insect : Bed Bugs | animal such as invertebrate
+insect : Insects | insect : Moth | animal such as invertebrate
+insect : Insects | insect : Fungus Gnats | animal such as invertebrate
+insect : Insects | insect : Ladybugs | animal such as invertebrate
+insect : Insects | insect : Mosquitoes | animal such as invertebrate
+insect : Insects | insect : Spider Mites | animal such as invertebrate
+insect : Insects | insect : Termites | animal such as invertebrate
+insect : Insects | insect : Blackflies | animal such as invertebrate
+insect : Insects | insect : Moths | animal such as invertebrate
+insect : Insects | invertebrate : Earwigs001 | animal such as invertebrate
+insect : Insects | insect : Black Flies | animal such as invertebrate
+insect : Insects | insect : Mosquitos | animal such as invertebrate
+insect : Insects | insect : Fruit Flies | animal such as invertebrate
+insect : Insects | insect : Caterpillars | animal such as invertebrate
+insect : Insects | insect : Bumblebees | animal such as invertebrate
+insect : Insects | insect : Scale | animal such as invertebrate
+insect : Insects | insect : Aphids | animal such as invertebrate
+insect : Insects | insect : Lady Beetles | animal such as invertebrate
+insect : Insects | insect : Thrips | animal such as invertebrate
+insect : Insects | arachnid : Scorpions | animal such as invertebrate
+insect : Insects | insect : Carpenter Ants | animal such as invertebrate
+insect : Insects | insect : Hornets | animal such as invertebrate
+insect : Insects | insect : Cockroaches | animal such as invertebrate
+insect : Insects | insect : Scale Insects | animal such as invertebrate
+insect : Insects | insect : No See Ums | animal such as invertebrate
+insect : Insects | insect : Damselflies | animal such as invertebrate
+insect : Insects | insect : Crickets | animal such as invertebrate
+insect : Insects | insect : Pests | animal such as invertebrate
+insect : Insects | insect : Butterflies | animal such as invertebrate
+insect : Insects | insect : Honeybees | animal such as invertebrate
+insect : Insects | insect : Wasps | animal such as invertebrate
+insect : Insects | insect : Parasitic Wasps | animal such as invertebrate
+insect : Insects | insect : Lice | animal such as invertebrate
+insect : Insects | insect : Green Lacewings | animal such as invertebrate
+insect : Insects | insect : Midges | animal such as invertebrate
+insect : Insects | insect : Mosquito | animal such as invertebrate
+amphibian : Native Species | animal : Deer001 | animal such as invertebrate
+invertebrate : Blood Worms | crustacean : Shrimp | animal such as invertebrate
+animal : Invertebrates001 | insect : Mites | animal such as invertebrate
+animal : Invertebrates001 | arthropod : Crustaceans | animal such as invertebrate
+animal : Invertebrates001 | arthropod : Sponges | animal such as invertebrate
+animal : Invertebrates001 | invertebrate : Nematodes | animal such as invertebrate
+animal : Invertebrates001 | invertebrate : Clams | animal such as invertebrate
+animal : Invertebrates001 | insect : Snails | animal such as invertebrate
+animal : Invertebrates001 | invertebrate : Molluscs | animal such as invertebrate
+animal : Invertebrates001 | invertebrate : Leeches | animal such as invertebrate
+animal : Invertebrates001 | invertebrate : Corals | animal such as invertebrate
+animal : Invertebrates001 | invertebrate : Jellyfish | animal such as invertebrate
+animal : Invertebrates001 | invertebrate : Octopuses | animal such as invertebrate
+sport : Soccer | country : America | sport school in country
+sport : Soccer | country : Germany | sport school in country
+sport : Soccer | country : South Africa | sport school in country
+sport : Soccer | country : Italy | sport school in country
+sport : Soccer | country : England | sport school in country
+hobby : Paddling | country : America | sport school in country
+hobby : Golfing | country : America | sport school in country
+hobby : Climbing | country : America | sport school in country
+sport : Basketball | country : Spain | sport school in country
+sport : Sailing | country : America | sport school in country
+hobby : Boating | country : America | sport school in country
+hobby : Whitewater Rafting | country : America | sport school in country
+sport : Rafting | country : America | sport school in country
+sport : Rowing | country : America | sport school in country
+sport : Football | country : Uk | sport school in country
+sport : Football | country : Korea | sport school in country
+sport : Football | country : United States | sport school in country
+sport : Football | country : Ireland | sport school in country
+sport : Football | country : America | sport school in country
+sport : Football | country : Peru | sport school in country
+sport : Football | country : Germany | sport school in country
+sport : Football | country : Scotland | sport school in country
+sport : Football | country : Israel | sport school in country
+sport : Windsurfing | country : America | sport school in country
+sport : Skiing | country : United States | sport school in country
+sport : Skiing | country : Bulgaria | sport school in country
+sport : Skiing | country : Austria | sport school in country
+sport : Skiing | country : New Zealand | sport school in country
+sport : Skiing | country : America | sport school in country
+sport : Skiing | country : Japan | sport school in country
+sport : Skiing | country : France France | sport school in country
+sport : Skiing | country : Czech Republic | sport school in country
+sport : Skiing | country : Italy | sport school in country
+sport : Skiing | country : Switzerland Switzerland | sport school in country
+sport : Skiing | country : Chile | sport school in country
+sport : Skiing | country : Germany | sport school in country
+sport : Skiing | country : Argentina | sport school in country
+sport : Skiing | country : U S | sport school in country
+sport : Skiing | country : Sweden | sport school in country
+sport : Skiing | country : Finland | sport school in country
+sport : Skiing | country : Scotland | sport school in country
+sport : Skiing | country : Canada | sport school in country
+sport : Skiing | country : China | sport school in country
+hobby : Hiking | country : America | sport school in country
+hobby : Sport Fishing | country : America | sport school in country
+sport : Hockey | country : America | sport school in country
+sport : Hockey | country : Canada | sport school in country
+sport : Hockey | country : India | sport school in country
+sport : Snowboarding | country : America | sport school in country
+sport : Snowboarding | country : New Zealand | sport school in country
+sport : Ice Hockey | country : America | sport school in country
+sport : Ice Hockey | country : 's America | sport school in country
+sport : Ice Hockey | geopolitical organization : America | sport school in country
+sport : Baseball | country : America | sport school in country
+sport : Baseball | country : Japan | sport school in country
+sport : Baseball | country : India | sport school in country
+sport : Baseball | country : Cuba | sport school in country
+sport : Golf | country : United States | sport school in country
+sport : Golf | country : Korea | sport school in country
+sport : Golf | country : Britain | sport school in country
+sport : Golf | country : United Kingdom | sport school in country
+sport : Golf | country : Uk | sport school in country
+sport : Golf | country : Ireland | sport school in country
+sport : Golf | country : Malaysia | sport school in country
+sport : Golf | country : New Zealand | sport school in country
+sport : Golf | country : Usa | sport school in country
+sport : Golf | country : America | sport school in country
+sport : Golf | country : Japan | sport school in country
+sport : Golf | country : France France | sport school in country
+sport : Golf | country : Switzerland Switzerland | sport school in country
+sport : Golf | country : Spain | sport school in country
+sport : Golf | country : Wales | sport school in country
+sport : Golf | country : Thailand | sport school in country
+sport : Golf | country : U S | sport school in country
+sport : Golf | country : Us | sport school in country
+sport : Golf | country : Portugal | sport school in country
+sport : Golf | country : Italy | sport school in country
+sport : Golf | country : Dominican Republic | sport school in country
+sport : Golf | country : Costa Rica | sport school in country
+sport : Golf | country : Scotland | sport school in country
+sport : Golf | country : Germany | sport school in country
+sport : Golf | country : Canada | sport school in country
+sport : Golf | country : U S a | sport school in country
+sport : Golf | country : Vietnam | sport school in country
+sport : Golf | geopolitical location : Cyprus | sport school in country
+sport : Golf | country : China | sport school in country
+sport : Golf | geopolitical organization : Uk | sport school in country
+sport : Golf | geopolitical organization : Us | sport school in country
+sport : Golf | country : England | sport school in country
+sport : Golf | country : India | sport school in country
+sport : Golf | country : Cuba | sport school in country
+sport : Tennis | country : United States | sport school in country
+sport : Tennis | country : America | sport school in country
+sport : Tennis | country : 's America | sport school in country
+sport : Tennis | geopolitical organization : America | sport school in country
+sport : Cycling | country : America | sport school in country
+sport : Cycling | country : 's America | sport school in country
+sport : Cycling | geopolitical organization : America | sport school in country
+sport : Snowmobiling | country : America | sport school in country
+hobby : Fly Fishing | country : America | sport school in country
+hobby : Fly Fishing | country : 's America | sport school in country
+hobby : Fly Fishing | geopolitical organization : America | sport school in country
+sport : Sports | country : America | sport school in country
+food : Sweets | country : India | agricultural product came from country
+agricultural product : Wood | country : America | agricultural product came from country
+agricultural product : Wool | country : Italy | agricultural product came from country
+agricultural product : Wool | country : India | agricultural product came from country
+agricultural product : Soya | country : China | agricultural product came from country
+agricultural product : Tree | country : America | agricultural product came from country
+vegetable : Tobacco | country : Nicaragua | agricultural product came from country
+agricultural product : Nuts | country : America | agricultural product came from country
+vegetable : Pepper | country : America | agricultural product came from country
+agricultural product : Hemp | country : U S | agricultural product came from country
+agricultural product : Cocoa | country : Mexico | agricultural product came from country
+food : Eggs | country : Germany | agricultural product came from country
+legume : Bean | country : Ethiopia | agricultural product came from country
+food : Apples | country : America | agricultural product came from country
+beverage : Chocolates | country : India | agricultural product came from country
+agricultural product : Flowers | country : Belgium | agricultural product came from country
+agricultural product : Flowers | country : Azerbaijan | agricultural product came from country
+agricultural product : Flowers | country : Oman | agricultural product came from country
+agricultural product : Flowers | country : Turkey | agricultural product came from country
+agricultural product : Flowers | country : Arabia Saudita | agricultural product came from country
+agricultural product : Flowers | country : Korea | agricultural product came from country
+agricultural product : Flowers | country : El Salvador | agricultural product came from country
+agricultural product : Flowers | country : Hong Kong | agricultural product came from country
+agricultural product : Flowers | country : Guatemala | agricultural product came from country
+agricultural product : Flowers | country : Jordan | agricultural product came from country
+agricultural product : Flowers | country : United Kingdom | agricultural product came from country
+agricultural product : Flowers | country : Bahrain | agricultural product came from country
+agricultural product : Flowers | country : Uk | agricultural product came from country
+agricultural product : Flowers | country : Ireland | agricultural product came from country
+agricultural product : Flowers | country : Armenia | agricultural product came from country
+agricultural product : Flowers | country : Pakistan | agricultural product came from country
+agricultural product : Flowers | country : Lebanon | agricultural product came from country
+agricultural product : Flowers | country : Estonia | agricultural product came from country
+agricultural product : Flowers | country : Czech Republic | agricultural product came from country
+agricultural product : Flowers | country : Indonesia | agricultural product came from country
+agricultural product : Flowers | country : Bulgaria | agricultural product came from country
+agricultural product : Flowers | country : Bangalore | agricultural product came from country
+agricultural product : Flowers | country : the Philippines | agricultural product came from country
+agricultural product : Flowers | country : Austria | agricultural product came from country
+agricultural product : Flowers | country : Latvia | agricultural product came from country
+agricultural product : Flowers | country : Colombia | agricultural product came from country
+agricultural product : Flowers | country : New Zealand | agricultural product came from country
+agricultural product : Flowers | country : Kuwait | agricultural product came from country
+agricultural product : Flowers | country : Iran | agricultural product came from country
+agricultural product : Flowers | country : Japan | agricultural product came from country
+agricultural product : Flowers | country : France France | agricultural product came from country
+agricultural product : Flowers | country : Egypt | agricultural product came from country
+agricultural product : Flowers | country : Uzbekistan | agricultural product came from country
+agricultural product : Flowers | country : Spain | agricultural product came from country
+agricultural product : Flowers | country : Portugal | agricultural product came from country
+agricultural product : Flowers | country : Germany | agricultural product came from country
+agricultural product : Flowers | country : Italy | agricultural product came from country
+agricultural product : Flowers | country : Sweden | agricultural product came from country
+agricultural product : Flowers | country : Singapore | agricultural product came from country
+agricultural product : Flowers | country : Belarus | agricultural product came from country
+agricultural product : Flowers | country : Switzerland Switzerland | agricultural product came from country
+agricultural product : Flowers | country : Norway | agricultural product came from country
+agricultural product : Flowers | country : South Africa | agricultural product came from country
+agricultural product : Flowers | country : Argentina | agricultural product came from country
+agricultural product : Flowers | country : Brazil | agricultural product came from country
+agricultural product : Flowers | country : Greece | agricultural product came from country
+agricultural product : Flowers | country : Costa Rica | agricultural product came from country
+agricultural product : Flowers | country : Wales | agricultural product came from country
+agricultural product : Flowers | country : Peru | agricultural product came from country
+agricultural product : Flowers | country : Canada | agricultural product came from country
+agricultural product : Flowers | geopolitical organization : Kyrgyzstan | agricultural product came from country
+agricultural product : Flowers | country : Tajikistan | agricultural product came from country
+agricultural product : Flowers | country : Taiwan | agricultural product came from country
+agricultural product : Flowers | geopolitical location : Croatia | agricultural product came from country
+agricultural product : Flowers | country : Poland | agricultural product came from country
+agricultural product : Flowers | country : Hungary | agricultural product came from country
+agricultural product : Flowers | country : Vietnam | agricultural product came from country
+agricultural product : Flowers | geopolitical location : Romania | agricultural product came from country
+agricultural product : Flowers | country : Russia | agricultural product came from country
+agricultural product : Flowers | country : China | agricultural product came from country
+agricultural product : Flowers | geopolitical organization : Uk | agricultural product came from country
+agricultural product : Flowers | geopolitical location : Moldova | agricultural product came from country
+agricultural product : Flowers | geopolitical location : Turkmenistan | agricultural product came from country
+agricultural product : Flowers | geopolitical location : Ukraine | agricultural product came from country
+agricultural product : Flowers | country : Israel | agricultural product came from country
+agricultural product : Flowers | country : India | agricultural product came from country
+agricultural product : Flowers | country : Mexico | agricultural product came from country
+agricultural product : Flowers | country : Kazakhstan | agricultural product came from country
+agricultural product : Livestock | country : United States | agricultural product came from country
+agricultural product : Cattle | country : Spain | agricultural product came from country
+beverage : Beer | country : Uk | agricultural product came from country
+beverage : Beer | country : United States | agricultural product came from country
+beverage : Beer | country : Britain | agricultural product came from country
+beverage : Beer | country : Usa | agricultural product came from country
+beverage : Beer | country : Czech Republic | agricultural product came from country
+beverage : Beer | country : New Zealand | agricultural product came from country
+beverage : Beer | country : Us | agricultural product came from country
+beverage : Beer | country : Germany | agricultural product came from country
+beverage : Beer | country : Scotland | agricultural product came from country
+beverage : Beer | country : China | agricultural product came from country
+beverage : Beer | geopolitical organization : Uk | agricultural product came from country
+beverage : Beer | geopolitical organization : Us | agricultural product came from country
+fruit : Grapes | country : America | agricultural product came from country
+grain : Sugar | country : India | agricultural product came from country
+grain : Sugar | country : Mexico | agricultural product came from country
+vegetable : Vegetables | country : Holland | agricultural product came from country
+vegetable : Vegetables | country : Mexico | agricultural product came from country
+vegetable : Wheat | country : Germany | agricultural product came from country
+coffee drink : Espresso | country : Italy | agricultural product came from country
+agricultural product : Chilli | country : India | agricultural product came from country
+agricultural product : Tomatoes | country : Mexico | agricultural product came from country
+agricultural product : Opium | location : Myanmar | agricultural product came from country
+beverage : Tea | country : United States | agricultural product came from country
+beverage : Tea | country : Uk | agricultural product came from country
+beverage : Tea | country : Hong Kong | agricultural product came from country
+beverage : Tea | country : Viet Nam | agricultural product came from country
+beverage : Tea | country : Japan | agricultural product came from country
+beverage : Tea | country : Britain | agricultural product came from country
+beverage : Tea | country : Singapore | agricultural product came from country
+beverage : Tea | country : Germany | agricultural product came from country
+beverage : Tea | country : Vietnam | agricultural product came from country
+beverage : Tea | country : Russia | agricultural product came from country
+beverage : Tea | country : China | agricultural product came from country
+beverage : Tea | country : England | agricultural product came from country
+beverage : Tea | country : India | agricultural product came from country
+food : Berries | country : America | agricultural product came from country
+beverage : Alcohol | country : France France | agricultural product came from country
+vegetable : Corn | country : Turkey | agricultural product came from country
+vegetable : Corn | country : Mexico | agricultural product came from country
+agricultural product : Cotton | country : Egypt | agricultural product came from country
+agricultural product : Cotton | country : Uzbekistan | agricultural product came from country
+agricultural product : Cotton | country : Usa | agricultural product came from country
+agricultural product : Cotton | country : India | agricultural product came from country
+coffee drink : Coffee | country : United States | agricultural product came from country
+coffee drink : Coffee | country : Uk | agricultural product came from country
+coffee drink : Coffee | country : France France | agricultural product came from country
+coffee drink : Coffee | country : Egypt | agricultural product came from country
+coffee drink : Coffee | country : Colombia | agricultural product came from country
+coffee drink : Coffee | country : Ethiopia | agricultural product came from country
+coffee drink : Coffee | country : Italy | agricultural product came from country
+coffee drink : Coffee | country : New Zealand | agricultural product came from country
+coffee drink : Coffee | country : U S | agricultural product came from country
+coffee drink : Coffee | country : Finland | agricultural product came from country
+vegetable : Beans | country : America | agricultural product came from country
+agricultural product : Plants | country : Uk | agricultural product came from country
+automobile maker : Lotus | country : Usa | automobile maker dealers in country
+automobile maker : Lotus | country : Uk | automobile maker dealers in country
+automobile maker : Lotus | geopolitical organization : Uk | automobile maker dealers in country
+automobile maker : Lexus | country : Uk | automobile maker dealers in country
+automobile maker : Lexus | country : Canada | automobile maker dealers in country
+automobile maker : Lexus | geopolitical organization : Uk | automobile maker dealers in country
+automobile maker : Range Rover | country : Uk | automobile maker dealers in country
+automobile maker : Buick | country : Canada | automobile maker dealers in country
+automobile maker : Buick | country : China | automobile maker dealers in country
+automobile maker : Citroen | country : Uk | automobile maker dealers in country
+automobile maker : Gmc | country : Uk | automobile maker dealers in country
+automobile maker : Gmc | country : Canada | automobile maker dealers in country
+automobile maker : Kia | country : Uk | automobile maker dealers in country
+automobile maker : Kia | country : Korea | automobile maker dealers in country
+automobile maker : Kia | country : Canada | automobile maker dealers in country
+automobile maker : Think | country : Uk | automobile maker dealers in country
+automobile maker : Chrysler | country : Usa | automobile maker dealers in country
+automobile maker : Chrysler | country : Uk | automobile maker dealers in country
+automobile maker : Chrysler | country : U S | automobile maker dealers in country
+automobile maker : Chrysler | country : Canada | automobile maker dealers in country
+automobile maker : Jaguar | country : Uk | automobile maker dealers in country
+automobile maker : Jaguar | country : Usa | automobile maker dealers in country
+automobile maker : Jaguar | country : Canada | automobile maker dealers in country
+automobile maker : Suzuki | country : Uk | automobile maker dealers in country
+automobile maker : Suzuki | country : Japan | automobile maker dealers in country
+automobile maker : Suzuki | country : Canada | automobile maker dealers in country
+automobile maker : Skoda | geopolitical organization : Uk | automobile maker dealers in country
+automobile maker : Vauxhall | country : Uk | automobile maker dealers in country
+automobile maker : Acura | country : Canada | automobile maker dealers in country
+automobile maker : Subaru | country : Canada | automobile maker dealers in country
+automobile maker : Cadillac | country : Usa | automobile maker dealers in country
+automobile maker : Cadillac | country : Canada | automobile maker dealers in country
+automobile maker : Rover | country : Uk | automobile maker dealers in country
+automobile maker : Volkswagen | country : Uk | automobile maker dealers in country
+automobile maker : Volkswagen | country : Germany | automobile maker dealers in country
+automobile maker : Volkswagen | country : Canada | automobile maker dealers in country
+automobile maker : Volkswagen | geopolitical organization : Uk | automobile maker dealers in country
+automobile maker : Lancia | country : Uk | automobile maker dealers in country
+automobile maker : Land Rover | country : Uk | automobile maker dealers in country
+automobile maker : Land Rover | country : Canada | automobile maker dealers in country
+automobile maker : Hyundai | country : Uk | automobile maker dealers in country
+automobile maker : Hyundai | country : Canada | automobile maker dealers in country
+automobile maker : Honda | country : Usa | automobile maker dealers in country
+automobile maker : Honda | country : Uk | automobile maker dealers in country
+automobile maker : Honda | country : Canada | automobile maker dealers in country
+automobile maker : Porsche | country : Uk | automobile maker dealers in country
+automobile maker : Porsche | country : Canada | automobile maker dealers in country
+automobile maker : Toyota | country : Malaysia | automobile maker dealers in country
+automobile maker : Toyota | country : Usa | automobile maker dealers in country
+automobile maker : Toyota | country : South Africa | automobile maker dealers in country
+automobile maker : Toyota | country : Uk | automobile maker dealers in country
+automobile maker : Toyota | country : U S | automobile maker dealers in country
+automobile maker : Toyota | country : Canada | automobile maker dealers in country
+automobile maker : Lamborghini | country : Uk | automobile maker dealers in country
+automobile maker : Saab | country : Uk | automobile maker dealers in country
+automobile maker : Saab | country : Usa | automobile maker dealers in country
+automobile maker : Saab | country : Sweden | automobile maker dealers in country
+automobile maker : Infiniti | country : Uk | automobile maker dealers in country
+automobile maker : Infiniti | country : Canada | automobile maker dealers in country
+automobile maker : Opel | country : Uk | automobile maker dealers in country
+automobile maker : Mini | country : Uk | automobile maker dealers in country
+automobile maker : Mini | country : Canada | automobile maker dealers in country
+automobile maker : Fiat | country : Uk | automobile maker dealers in country
+automobile maker : Fiat | country : Canada | automobile maker dealers in country
+automobile maker : Alfa | country : Uk | automobile maker dealers in country
+automobile maker : Audi | country : Uk | automobile maker dealers in country
+automobile maker : Audi | country : Canada | automobile maker dealers in country
+automobile maker : Audi | geopolitical organization : Uk | automobile maker dealers in country
+automobile maker : Benz | country : Germany | automobile maker dealers in country
+automobile maker : Nissan | country : Usa | automobile maker dealers in country
+automobile maker : Nissan | country : Uk | automobile maker dealers in country
+automobile maker : Nissan | country : Japan | automobile maker dealers in country
+automobile maker : Nissan | country : Canada | automobile maker dealers in country
+automobile maker : Daimler Ag | country : Canada | automobile maker dealers in country
+automobile maker : Mitsubishi | country : America | automobile maker dealers in country
+automobile maker : Mitsubishi | country : Canada | automobile maker dealers in country
+automobile maker : Vw | country : Uk | automobile maker dealers in country
+automobile maker : Gm | country : Canada | automobile maker dealers in country
+automobile maker : Proton | country : Uk | automobile maker dealers in country
+automobile maker : Abarth | country : Uk | automobile maker dealers in country
+automobile maker : Dodge | country : Uk | automobile maker dealers in country
+automobile maker : Dodge | country : Usa | automobile maker dealers in country
+automobile maker : Dodge | country : Germany | automobile maker dealers in country
+automobile maker : Dodge | country : Canada | automobile maker dealers in country
+automobile maker : Dodge | country : Mexico | automobile maker dealers in country
+automobile maker : Chevrolet | country : Uk | automobile maker dealers in country
+automobile maker : Chevrolet | country : Canada | automobile maker dealers in country
+automobile maker : Volvo | country : Usa | automobile maker dealers in country
+automobile maker : Volvo | country : Canada | automobile maker dealers in country
+automobile maker : Daimler Benz | country : Uk | automobile maker dealers in country
+automobile maker : Dacia | country : Uk | automobile maker dealers in country
+automobile maker : Mazda | country : Usa | automobile maker dealers in country
+automobile maker : Mazda | country : Uk | automobile maker dealers in country
+automobile maker : Mazda | country : America | automobile maker dealers in country
+automobile maker : Mazda | country : Canada | automobile maker dealers in country
+automobile maker : Maserati | country : Canada | automobile maker dealers in country
+sports team : Cavaliers | person us : Lebron James | team coach
+sports team : Titans | coach : Jeff Fisher | team coach
+sports team : Southern Miss Lady Golden Eagles | coach : Larry Fedora | team coach
+sports team : Lsu | athlete : John Brady | team coach
+sports team : Lsu | coach : Les Miles | team coach
+sports team : Diamondbacks | person north america : Ryan Webb | team coach
+sports team : Byu | coach : Lavell Edwards | team coach
+sports team : Byu | coach : Bronco Mendenhall | team coach
+sports team : Hawks Los Angeles Lakers Vs | coach : Mike Woodson | team coach
+sports team : Wildcats | coach : Lute Olson | team coach
+organization : Los Angeles Lakers | coach : Ike Brown | team coach
+organization : Los Angeles Lakers | coach : Kurt Rambis | team coach
+sports team : Washington Capitals | coach : Bruce Boudreau | team coach
+sports team : Tcu Horned Frogs | coach : Gary Patterson | team coach
+sports team : Stanford Cardinals | coach : Trent Johnson | team coach
+sports team : Boston Celtics | coach : Doc Rivers | team coach
+sports team : Pittsburgh Penguins | coach : Michel Therrien | team coach
+sports team : Seminoles | male : Bobby Bowden | team coach
+school : Usc | coach : Tim Floyd | team coach
+school : Usc | coach : Pete Carroll | team coach
+sports team : Wake Forest University | coach : Skip Prosser | team coach
+sports team : Wake Forest University | coach : Jim Grobe | team coach
+sports team : Louisiana Technical College Bastrop Campus | coach : Derek Dooley | team coach
+sports team : Louisiana Technical College Bastrop Campus | coach : Sonny Dykes | team coach
+sports team : Cal Poly | coach : Tim Walsh | team coach
+sports team : Ole Miss | coach : Houston Nutt | team coach
+sports team : Ole Miss | coach : Hugh Freeze | team coach
+sports team : Ole Miss | coach : Ed Orgeron | team coach
+geopolitical location : Kansas State | coach : Bill Snyder | team coach
+geopolitical location : Kansas State | coach : Ron Prince | team coach
+sports team : San Jose State Spartans | coach : Dick Tomey | team coach
+sports team : Bobcats | coach : Larry Brown | team coach
+sports team : Ex Pittsburgh Steelers | coach : Tomlin | team coach
+sports team : Ex Pittsburgh Steelers | coach : Chuck Noll | team coach
+sports team : Ex Pittsburgh Steelers | coach : Mike Tomlin | team coach
+sports team : Ex Pittsburgh Steelers | coach : Bill Cowher | team coach
+sports team : New York Mets | athlete : Barry Bonds | team coach
+sports team : New York Mets | athlete : Beltran | team coach
+sports team : New York Mets | athlete : Mike Pelfrey | team coach
+sports team : New York Mets | athlete : Jason Bay | team coach
+sports team : New York Mets | athlete : Lastings Milledge | team coach
+sports team : New York Mets | coach : Andres Torres | team coach
+sports team : New York Mets | person mexico : Jorge Posada | team coach
+sports team : New York Mets | person mexico : Francisco Liriano | team coach
+sports team : New York Jets | coach : Eric Mangini | team coach
+sports team : New York Jets | athlete : Tim Tebow | team coach
+sports team : Memphis Grizzlies | coach : Marc Iavaroni | team coach
+sports team : Royals | athlete : David Dejesus | team coach
+sports team : Royals | athlete : Zack Greinke | team coach
+sports team : St's  Louis Rams | coach : Scott Linehan | team coach
+sports team : St's  Louis Rams | coach : Steve Spagnuolo | team coach
+sports team : Florida Gators | coach : Billy Donovan | team coach
+sports team : Florida Gators | coach : Urban Meyer | team coach
+sports team : Princeton | coach : Bill Tierney | team coach
+organization : Tampa Bay Devil Rays | athlete : Matt Garza | team coach
+sports team : Philadelphia Eagles | coach : Andy Reid | team coach
+sports team : Ohio State University | coach : Luke Fickell | team coach
+sports team : Ohio State University | coach : Jim Tressel | team coach
+sports team : Maryland | coach : Ralph Friedgen | team coach
+sports team : San Diego Padres | athlete : Mark Kotsay | team coach
+sports team : San Diego Padres | athlete : Tony Gwynn | team coach
+sports team : San Diego Padres | athlete : Kyle Blanks | team coach
+sports team : Florida State | coach : Leonard Hamilton | team coach
+sports team : Florida State | coach : Jimbo Fisher | team coach
+sports team : Knicks | athlete : Isiah Thomas | team coach
+sports team : Knicks | coach : Mike D Antoni | team coach
+sports team : Bad Cubs | athlete : Ted Lilly | team coach
+sports team : Bad Cubs | person us : Moises Alou | team coach
+organization : Yankees | athlete : Xavier Nady | team coach
+organization : Yankees | person mexico : Alberto Arias | team coach
+organization : Yankees | person mexico : Curtis Granderson | team coach
+sports team : Illini | coach : Bruce Weber | team coach
+sports team : Illini | coach : Ron Zook | team coach
+sports team : Red Sox | athlete : Dontrelle Willis | team coach
+sports team : Red Sox | athlete : Josh Beckett | team coach
+sports team : Red Sox | person australia : Alex Auld | team coach
+sports team : Red Sox | person mexico : Cj Watson | team coach
+sports team : Red Sox | person mexico : Logan Kensing | team coach
+sports team : Utah State | coach : Gary Andersen | team coach
+sports team : Utah State | coach : Brent Guy | team coach
+sports team : N1935 the Detroit Tigers | person mexico : Brett Myers | team coach
+organization : Colorado Rockies | athlete : Dexter Fowler | team coach
+organization : Colorado Rockies | athlete : Ubaldo Jimenez | team coach
+organization : Colorado Rockies | person mexico : Josh Williams | team coach
+organization : Colorado Rockies | person mexico : J D's Drew | team coach
+organization : Colorado Rockies | coach : Seth Smith | team coach
+sports team : Kentucky Wildcats | coach : Billy Gillispie | team coach
+sports team : Former San Francisco Giants | male : Gary Carter | team coach
+sports team : Seattle Mariners | athlete : Chone Figgins | team coach
+sports team : Seattle Mariners | athlete : Franklin Gutierrez | team coach
+sports team : Seattle Mariners | athlete : Eric Milton | team coach
+sports team : Seattle Mariners | athlete : Felix Hernandez | team coach
+sports team : Seattle Mariners | coach : Raul Ibanez | team coach
+sports team : Utah Jazz | coach : Jerry Sloan | team coach
+sports team : Chicago Cardinals | athlete : Colby Rasmus | team coach
+sports team : Chicago Cardinals | athlete : Ryan Ludwick | team coach
+sports team : Chicago Cardinals | athlete : Dominique Rodgers Cromartie | team coach
+sports team : Chicago Cardinals | athlete : Rick Pitino | team coach
+sports team : Chicago Cardinals | coach : Ken Whisenhunt | team coach
+sports team : Chicago Cardinals | person mexico : Mike Schmidt | team coach
+sports team : Chicago Cardinals | person us : Lance Berkman | team coach
+sports team : St Louis Rams | coach : Mike Martz | team coach
+sports team : Ottawa Senators | coach : Craig Hartsburg | team coach
+sports team : Tampa Bay Bucs | coach : Raheem Morris | team coach
+sports team : Tampa Bay Bucs | coach : Gruden | team coach
+sports team : Tampa Bay Bucs | coach : Jon Gruden | team coach
+sports team : Duke University | coach : David Cutcliffe | team coach
+sports team : Duke University | coach : Mike Krzyzewski | team coach
+sports team : Marlins | athlete : Chris Coghlan | team coach
+sports team : Marlins | person mexico : Kent Mercker | team coach
+sports team : Marlins | male : Jeremy Affeldt | team coach
+sports team : Nc State | coach : Kay Yow | team coach
+sports team : Washington Huskies | coach : Steve Sarkisian | team coach
+sports team : Notre Dame | coach : Tyrone Willingham | team coach
+sports team : Notre Dame | coach : Lou Holtz | team coach
+sports team : Notre Dame | coach : Mike Brey | team coach
+sports team : Notre Dame | coach : Frank Leahy | team coach
+sports team : Notre Dame | coach : Digger Phelps | team coach
+sports team : Notre Dame | coach : Charlie Weis | team coach
+sports team : Hokies | coach : Seth Greenberg | team coach
+sports team : Hokies | coach : Frank Beamer | team coach
+organization : Dodgers | athlete : Jayson Werth | team coach
+organization : Dodgers | athlete : Michael Clayton | team coach
+organization : Dodgers | athlete : Jerry Sands | team coach
+organization : Dodgers | person mexico : Dave Roberts | team coach
+organization : Dodgers | person mexico : Shawn Green | team coach
+organization : Dodgers | coach : Shawn Estes | team coach
+sports team : Texas Tech Red Raiders | coach : Mike Leach | team coach
+sports team : White Sox | athlete : Mark Buehrle | team coach
+sports team : White Sox | person australia : Willie Hernandez | team coach
+sports team : White Sox | person australia : C J's Wilson | team coach
+sports team : White Sox | male : Jermaine Dye | team coach
+sports team : New Orleans Saints | coach : Sean Payton | team coach
+sports team : New Orleans Saints | coach : Joe Vitt | team coach
+sports team : New Orleans Saints | coach : Mike Ditka | team coach
+sports team : Harvard School of Dental Medicine | coach : Tommy Amaker | team coach
+organization : Atlanta Braves | athlete : Jason Heyward | team coach
+sports team : Michigan State | coach : Tom Izzo | team coach
+sports team : Michigan State | coach : John L's Smith | team coach
+sports team : Michigan State | coach : Mark Dantonio | team coach
+sports team : Oregon Ducks | coach : Chip Kelly | team coach
+school : Towson University | person : Pat Kennedy | team coach
+sports team : Western Kentucky Hilltoppers | coach : Willie Taggart | team coach
+sports team : Western Kentucky Hilltoppers | coach : Darrin Horn | team coach
+sports team : Kings College | coach : Terry Murray | team coach
+sports team : Milwaukee Bucks Nba | person : Larry Krystkowiak | team coach
+sports team : Cornhuskers | coach : Bo Pelini | team coach
+sports team : Kansas City Chiefs | coach : Herm Edwards | team coach
+sports team : Kansas City Chiefs | coach : Vermeil | team coach
+sports team : Kansas City Chiefs | coach : Todd Haley | team coach
+sports team : Broncos | coach : Shanahan | team coach
+sports team : Broncos | coach : Josh Mcdaniels | team coach
+sports team : Oakland a S | coach : Doc Holliday | team coach
+sports team : Sacramento Kings | person : Reggie Theus | team coach
+sports team : Maple Leafs | coach : Randy Carlyle | team coach
+sports team : San Jose Sharks | coach : Al Arbour | team coach
+sports team : Nittany Lions | coach : Joe Paterno | team coach
+sports team : Miami Dolphins | coach : Cam Cameron | team coach
+sports team : Arkansas Razorbacks | coach : Nolan Richardson | team coach
+sports team : Arkansas Razorbacks | coach : Bobby Petrino | team coach
+sports team : Dallas Mavericks Tv Watch | athlete : Josh Howard | team coach
+sports team : Knights of Pythias | coach : George O Leary | team coach
+sports team : Uk | coach : Joker Phillips | team coach
+sports team : Uk | coach : Rich Brooks | team coach
+sports team : Uk | coach : John Calipari | team coach
+sports team : Csu Pueblo Thunderwolves | coach : Steve Fairchild | team coach
+sports team : Brewers | athlete : Scott Podsednik | team coach
+sports team : Brewers | person mexico : Morgan Ensberg | team coach
+sports team : Brewers | coach : Ryan Braun | team coach
+sports team : Penn State | coach : Bill O Brien | team coach
+sports team : Penn State | coach : Jerry Sandusky | team coach
+sports team : Columbus Blue Jackets | coach : Ken Hitchcock | team coach
+school : Rutgers | coach : Mike Rice | team coach
+school : Rutgers | coach : Greg Schiano | team coach
+sports team : Raptors | coach : Dwane Casey | team coach
+sports team : Magic | coach : Van Gundy | team coach
+sports team : Colorado State | coach : Sonny Lubick | team coach
+sports team : Alabama Crimson Tide | coach : Nick Saban | team coach
+sports team : Washington Wizards | coach : Ed Tapscott | team coach
+sports team : Washington Wizards | coach : Al Harrington | team coach
+sports team : Minnesota Vikings | coach : Brad Childress | team coach
+sports team : Minnesota Vikings | coach : Mike Tice | team coach
+sports team : Minnesota Vikings | coach : Leslie Frazier | team coach
+sports team : Minnesota Vikings | coach : Bud Grant | team coach
+sports team : Colts | coach : Chuck Pagano | team coach
+sports team : Colts | coach : Tony Dungy | team coach
+sports team : Colts | coach : Dungy | team coach
+sports team : Colts | coach : Jim Caldwell | team coach
+sports team : Packers | athlete : Mike Mccarthy | team coach
+sports team : Packers | coach : Mike Sherman | team coach
+sports team : Packers | coach : Vince Lombardi | team coach
+sports team : New England Patriots | coach : Jim Haslett | team coach
+sports team : New England Patriots | coach : Bill Belichick | team coach
+sports team : Indiana University | coach : Bobby Knight | team coach
+sports team : Indiana University | coach : Bob Knight | team coach
+sports team : Indiana University | coach : Tom Crean | team coach
+sports team : Falcons | coach : Mike Smith | team coach
+sports team : Falcons | coach : Smith | team coach
+sports team : Pacers | coach : Danny Granger | team coach
+sports team : Boston Red | coach : Jim Rice | team coach
+school : Mississippi State University | coach : Sylvester Croom | team coach
+sports team : Uconn | coach : Randy Edsall | team coach
+sports team : Uconn | coach : Paul Pasqualoni | team coach
+organization : New Orleans Hornets | coach : Byron Scott | team coach
+sports team : Boise State | coach : Dan Hawkins | team coach
+sports team : Boise State | coach : Chris Peterson | team coach
+sports team : Boise State | coach : Chris Petersen | team coach
+sports team : Houston Texans | coach : Dom Capers | team coach
+sports team : Carolina Panthers | coach : John Fox | team coach
+sports team : Georgetown University | coach : John Thompson Iii | team coach
+sports team : Redskins | coach : George Allen | team coach
+sports team : Redskins | coach : Joe Gibbs | team coach
+sports team : Redskins | athlete : Jim Zorn | team coach
+sports team : Redskins | coach : Steve Spurrier | team coach
+sports team : San Diego Chargers Tickets | coach : Norv Turner | team coach
+sports team : San Diego Chargers Tickets | athlete : Marty Schottenheimer | team coach
+sports team : Pirates | coach : Ruffin Mcneill | team coach
+sports team : Pirates | coach : Skip Holtz | team coach
+sports team : Pirates | coach : Jeff Lebo | team coach
+sports team : Pirates | person australia : Frank | team coach
+sports team : Pirates | person us : John Thompson | team coach
+sports team : Cleveland Browns | coach : Mangini | team coach
+sports team : Cleveland Browns | athlete : Butch Davis | team coach
+sports team : Cleveland Browns | coach : Romeo Crennel | team coach
+sports team : Cleveland Browns | coach : Paul Brown | team coach
+sports team : Cleveland Browns | coach : Belichick | team coach
+sports team : Twins | athlete : Denard Span | team coach
+sports team : Twins | athlete : Nick Punto | team coach
+sports team : Twins | person mexico : Ron Villone | team coach
+sports team : Twins | person mexico : Dmitri Young | team coach
+sports team : Oakland Raiders | coach : Kiffin | team coach
+sports team : Oakland Raiders | coach : Tom Cable | team coach
+sports team : Oakland Raiders | coach : Hue Jackson | team coach
+sports team : Oakland Raiders | coach : John Madden | team coach
+sports team : Oakland Raiders | coach : Art Shell | team coach
+sports team : Vols | coach : Phil Fulmer | team coach
+sports team : Los Angeles Galaxy | coach : Bruce Arena | team coach
+sports team : Detroit Lions | coach : Rod Marinelli | team coach
+sports team : Detroit Lions | coach : Steve Mariucci | team coach
+sports team : Detroit Lions | coach : Jim Schwartz | team coach
+sports team : Portland Trail Blazers Tickets | coach : Nate Mcmillan | team coach
+sports team : Suns | coach : D Antoni | team coach
+sports team : Suns | coach : Terry Porter | team coach
+sports team : Suns | coach : Alvin Gentry | team coach
+sports team : Ucla | coach : Ben Howland | team coach
+sports team : Ucla | coach : Terry Donahue | team coach
+sports team : Ucla | coach : Karl Dorrell | team coach
+sports team : Ucla | coach : Bob Toledo | team coach
+sports team : Ucla | coach : Rick Neuheisel | team coach
+geopolitical location : Iowa State | coach : Larry Eustachy | team coach
+geopolitical location : Iowa State | coach : Greg Mcdermott | team coach
+geopolitical location : Iowa State | coach : Paul Rhoads | team coach
+geopolitical location : Iowa State | coach : Dan Mccarney | team coach
+sports team : Panthers 31 18 | male : Dave Wannstedt | team coach
+sports team : Anaheim Angels | athlete : Vladimir Guerrero | team coach
+sports team : Bills | coach : Perry Fewell | team coach
+sports team : Bills | coach : Mike Mularkey | team coach
+sports team : Bills | coach : Gregg Williams | team coach
+sports team : Bills | coach : Dick Jauron | team coach
+sports team : Carolina Hurricanes Live Online | person : Paul Maurice | team coach
+sports team : Indians | athlete : Grady Sizemore | team coach
+sports team : Indians | athlete : J C's Romero | team coach
+sports team : Indians | athlete : Coco Crisp | team coach
+sports team : Nets | coach : Richard Jefferson | team coach
+geopolitical location : Oklahoma State | coach : Mike Gundy | team coach
+geopolitical location : Oklahoma State | coach : Eddie Sutton | team coach
+organization : Texas a M | coach : Dennis Franchione | team coach
+organization : Texas a M | coach : R C's Slocum | team coach
+sports team : Ravens | coach : Brian Billick | team coach
+sports team : Ravens | coach : John Harbaugh | team coach
+sports team : Heat | coach : Erik Spoelstra | team coach
+sports team : Heat | coach : Dwayne Wade | team coach
+sports team : Terps | athlete : Gary Williams | team coach
+sports team : Oregon State | coach : Craig Robinson | team coach
+sports team : San Diego State | coach : Tom Craft | team coach
+sports team : San Diego State | coach : Chuck Long | team coach
+sports team : Tampa | athlete : Barry Melrose | team coach
+sports team : Blackhawks | coach : Denis Savard | team coach
+sports team : Astros | person mexico : J a Happ | team coach
+sports team : Astros | person mexico : Carlos Villanueva | team coach
+organization : Boston Bruins | coach : Claude Julien | team coach
+sports team : Rangers | coach : Tom Renney | team coach
+company : Jacksonville Jaguars | coach : Jack Del Rio | team coach
+sports team : Washington State | coach : Paul Wulff | team coach
+sports team : Washington State | coach : Mike Price | team coach
+sports team : Chicago Bulls | coach : Scott Skiles | team coach
+sports team : Chicago Bulls | coach : Jim Leavitt | team coach
+sports team : Chicago Bulls | coach : Phil Jackson | team coach
+sports team : Chicago Bulls | coach : Tom Thibodeau | team coach
+sports team : Chicago Bulls | coach : Vinny Del Negro | team coach
+sports team : Kent State Golden Flashes | coach : Doug Martin | team coach
+sports team : New York Giants | coach : Jim Fassel | team coach
+sports team : New York Giants | athlete : Angel Pagan | team coach
+sports team : New York Giants | coach : Tom Coughlin | team coach
+sports team : New York Giants | athlete : Jonathan Sanchez | team coach
+sports team : New York Giants | coach : Coughlin | team coach
+sports team : New York Giants | athlete : Barry Zito | team coach
+sports team : New York Giants | coach : Mike Shanahan | team coach
+sports team : New York Giants | coach : Ray Perkins | team coach
+sports team : New York Giants | person mexico : Drew Bledsoe | team coach
+sports team : Georgia Tech | coach : Chan Gailey | team coach
+sports team : Georgia Tech | coach : Paul Hewitt | team coach
+sports team : Georgia Tech | coach : Paul Johnson | team coach
+sports team : Buccaneers | coach : John Gruden | team coach
+sports team : Seattle Seahawks 21 10 | coach : Jim Mora | team coach
+sports team : Seattle Seahawks 21 10 | coach : Mike Holmgren | team coach
+sports team : Carolina | athlete : Roy Williams | team coach
+sports team : Dallas Mavericks | person australia : Avery Johnson | team coach
+sports team : Timberwolves | coach : Randy Wittman | team coach
+sports team : Texas Rangers | person mexico : Todd Coffey | team coach
+sports team : Bengals | coach : Jeremy Bates | team coach
+sports team : Baylor University In Waco | coach : Art Briles | team coach
+sports team : Baylor University In Waco | coach : Dave Bliss | team coach
+organization : Blue Jays | athlete : Adam Lind | team coach
+organization : Blue Jays | athlete : Vernon Wells | team coach
+organization : Blue Jays | person north america : Roy Halladay | team coach
+sports team : Texas Longhorns | coach : Mack Brown | team coach
+school : Ball State University | coach : Brady Hoke | team coach
+school : Ball State University | coach : Stan Parrish | team coach
+sports team : Cowboys 19 13 | coach : Bill Parcells | team coach
+sports team : Cowboys 19 13 | coach : Dave Campo | team coach
+sports team : Cowboys 19 13 | coach : Bill Walsh | team coach
+sports team : Cowboys 19 13 | coach : Jason Garrett | team coach
+sports team : Cowboys 19 13 | coach : Jimmy Johnson | team coach
+sports team : Cowboys 19 13 | coach : Wade Phillips | team coach
+sports team : Red Wings | coach : Mike Babcock | team coach
+sports team : Houston Astros | athlete : Michael Bourn | team coach
+sports team : Boston College | coach : Jeff Jagodzinski | team coach
+sports team : Boston College | coach : Tom O Brien | team coach
+sports team : Boston College | coach : Al Skinner | team coach
+school : Stanford | coach : Johnny Dawkins | team coach
+school : Stanford | person europe : David Carr | team coach
+school : Stanford | coach : Jim Harbaugh | team coach
+sports team : Philadelphia Phillies | athlete : Victorino | team coach
+sports team : Chicago Cubs | athlete : Marlon Byrd | team coach
+sports team : Wolfpack | coach : Chuck Amato | team coach
+sports team : Georgia Bulldogs | coach : Dennis Felton | team coach
+sports team : Georgia Bulldogs | coach : Pat Hill | team coach
+sports team : Georgia Bulldogs | coach : Mark Richt | team coach
+geopolitical location : Georgia State | coach : Bill Curry | team coach
+sports team : Denver Nuggets | coach : George Karl | team coach
+automobile model : Windstar | company : Ford001 | produced by
+automobile model : Honda Cr V | automobile maker : Honda | produced by
+automobile model : Explorer | biotech company : Microsoft | produced by
+automobile model : Explorer | company : Ford001 | produced by
+automobile model : Explorer | company : Microsoft | produced by
+automobile model : Caravan | automobile maker : Dodge | produced by
+software : Microsoft Office Outlook | company : Microsoft | produced by
+chemical : Products | company : Microsoft | produced by
+software : Microsoft Visio | company : Microsoft | produced by
+software : Microsoft Small Business Server | company : Microsoft | produced by
+product : Windows 2000 | company : Microsoft | produced by
+automobile model : Aerostar | company : Ford | produced by
+automobile model : Five Hundred | company : Ford | produced by
+automobile model : Mitsubishi Lancer | automobile maker : Toyota | produced by
+automobile model : Volkswagen Passat | automobile maker : Honda | produced by
+software : Ms Outlook | company : Microsoft | produced by
+software : Notepad | company : Microsoft | produced by
+product : Saturn Astra | automobile maker : Saturn | produced by
+automobile model : Nissan Versa | company : Ford001 | produced by
+software : Active Server Pages | company : Microsoft | produced by
+product : Windows Mobile | company : Microsoft | produced by
+automobile model : Prius | automobile maker : Toyota | produced by
+automobile model : Nissan Murano | automobile maker : Nissan | produced by
+automobile model : Cougar | planet : Mercury | produced by
+product : Tahoe | automobile maker : Chevrolet | produced by
+automobile model : Toyota Matrix | automobile maker : Toyota | produced by
+software : Adobe Golive | company : Microsoft | produced by
+automobile model : Pinto | company : Ford001 | produced by
+automobile model : Pilot | automobile maker : Honda | produced by
+software : Microsoft Office | company : Microsoft | produced by
+automobile model : Windstar Wagon | company : Ford001 | produced by
+software : Excel | biotech company : Use Microsoft | produced by
+software : Excel | company : Microsoft's | produced by
+software : Excel | company : Microsoft | produced by
+automobile model : Transit Connect Wagon | company : Ford001 | produced by
+automobile model : Yaris | automobile maker : Toyota | produced by
+product : Powerpoint | company : Microsoft | produced by
+automobile model : Cortina | company : Ford001 | produced by
+automobile model : Caprice | automobile maker : Chevrolet | produced by
+product : Adobe Acrobat Reader | company : Microsoft | produced by
+automobile model : Corolla | automobile maker : Toyota | produced by
+product : Pdf File | company : Microsoft | produced by
+software : Iis | company : Microsoft | produced by
+software : Viewer | company : Microsoft | produced by
+automobile model : Expedition | company : Ford | produced by
+automobile model : Expedition | company : Ford001 | produced by
+software : Gameboy | company : Nintendo | produced by
+automobile model : Ridgeline | automobile maker : Honda | produced by
+automobile model : Honda Civic | automobile maker : Honda | produced by
+product : Itunes | company : Apple002 | produced by
+product : Itunes | company : Microsoft | produced by
+automobile model : Toyota Corolla | automobile maker : Toyota | produced by
+automobile model : F 150 | company : Ford001 | produced by
+automobile model : F 100 | company : Ford | produced by
+automobile model : F 450 | company : Ford | produced by
+automobile model : Freestyle | company : Ford | produced by
+automobile model : Altima | automobile maker : Nissan | produced by
+automobile model : Toyota Tacoma | automobile maker : Toyota | produced by
+automobile model : Nissan Maxima | automobile maker : Nissan | produced by
+automobile model : Nissan Maxima | automobile maker : Honda | produced by
+product : Explorer Sport | company : Ford001 | produced by
+software : Office Communications Server | company : Microsoft | produced by
+product : Xbox 360001 | biotech company : Microsoft | produced by
+product : Xbox 360001 | company : Microsoft | produced by
+automobile model : Toyota Prius | automobile maker : Toyota | produced by
+automobile model : Toyota Prius | company : Ford001 | produced by
+product : Civic Hybrid | automobile maker : Honda | produced by
+video game : Wii Games | company : Nintendo | produced by
+product : Ford Fusion | automobile maker : Honda | produced by
+product : Ford Fusion | company : Ford001 | produced by
+product : Lotus Notes | company : Microsoft | produced by
+automobile model : F 100 Pickup | company : Ford001 | produced by
+automobile model : Ranchero | company : Ford001 | produced by
+automobile model : Odyssey | automobile maker : Honda | produced by
+automobile model : Super Duty F 250 | company : Ford001 | produced by
+product : Zafira | automobile maker : Vauxhall | produced by
+video game : Solaris | company : Sun Microsystems001 | produced by
+product : Outlook Mobile | company : Microsoft | produced by
+product : Aix | biotech company : Ibm | produced by
+product : Wii | company : Nintendo | produced by
+automobile model : Civic Si | automobile maker : Honda | produced by
+automobile model : E 100 Econoline | company : Ford001 | produced by
+automobile model : E 350 Econoline | company : Ford001 | produced by
+automobile model : N300zx | automobile maker : Nissan | produced by
+product : Internet Explorer | biotech company : Microsoft | produced by
+product : Internet Explorer | company : Microsoft | produced by
+automobile model : Transit Connect | company : Ford001 | produced by
+automobile model : E 250 Econoline | company : Ford001 | produced by
+automobile model : Tundra | automobile maker : Toyota | produced by
+product : Quicktime | company : Apple002 | produced by
+automobile model : E 150 Econoline | company : Ford | produced by
+software : Microsoft Frontpage | company : Microsoft | produced by
+automobile model : Bronco Ii | company : Ford001 | produced by
+automobile model : Versa | automobile maker : Nissan | produced by
+automobile model : Mazda | automobile maker : Toyota | produced by
+product : Access | biotech company : Microsoft | produced by
+product : Access | company : Microsoft | produced by
+product : Ford Mustang | company : Ford001 | produced by
+software : Adobe Illustrator | company : Microsoft | produced by
+automobile model : Maxima | automobile maker : Nissan | produced by
+automobile model : Aspire | company : Ford | produced by
+automobile model : N240sx | automobile maker : Nissan | produced by
+product : Land Cruiser | automobile maker : Toyota | produced by
+software : Novell Groupwise | company : Microsoft | produced by
+software : Adobe Photoshop | company : Microsoft | produced by
+product : Galaxie | company : Ford001 | produced by
+automobile model : Civic | automobile maker : Honda | produced by
+automobile model : Fusion Hybrid | company : Ford001 | produced by
+product : Microsoft Windows | biotech company : Microsoft | produced by
+product : Microsoft Windows | company : Microsoft | produced by
+automobile model : Fiesta | company : Ford | produced by
+software : Netscape Gold | company : Microsoft | produced by
+automobile model : Camry | automobile maker : Toyota | produced by
+ml software : Live | company : Microsoft | produced by
+automobile model : Mustang | company : Ford | produced by
+automobile model : Mustang | company : Ford001 | produced by
+software : Expression Web | company : Microsoft | produced by
+product : Microsoft Internet Explorer | company : Microsoft | produced by
+automobile model : Econoline Cargo Van | company : Ford001 | produced by
+automobile model : Contour | company : Ford | produced by
+product : Microsoft Access | company : Microsoft | produced by
+software : Office Excel | company : Microsoft | produced by
+automobile model : Taurus | company : Ford001 | produced by
+automobile model : Expedition El | company : Ford | produced by
+product : Photoshop | company : Macromedia Corporation | produced by
+automobile model : Hyundai Sonata | automobile maker : Honda | produced by
+automobile model : Granada | company : Ford001 | produced by
+product : Highlander Hybrid | automobile maker : Toyota | produced by
+software : Office 2003 | company : Microsoft | produced by
+product : Acrobat Reader | company : Acrobat | produced by
+product : Acrobat Reader | company : Microsoft | produced by
+automobile model : Volkswagen Golf | automobile maker : Volkswagen | produced by
+software : Office Software | company : Microsoft | produced by
+automobile model : Beetle | automobile maker : Volkswagen | produced by
+automobile model : Toyota Highlander | automobile maker : Toyota | produced by
+product : Ford Explorer | automobile maker : Toyota | produced by
+product : Ford Explorer | company : Ford001 | produced by
+automobile model : Tempo | company : Ford001 | produced by
+software : Golive | company : Microsoft | produced by
+software : Microsoft Paint | company : Microsoft | produced by
+software : Systems Management Server | company : Microsoft | produced by
+product : Iphone | company : Apple002 | produced by
+software : Adobe Pagemaker | company : Microsoft | produced by
+software : Netscape Composer | company : Microsoft | produced by
+product : Macbook | company : Apple002 | produced by
+software : Microsoft Exchange | company : Microsoft | produced by
+video game : Guitar Hero | company : Activision | produced by
+automobile model : F Series | company : Ford001 | produced by
+product : Ford Taurus | automobile maker : Toyota | produced by
+automobile model : Honda Fit | automobile maker : Honda | produced by
+automobile model : Honda Fit | automobile maker : Toyota | produced by
+automobile model : Honda Fit | company : Ford001 | produced by
+product : Mac001 | company : Apple002 | produced by
+software : Dreamweaver | company : Microsoft | produced by
+product : Macintosh | company : Apple002 | produced by
+product : Macintosh | company : Microsoft | produced by
+automobile model : Zx2 | company : Ford | produced by
+automobile model : Ram | automobile maker : Dodge | produced by
+product : Playstation | company : Sony002 | produced by
+automobile model : Exp | company : Ford001 | produced by
+automobile model : Crv | automobile maker : Honda | produced by
+automobile model : Super Duty F 450 Drw | company : Ford001 | produced by
+automobile model : Toyota Highlander Hybrid | automobile maker : Toyota | produced by
+product : Insight | automobile maker : Honda | produced by
+software : Quickbooks | company : Microsoft | produced by
+automobile model : Econoline Wagon | company : Ford001 | produced by
+automobile model : Festiva | company : Ford001 | produced by
+automobile model : Toyota Camry | automobile maker : Toyota | produced by
+automobile model : Toyota Avalon | automobile maker : Toyota | produced by
+product : Fairlane | company : Ford001 | produced by
+automobile model : Honda Accord | automobile maker : Honda | produced by
+automobile model : Honda Accord | company : Ford001 | produced by
+product : Exchange | biotech company : Microsoft | produced by
+product : Exchange | company : Microsoft | produced by
+software : Autocad | company : Microsoft | produced by
+automobile model : Courier | company : Ford001 | produced by
+software : Microsoft Excel | company : Microsoft | produced by
+automobile model : Country Squire | company : Ford001 | produced by
+drug : Lipitor | biotech company : Pfizer | produced by
+product : Wii Console | company : Nintendo | produced by
+vehicle : Nt | biotech company : Microsoft | produced by
+automobile model : Escort | company : Ford001 | produced by
+product : Microsoft Windows Server 2003 | company : Microsoft | produced by
+automobile model : Ltd Ii | company : Ford001 | produced by
+product : Playstation 3 | company : Sony002 | produced by
+product : Playstation 2 | company : Sony001 | produced by
+product : Adobe Photoshop Elements | company : Microsoft | produced by
+software : Media Player | company : Microsoft | produced by
+product : Mountain Dew | company : Pepsico | produced by
+product : Visual Studio's Net | company : Microsoft | produced by
+software : Autocad | company : Microsoft | produced by
+product : Colgate | company : Colgate Palmolive | produced by
+vehicle : Mail | company : Microsoft | produced by
+automobile model : Echo | automobile maker : Toyota | produced by
+automobile model : F350 | company : Ford | produced by
+automobile model : F150 | company : Ford001 | produced by
+automobile model : Pathfinder | automobile maker : Nissan | produced by
+software : Macromedia Dream Weaver | company : Microsoft | produced by
+automobile model : Quest | automobile maker : Nissan | produced by
+automobile model : Club Wagon | company : Ford | produced by
+automobile model : Thunderbird | company : Ford | produced by
+automobile model : Thunderbird | company : Ford001 | produced by
+software : Microsoft Powerpoint | company : Microsoft | produced by
+product : Word | company : Microsoft's | produced by
+product : Word | company : Microsoft | produced by
+product : Outlook Email | company : Microsoft | produced by
+product : Xbox | biotech company : Microsoft | produced by
+product : Xbox | company : Microsoft | produced by
+software : Adobe Creative Suite | company : Microsoft | produced by
+software : Front Page | company : Microsoft | produced by
+software : Active Directory | company : Microsoft | produced by
+software : Visual Basic | company : Microsoft | produced by
+video game : Wii Fit | company : Nintendo | produced by

@@ -1,0 +1,358 @@
+concept:academicfieldconcernssubject	academic field concerns subject
+concept:academicfieldsuchasacademicfield	academic field such as academic field
+concept:academicprogramatuniversity	academic program at university
+concept:acquired	acquired
+concept:actorcanbethesameasathlete	actor can be the same as athlete
+concept:actorsuchasactor	actor such as actor
+concept:actorworkedwithdirector	actor worked with director
+concept:agentactsinlocation	agent acts in location
+concept:agentcollaborateswithagent	agent collaborates with agent
+concept:agentcompeteswithagent	agent competes with agent
+concept:agentcontributedtocreativework	agent contributed to creative work
+concept:agentcontrols	agent controls
+concept:agentcreated	agent created
+concept:agentcreatedorganization	agent created organization
+concept:agenthaswebsite	agent has website
+concept:agentinvolvedwithitem	agent involved with item
+concept:agentowns	agent owns
+concept:agentparticipatedinevent	agent participated in event
+concept:agentstudiesphysiologicalcondition	agent studies physiological condition
+concept:agentworkedondrug	agent worked on drug
+concept:ageofperson	age of person
+concept:agriculturalproductcamefromcountry	agricultural product came from country
+concept:agriculturalproductcomingfromvertebrate	agricultural product coming from vertebrate
+concept:agriculturalproductcontainchemical	agricultural product contain chemical
+concept:agriculturalproductcookedwithagriculturalproduct	agricultural product cooked with agricultural product
+concept:agriculturalproductcutintogeometricshape	agricultural product cut into geometric shape
+concept:agriculturalproductgrowinginstateorprovince	agricultural product growing in state or province
+concept:agriculturalproductgrowninlandscapefeatures	agricultural product grown in landscape features
+concept:agriculturalproductincludingagriculturalproduct	agricultural product including agricultural product
+concept:agriculturalproducttoattractinsect	agricultural product to attract insect
+concept:airportincity	airport in city
+concept:airportsuchasairport	airport such as airport
+concept:amphibiansuchasamphibian	amphibian such as amphibian
+concept:animaldevelopdisease	animal develop disease
+concept:animaleatfood	animal eat food
+concept:animaleatvegetable	animal eat vegetable
+concept:animalpreyson	animal preys on
+concept:animalssuchasmammals	animals such as mammals
+concept:animalsuchasfish	animal such as fish
+concept:animalsuchasinsect	animal such as insect
+concept:animalsuchasinvertebrate	animal such as invertebrate
+concept:animalsuchasmollusk	animal such as mollusk
+concept:animalthatfeedoninsect	animal that feed on insect
+concept:animaltypehasanimal	animal type has animal
+concept:aquariumssuchasaquariums	aquariums such as aquariums
+concept:arachnidiseatenbybird	arachnid is eaten by bird
+concept:arachnidssuchasarachnids	arachnids such as arachnids
+concept:archaeasuchasarchaea	archaea such as archaea
+concept:architectssuchasarchitects	architects such as architects
+concept:arteriessuchasarteries	arteries such as arteries
+concept:arteryarisesfromartery	artery arises from artery
+concept:arthropodandotherarthropod	arthropod and other arthropod
+concept:arthropodlookslikeinsect	arthropod looks like insect
+concept:arthropodsuchascrustacean	arthropod such as crustacean
+concept:astronautssuchasaustronauts	astronauts such as austr on a uts
+concept:astronautwasonamissionwithastronaut	astronaut was on a mission with astronaut
+concept:athletealsoknownas	athlete also known as
+concept:athletebeatathlete	athlete beat athlete
+concept:athletecoach	athlete coach
+concept:athletefracturedbone	athlete fractured bone
+concept:athletehomestadium	athlete home stadium
+concept:athleteinjuredhisbodypart	athlete injured his body part
+concept:athleteledsportsteam	athlete led sports team
+concept:athleteplayedforschool	athlete played for school
+concept:athletepublishesinblog	athlete publishes in blog
+concept:athletessuchasathletes	athletes such as athletes
+concept:athletewinsawardtrophytournament	athlete wins award trophy tournament
+concept:attractionmadeofbuildingmaterial	attraction made of building material
+concept:automobileenginesuchasautomobileengine	automobile engine such as automobile engine
+concept:automobilemakercardealersinstateorprovince	automobile maker car dealers in state or province
+concept:automobilemakerchiefexecutiveceo	automobile maker chief executive ceo
+concept:automobilemakerdealersincity	automobile maker dealers in city
+concept:automobilemakerdealersincountry	automobile maker dealers in country
+concept:awardtrophytournamentisthechampionshipgameofthenationalsport	award trophy tournament is the championship game of the national sport
+concept:awardtrophytournamentwasawardedonstadium	award trophy tournament was awarded on stadium
+concept:bacteriacancauseillnessfromfood	bacteria can cause illness from food
+concept:bacteriaisthecausativeagentofphysiologicalcondition	bacteria is the causative agent of physiological condition
+concept:bakedgoodservedwithbeverage	baked good served with beverage
+concept:bakegoodistypicalincountry	bake good is typical in country
+concept:bankbankincountry	bank bank in country
+concept:bankboughtbank	bank bought bank
+concept:bankchiefexecutiveceo	bank chief executive ceo
+concept:beveragecansoftendisease	beverage can soften disease
+concept:beveragecontainsprotein	beverage contains protein
+concept:birdmayconsumeprotein	bird may consume protein
+concept:bodypartcontainsmuscle	body part contains muscle
+concept:bodypartwithinbodypart	body part within body part
+concept:booksuchasbook	book such as book
+concept:bookwriter	book writer
+concept:brotherof	brother of
+concept:buildingfeaturebuiltabovelake	building feature built above lake
+concept:buildingfeaturemadefrombuildingmaterial	building feature made from building material
+concept:buildingispartofuniversity	building is part of university
+concept:celebritysuchascelebrity	celebrity such as celebrity
+concept:ceoof	ceo of
+concept:chemicaltypehaschemical	chemical type has chemical
+concept:cityalsoknownas	city also known as
+concept:cityaquariums	city aquariums
+concept:cityattractions	city attractions
+concept:citycontainsbuilding	city contains building
+concept:cityhotels	city hotels
+concept:citylanguage	city language
+concept:cityliesonriver	city lies on river
+concept:citymuseums	city museums
+concept:citynewspaper	city newspaper
+concept:cityoforganizationheadquarters	city of organization headquarters
+concept:cityparks	city parks
+concept:cityradiostation	city radio station
+concept:cityresidenceofperson	city residence of person
+concept:cityrestaurants	city restaurants
+concept:citytelevisionstation	city television station
+concept:cityzoos	city zoos
+concept:clothingmadefromplant	clothing made from plant
+concept:clothingtogowithclothing	clothing to go with clothing
+concept:clothmadeofplant	cloth made of plant
+concept:coachalsoknownas	coach also known as
+concept:coachcanspeaklanguage	coach can speak language
+concept:coachstudiedatuniversity	coach studied at university
+concept:coachwontrophy	coach won trophy
+concept:coachworksincountry	coachworks in country
+concept:colorassociatedwithvisualizableattribute	color associated with visualiza ble attribute
+concept:colorofobject	color of object
+concept:companyalsoknownas	company also known as
+concept:companyhasshareholder	company has shareholder
+concept:companyproducesvideogamesystem	company produces video game system
+concept:competeswith	competes with
+concept:conceptprerequisiteof	concept prerequisite of
+concept:conferencessuchasconferences	conferences such as conferences
+concept:countriessuchascountries	countries such as countries
+concept:countryalsoknownas	country also known as
+concept:countrycapital	country capital
+concept:countrycities	country cities
+concept:countrycontainsfarm	country contains farm
+concept:countryhascitizen	country has citizen
+concept:countryisthehomeofsportsteam	country is the home of sports team
+concept:countrylanguage	country language
+concept:countryoforganizationheadquarters	country of organization headquarters
+concept:countryproducesproduct	country produces product
+concept:countryresidenceofperson	country residence of person
+concept:countrystates	country states
+concept:crimeorchargeofperson	crime or charge of person
+concept:criminalarrestedincountry	criminal arrested in country
+concept:criminalssuchascriminals	criminals such as criminals
+concept:currencycountry	currency country
+concept:dateevent	date event
+concept:dateofmeetingeventtitle	date of meeting event title
+concept:directordirectedmovie	director directed movie
+concept:diseasecausesphysiologicalcondition	disease causes physiological condition
+concept:diseasemaybecausedbydrug	disease may be caused by drug
+concept:drugexpectedreleasedate	drug expected release date
+concept:drughassideeffect	drug has side effect
+concept:drugpossiblytreatsphysiologicalcondition	drug possibly treats physiological condition
+concept:economicsectorcompany	economic sector company
+concept:economicsectorusingacademicfield	economic sector using academic field
+concept:emotionassociatedwithdisease	emotion associated with disease
+concept:eventatlocation	event at location
+concept:farmproducesagriculturalproduct	farm produces agricultural product
+concept:fatherofperson	father of person
+concept:fishservedwithfood	fish served with food
+concept:foodcancausedisease	food can cause disease
+concept:fooddecreasestheriskofdisease	food decreases the risk of disease
+concept:furniturefoundinroom	furniture found in room
+concept:generalizationof	generalization of
+concept:geopoliticallocationcontainscity	geopolitical location contains city
+concept:geopoliticallocationcontainscountry	geopolitical location contains country
+concept:geopoliticallocationcontainsstate	geopolitical location contains state
+concept:geopoliticallocationresidenceofpersion	geopolitical location residence of persion
+concept:grainusedtomakecandy	grain used to make candy
+concept:hasfamilymember	has family member
+concept:hasofficeincity	has office in city
+concept:hasofficeincountry	has office in country
+concept:hassibling	has sibling
+concept:hasspouse	has spouse
+concept:hobbiessuchashobbies	hobbies such as hobbies
+concept:hospitalincity	hospital in city
+concept:hotelbuiltatpark	hotel built at park
+concept:hotelwasbuiltatfarm	hotel was built at farm
+concept:husbandof	husband of
+concept:insectcanbeconfundedwitharthropod	insect can be con funded with arthropod
+concept:insecteatsgrain	insect eats grain
+concept:inverseofarthropodcalledarthropod	inverse of arthropod called arthropod
+concept:inverseoftouristattraction	inverse of tourist attraction
+concept:invertebratefeedonfood	invertebrate feed on food
+concept:invertebratehascolor	invertebrate has color
+concept:invertebrateturnintoinsect	invertebrate turn into insect
+concept:islandhasskiarea	island has ski area
+concept:ismultipleof	is multiple of
+concept:issueofpoliticsbill	issue of politics bill
+concept:issueofpoliticsgroup	issue of politics group
+concept:istallerthan	is taller than
+concept:itemexistsatlocation	item exists at location
+concept:itemfoundinroom	item found in room
+concept:jobpositionusesacademicfield	job position uses academic field
+concept:lakeinstate	lake in state
+concept:languageofsportsgame	language of sports game
+concept:languageofuniversity	language of university
+concept:languageschoolincity	language school in city
+concept:languagespokenatisland	language spoken at island
+concept:leaguecoaches	league coaches
+concept:leagueplayers	league players
+concept:leaguestadiums	league stadiums
+concept:leagueteams	league teams
+concept:locatedat	located at
+concept:locationcontainslocation	location contains location
+concept:loseringame	loser in game
+concept:magazinecontainspublication	magazine contains publication
+concept:magazineisleadbyceo	magazine is lead by ceo
+concept:malemovedtostateorprovince	male moved to state or province
+concept:mammalcanbeirritatedbyarthropod	mammal can be irritated by arthropod
+concept:mammaleatsinsect	mammal eats insect
+concept:mammalinducesemotion	mammal induces emotion
+concept:mammalsuchasmammal	mammal such as mammal
+concept:marriedinyear	married in year
+concept:meatcomesfromanimal	meat comes from animal
+concept:meetingeventtitlehasmeetingeventtype	meeting event title has meeting event type
+concept:meetingeventtitleinbuilding	meeting event title in building
+concept:meetingeventtitleinofficebuildingroom	meeting event title in office building room
+concept:mlareaexpert	ml area expert
+concept:mlsoftwareauthor	ml software author
+concept:motherofperson	mother of person
+concept:mountainatgeopoliticallocation	mountain at geopolitical location
+concept:mountaininstate	mountain in state
+concept:moviessuchasmovies	movies such as movies
+concept:moviestaractor	movie star actor
+concept:musicalartisthadapetanimal	musical artist had a pet animal
+concept:musicartistgenre	music artist genre
+concept:musicartistmusician	music artist musician
+concept:musicfestivalssuchasmusicfestivals	music festivals such as music festivals
+concept:musicgenressuchasmusicgenres	music genres such as music genres
+concept:musicianplaysinstrument	musician plays instrument
+concept:musicsongisatrackofmusicalbum	music song is a track of music album
+concept:mutualproxyfor	mutual proxy for
+concept:newpaperhaswebsite	new paper has website
+concept:objectfoundinscene	object found in scene
+concept:objectlookslikeobject	object looks like object
+concept:objectpartofobject	object part of object
+concept:officebuildingroominbuilding	office building room in building
+concept:officialwebsiteoforganization	official website of organization
+concept:organizationalsoknownas	organization also known as
+concept:organizationcreatedatdate	organization created at date
+concept:organizationdissolvedatdate	organization dissolved at date
+concept:organizationhasagent	organization has agent
+concept:organizationhasbuilding	organization has building
+concept:organizationhasperson	organization has person
+concept:organizationhiredperson	organization hired person
+concept:organizationnamehasacronym	organization name has acronym
+concept:organizationterminatedperson	organization terminated person
+concept:parentofperson	parent of person
+concept:personalsoknownas	person also known as
+concept:personattendsschool	person attends school
+concept:personbirthdate	person birthdate
+concept:personbornincity	person born in city
+concept:personbornincountry	person born in country
+concept:personborninlocation	person born in location
+concept:personborninstateorprovince	person born in state or province
+concept:persondeathdate	person death date
+concept:persondiedincity	person died in city
+concept:persondiedincountry	person died in country
+concept:persondiedinlocation	person died in location
+concept:persondiedinstateorprovince	person died in state or province
+concept:persongraduatedfromuniversity	person graduated from university
+concept:persongraduatedschool	person graduated school
+concept:personhasethnicity	person has ethnicity
+concept:personhasjobposition	person has job position
+concept:personinacademicfield	person in academic field
+concept:personineconomicsector	person in economic sector
+concept:personleadscity	person leads city
+concept:personleadsgeopoliticalorganization	person leads geopolitical organization
+concept:personleadsorganization	person leads organization
+concept:personmovedtostateorprovince	person moved to state or province
+concept:personspeakingatmeetingeventtitle	person speaking at meeting event title
+concept:plantgrowinginplant	plant growing in plant
+concept:plantincludeplant	plant include plant
+concept:plantrepresentemotion	plant represent emotion
+concept:players	players
+concept:politicalgroupofpoliticianus	political group of politician us
+concept:politicianholdsoffice	politician holds office
+concept:politicianrepresentslocation	politician represents location
+concept:politicianusendorsespoliticianus	politician us endorses politician us
+concept:politicianusholdsoffice	politician us holds office
+concept:politicianussponsoredpoliticsbill	politician us sponsored politics bill
+concept:politicianuswenttoschool	politician us went to school
+concept:producedby	produced by
+concept:productinstances	product instances
+concept:professionactsatthesameareaofpoliticissue	profession acts at the same area of politic issue
+concept:professionssuchasprofessions	professions such as professions
+concept:professiontypehasprofession	profession type has profession
+concept:professionusestool	profession uses tool
+concept:proxyof	proxy of
+concept:publicationjournalist	publication journalist
+concept:publicationwritesabout	publication writes about
+concept:religionofperson	religion of person
+concept:religionssuchasreligions	religions such as religions
+concept:religionusesplaceofworship	religion uses place of worship
+concept:riveremptiesintoriver	river empties into river
+concept:shapeofobject	shape of object
+concept:shoppingmallincity	shopping mall in city
+concept:sisterof	sister of
+concept:skyscrapercontainsrestaurant	skyscraper contains restaurant
+concept:softwareisprogrammedinprogramminglanguage	software is programmed in programming language
+concept:sportfansincountry	sport fans in country
+concept:sporthassportsteamposition	sport has sports team position
+concept:sportschoolincountry	sport school in country
+concept:sportsgamedate	sports game date
+concept:sportsgameloserscore	sports game loser score
+concept:sportsgamescore	sports games core
+concept:sportsgamesport	sports games port
+concept:sportsgamewinnerscore	sports gamewinners core
+concept:sportsteampositionathlete	sports team position athlete
+concept:sportusesequipment	sport uses equipment
+concept:sportusesstadium	sport uses stadium
+concept:stadiumalsoknownas	stadium also known as
+concept:stadiumoreventvenuedisclosescompany	stadium or event venue discloses company
+concept:statecontainscity	state contains city
+concept:statecontainsfarm	state contains farm
+concept:statehascapital	state has capital
+concept:stateorprovinceattainstrainstation	state or province attains train station
+concept:stateorprovinceisborderedbystateorprovince	state or province is bordered by state or province
+concept:stateorprovinceoforganizationheadquarters	state or province of organization headquarters
+concept:stateorprovinceresidenceofperson	state or province residence of person
+concept:streetincity	street in city
+concept:subfieldofacademicfield	subfield of academic field
+concept:subpartof	subpart of
+concept:subpartoforganization	subpart of organization
+concept:synonymfor	synonym for
+concept:teamalsoknownas	team also known as
+concept:teamcoach	team coach
+concept:teamhomestadium	team home stadium
+concept:teamingame	team in game
+concept:teammate	teammate
+concept:teammember	team member
+concept:teamplaysagainstteam	team plays against team
+concept:teamplaysincity	team plays in city
+concept:teamwontrophy	team won trophy
+concept:televisioncompanyaffiliate	television company affiliate
+concept:televisionshowisbasedonmovie	television show is based on movie
+concept:televisionshowssuchastelevisionshows	television shows such as television shows
+concept:toolssuchastools	tools such as tools
+concept:topmemberoforganization	top member of organization
+concept:transportationincity	transportation in city
+concept:universityincity	university in city
+concept:universityledmusicfestival	university led music festival
+concept:vegetablecanbeservedwithgrain	vegetable can be served with grain
+concept:vegetableisproducedatcountry	vegetable is produced at country
+concept:vegetableproductioninstateorprovince	vegetable production in state or province
+concept:vehicletypehasvehicle	vehicle type has vehicle
+concept:videogamessuchasvideogames	video games such as videogames
+concept:visualartistartform	visual artist art form
+concept:visualartmovementartist	visual art movement artist
+concept:weaponmadeincountry	weapon made in country
+concept:weaponssuchasweapons	weapons such as weapons
+concept:wifeof	wife of
+concept:wineryatfarm	winery at farm
+concept:wineryproduceswine	winery produces wine
+concept:worker	worker
+concept:writecanbethesameasscientist	write can be the same as scientist
+concept:writerwasbornincity	writer was born in city
+concept:zipcodeinlocation	zip code in location

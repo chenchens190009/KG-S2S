@@ -1,0 +1,94 @@
+93
+0	music , artist , origin
+1	people , deceased person , place of death
+2	people , person , profession
+3	location , administrative division , first level division of
+4	location , us county , county seat
+5	location , location , partially contains
+6	tv , tv program , program creator
+7	film , film , music
+8	tv , tv program , languages
+9	film , film set designer , film sets designed
+10	dataworld , gardening hint , split to
+11	people , person , languages
+12	location , country , form of government
+13	people , person , place of birth
+14	sports , sports team , colors
+15	education , educational institution , school type
+16	location , hud county place , county
+17	location , administrative division , country
+18	film , film , film production design by
+19	tv , tv program , country of origin
+20	location , country , second level divisions
+21	education , educational institution , campuses
+22	people , person , religion
+23	music , instrument , instrumentalists
+24	people , cause of death , people
+25	film , film , film art direction by
+26	film , film , cinematography
+27	base , biblioness , bibs location , state
+28	people , person , gender
+29	film , director , film
+30	olympics , olympic games , sports
+31	music , record label , artist
+32	film , film , story by
+33	people , profession , specialization of
+34	base , americancomedy , celebrity impressionist , celebrities impersonated
+35	tv , tv program , genre
+36	language , human language , countries spoken in
+37	education , university , fraternities and sororities
+38	location , location , time zones
+39	film , film subject , films
+40	education , educational institution , colors
+41	award , award category , category of
+42	film , film , language
+43	film , film , film festivals
+44	base , aareas , schema , administrative area , administrative parent
+45	organization , organization , place founded
+46	medicine , disease , risk factors
+47	broadcast , content , artist
+48	people , deceased person , place of burial
+49	film , film , prequel
+50	film , film , produced by
+51	olympics , olympic games , participating countries
+52	music , genre , parent genre
+53	music , genre , artists
+54	film , film , genre
+55	people , person , nationality
+56	location , country , capital
+57	base , aareas , schema , administrative area , capital
+58	business , business operation , industry
+59	film , film , film format
+60	medicine , disease , notable people with this condition
+61	film , film , costume design by
+62	organization , organization founder , organizations founded
+63	sports , sports team , sport
+64	people , ethnicity , geographic distribution
+65	location , country , official language
+66	film , film , production companies
+67	user , jg , default domain , olympic games , sports
+68	time , event , locations
+69	media common , netflix genre , titles
+70	user , alexander , philosophy , philosopher , interests
+71	base , eating , practicer of diet , diet
+72	medicine , symptom , symptom of
+73	sports , sports team location , teams
+74	music , instrument , family
+75	award , award category , disciplines or subjects
+76	film , film , edited by
+77	film , film , country
+78	time , event , instance of recurring event
+79	influence , influence node , influenced by
+80	base , culturalevent , event , entity involved
+81	people , ethnicity , people
+82	location , hud county place , place
+83	base , aareas , schema , administrative area , administrative area type
+84	base , locations , continents , countries within
+85	film , film , written by
+86	film , film , featured film locations
+87	education , educational institution campus , educational institution
+88	people , ethnicity , languages spoken
+89	film , film , executive produced by
+90	location , location , contains
+91	base , biblioness , bibs location , country
+92	user , ktrueman , default domain , international organization , member states

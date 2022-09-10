@@ -1,0 +1,359 @@
+358
+0	person has ethnicity
+1	color of object
+2	agricultural product cooked with agricultural product
+3	agricultural product grown in landscape features
+4	city lies on river
+5	zip code in location
+6	agricultural product including agricultural product
+7	ml software author
+8	professions such as professions
+9	has spouse
+10	team member
+11	concept prerequisite of
+12	award trophy tournament is the championship game of the national sport
+13	chemical type has chemical
+14	state or province is bordered by state or province
+15	age of person
+16	language of university
+17	body part contains muscle
+18	agent has website
+19	body part within body part
+20	award trophy tournament was awarded on stadium
+21	person died in state or province
+22	inverse of tourist attraction
+23	actor worked with director
+24	software is programmed in programming language
+25	television company affiliate
+26	politician us sponsored politics bill
+27	person born in location
+28	aquariums such as aquariums
+29	generalization of
+30	ml area expert
+31	publication journalist
+32	music artist genre
+33	invertebrate has color
+34	loser in game
+35	emotion associated with disease
+36	state or province attains train station
+37	sports game date
+38	transportation in city
+39	hobbies such as hobbies
+40	music song is a track of music album
+41	city restaurants
+42	league players
+43	sports game loser score
+44	arthropod looks like insect
+45	company also known as
+46	athlete home stadium
+47	country residence of person
+48	issue of politics group
+49	actor can be the same as athlete
+50	arachnids such as arachnids
+51	profession uses tool
+52	official website of organization
+53	athletes such as athletes
+54	agent owns
+55	geopolitical location contains country
+56	astronauts such as austr on a uts
+57	furniture found in room
+58	person in academic field
+59	person born in city
+60	fish served with food
+61	visual art movement artist
+62	person died in country
+63	person graduated from university
+64	video games such as videogames
+65	mammal induces emotion
+66	weapons such as weapons
+67	writer was born in city
+68	city zoos
+69	country language
+70	city aquariums
+71	city residence of person
+72	bird may consume protein
+73	has office in city
+74	stadium or event venue discloses company
+75	person death date
+76	new paper has website
+77	organization also known as
+78	geopolitical location contains city
+79	agent created
+80	street in city
+81	animal such as mollusk
+82	agent competes with agent
+83	architects such as architects
+84	brother of
+85	mammal such as mammal
+86	vegetable is produced at country
+87	sports gamewinners core
+88	worker
+89	magazine contains publication
+90	city parks
+91	country also known as
+92	has family member
+93	person has job position
+94	athlete beat athlete
+95	automobile maker chief executive ceo
+96	product instances
+97	sports games core
+98	country is the home of sports team
+99	insect eats grain
+100	island has ski area
+101	disease may be caused by drug
+102	mother of person
+103	coach can speak language
+104	language spoken at island
+105	person leads organization
+106	country cities
+107	city attractions
+108	city museums
+109	plant include plant
+110	city hotels
+111	job position uses academic field
+112	agent involved with item
+113	winery at farm
+114	attraction made of building material
+115	clothing to go with clothing
+116	visual artist art form
+117	subfield of academic field
+118	person speaking at meeting event title
+119	athlete played for school
+120	mutual proxy for
+121	agent acts in location
+122	mountain in state
+123	movie star actor
+124	coach studied at university
+125	economic sector using academic field
+126	animal type has animal
+127	academic program at university
+128	book writer
+129	person attends school
+130	team also known as
+131	object part of object
+132	grain used to make candy
+133	drug expected release date
+134	state contains farm
+135	company produces video game system
+136	politician holds office
+137	religion uses place of worship
+138	bacteria can cause illness from food
+139	coachworks in country
+140	invertebrate turn into insect
+141	music festivals such as music festivals
+142	athlete fractured bone
+143	object found in scene
+144	television show is based on movie
+145	shape of object
+146	bank chief executive ceo
+147	person birthdate
+148	country produces product
+149	profession acts at the same area of politic issue
+150	movies such as movies
+151	mammal eats insect
+152	animal preys on
+153	book such as book
+154	arachnid is eaten by bird
+155	agent contributed to creative work
+156	office building room in building
+157	bacteria is the causative agent of physiological condition
+158	agricultural product cut into geometric shape
+159	drug has side effect
+160	city contains building
+161	date event
+162	coach also known as
+163	agent created organization
+164	criminal arrested in country
+165	building feature built above lake
+166	meeting event title has meeting event type
+167	airport such as airport
+168	profession type has profession
+169	person born in country
+170	item found in room
+171	plant represent emotion
+172	vegetable can be served with grain
+173	team won trophy
+174	actor such as actor
+175	sports team position athlete
+176	located at
+177	economic sector company
+178	baked good served with beverage
+179	building is part of university
+180	mammal can be irritated by arthropod
+181	team in game
+182	politician us went to school
+183	currency country
+184	issue of politics bill
+185	skyscraper contains restaurant
+186	language school in city
+187	proxy of
+188	river empties into river
+189	disease causes physiological condition
+190	coach won trophy
+191	bake good is typical in country
+192	organization has agent
+193	musical artist had a pet animal
+194	competes with
+195	organization hired person
+196	religions such as religions
+197	company has shareholder
+198	state contains city
+199	beverage can soften disease
+200	meeting event title in building
+201	write can be the same as scientist
+202	animals such as mammals
+203	publication writes about
+204	geopolitical location contains state
+205	vehicle type has vehicle
+206	team plays against team
+207	archaea such as archaea
+208	religion of person
+209	location contains location
+210	person born in state or province
+211	organization created at date
+212	building feature made from building material
+213	sister of
+214	artery arises from artery
+215	hospital in city
+216	television shows such as television shows
+217	organization has person
+218	mountain at geopolitical location
+219	agent participated in event
+220	synonym for
+221	agent worked on drug
+222	cloth made of plant
+223	university in city
+224	athlete also known as
+225	animal develop disease
+226	event at location
+227	musician plays instrument
+228	amphibian such as amphibian
+229	language of sports game
+230	plant growing in plant
+231	person leads city
+232	hotel was built at farm
+233	beverage contains protein
+234	is taller than
+235	state or province residence of person
+236	director directed movie
+237	agent studies physiological condition
+238	person died in city
+239	conferences such as conferences
+240	animal eat food
+241	organization has building
+242	male moved to state or province
+243	astronaut was on a mission with astronaut
+244	university led music festival
+245	city language
+246	meat comes from animal
+247	arthropod such as crustacean
+248	meeting event title in office building room
+249	married in year
+250	arteries such as arteries
+251	insect can be con funded with arthropod
+252	person in economic sector
+253	has sibling
+254	criminals such as criminals
+255	sport uses equipment
+256	athlete wins award trophy tournament
+257	sport has sports team position
+258	league teams
+259	academic field concerns subject
+260	tools such as tools
+261	subpart of organization
+262	acquired
+263	color associated with visualiza ble attribute
+264	subpart of
+265	athlete publishes in blog
+266	object looks like object
+267	is multiple of
+268	celebrity such as celebrity
+269	farm produces agricultural product
+270	hotel built at park
+271	automobile engine such as automobile engine
+272	athlete coach
+273	winery produces wine
+274	city newspaper
+275	stadium also known as
+276	person graduated school
+277	agricultural product contain chemical
+278	person died in location
+279	agent controls
+280	date of meeting event title
+281	players
+282	husband of
+283	city of organization headquarters
+284	country contains farm
+285	lake in state
+286	organization terminated person
+287	magazine is lead by ceo
+288	shopping mall in city
+289	agent collaborates with agent
+290	teammate
+291	league coaches
+292	airport in city
+293	arthropod and other arthropod
+294	country of organization headquarters
+295	vegetable production in state or province
+296	inverse of arthropod called arthropod
+297	agricultural product coming from vertebrate
+298	top member of organization
+299	city radio station
+300	crime or charge of person
+301	ceo of
+302	agricultural product to attract insect
+303	item exists at location
+304	drug possibly treats physiological condition
+305	food decreases the risk of disease
+306	athlete led sports team
+307	bank bought bank
+308	music genres such as music genres
+309	politician us holds office
+310	academic field such as academic field
+311	city television station
+312	animal such as insect
+313	team home stadium
+314	agricultural product growing in state or province
+315	clothing made from plant
+316	organization dissolved at date
+317	invertebrate feed on food
+318	sport fans in country
+319	person leads geopolitical organization
+320	politician represents location
+321	wife of
+322	countries such as countries
+323	animal such as fish
+324	weapon made in country
+325	automobile maker car dealers in state or province
+326	state has capital
+327	league stadiums
+328	team plays in city
+329	music artist musician
+330	country has citizen
+331	country states
+332	state or province of organization headquarters
+333	food can cause disease
+334	organization name has acronym
+335	animal eat vegetable
+336	father of person
+337	country capital
+338	person moved to state or province
+339	person also known as
+340	has office in country
+341	animal that feed on insect
+342	parent of person
+343	political group of politician us
+344	bank bank in country
+345	city also known as
+346	sport uses stadium
+347	sports games port
+348	automobile maker dealers in city
+349	athlete injured his body part
+350	geopolitical location residence of persion
+351	politician us endorses politician us
+352	animal such as invertebrate
+353	sport school in country
+354	agricultural product came from country
+355	automobile maker dealers in country
+356	team coach
+357	produced by

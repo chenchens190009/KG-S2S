@@ -1,0 +1,1005 @@
+1004
+male : Noah | male : Shem | parent of person
+male : Enosh | male : Cainan | parent of person
+person : Dionysos | female : Hermes | parent of person
+person : Center | person : Jesus | parent of person
+male : Heavenly Father | male : Jesus Christ | parent of person
+male : Heavenly Father | person : Lord | parent of person
+male : Heavenly Father | person : Jesus | parent of person
+male : Heavenly Father | person : Son | parent of person
+male : Cain | male : Enoch | parent of person
+person : Mother001 | male : Jesus Christ | parent of person
+person : Mother001 | athlete : Lt's Joseph R's Hunt | parent of person
+person : Mother001 | person : Holy Trinity | parent of person
+person : Mother001 | person : Child | parent of person
+person : Mother001 | person : Lord | parent of person
+person : Mother001 | person : Blessed Sacrament | parent of person
+person : Mother001 | person : Jesus | parent of person
+person : Mother001 | person : Master | parent of person
+person : Mother001 | person : Lord Jesus | parent of person
+person : Mother001 | person : Son | parent of person
+person : Mother001 | person : Cross | parent of person
+person : Mother001 | female : Mary | parent of person
+criminal : Jesse | person : David | parent of person
+person : Image | person : Jesus | parent of person
+person : True God and True Man | person : Jesus | parent of person
+male : Uranus | person : Saturn | parent of person
+female : Blessed Virgin Mary | person : Jesus | parent of person
+person : True Lord | person : Jesus | parent of person
+male : Mahalaleel | person : Jared001 | parent of person
+male : Arphaxad | male : Cainan | parent of person
+person : Guide | person : Jesus | parent of person
+person europe : Author | person : Jesus | parent of person
+person : Great | person : Jesus | parent of person
+person : May God | male : Jesus Christ | parent of person
+female : Faith | person : Jesus | parent of person
+person : One Person | person : Jesus | parent of person
+male : Laban | male : Jacob | parent of person
+male : Laban | person : Leah | parent of person
+female : the Virgin | person : Jesus | parent of person
+person : True God | male : Jesus Christ | parent of person
+person : True God | person south america : Jesus | parent of person
+female : Mother Mary | male : Jesus Christ | parent of person
+female : Mother Mary | person : Jesus | parent of person
+female : Mother Mary | person : Lord Jesus | parent of person
+person : Peter | person : John002 | parent of person
+person : Peter | person : John the Baptist | parent of person
+person : News | person south america : Jesus | parent of person
+male : Yahweh | male : Yahshua | parent of person
+male : Yahweh | person : Jesus | parent of person
+person : Master | person : Christ Jesus | parent of person
+person : Life | male : Jesus Christ | parent of person
+person : Life | person : Christ Jesus | parent of person
+person : Life | person : Jesus | parent of person
+person : Life | person : Lord Jesus | parent of person
+person : Life | person : Eden | parent of person
+person : Lion | person : Jesus | parent of person
+person : Lord | person south america : Jesus | parent of person
+person : Lord | person : Christ Jesus | parent of person
+person : Lord | male : Yeshua | parent of person
+person : Lord | person south america : Real Jesus | parent of person
+person : Lord | person south america : Jesus | parent of person
+person : Lord | person : Eden | parent of person
+person : Miley Cyrus | person : Billy Ray Cyrus | parent of person
+person : Pandu | person : Arjuna | parent of person
+person : Hero | person : Jesus | parent of person
+person : Christian | male : Jesus Christ | parent of person
+person : Christian | person : Jesus | parent of person
+person : Pattern | person : Jesus | parent of person
+person : Adam | male : Seth | parent of person
+person : Adam | male : Noah | parent of person
+person : Adam | person : Garden of Eden | parent of person
+person : Adam | person : Garden | parent of person
+person : Adam | person : Eden | parent of person
+person : Adam | male : Cain | parent of person
+person : Eve001 | female : Man | parent of person
+person : Eve001 | person : Garden of Eden | parent of person
+person : Eve001 | person : Sin | parent of person
+person : Eve001 | person : Creation | parent of person
+person : Eve001 | person : Garden | parent of person
+person : Eve001 | person : Eden | parent of person
+person : Eve001 | person : Life | parent of person
+person : Eve001 | male : Cain | parent of person
+person : Friend | person : Jesus | parent of person
+person europe : Father | male : Jesus Christ | parent of person
+person europe : Father | male : Yeshua | parent of person
+person europe : Father | person : Saviour | parent of person
+person europe : Father | person : Christ Jesus | parent of person
+person europe : Father | male : Yahshua | parent of person
+person europe : Father | person : Lord | parent of person
+person europe : Father | person : Master | parent of person
+person europe : Father | person : Lord Jesus | parent of person
+person europe : Father | person south america : Jesus | parent of person
+person europe : Father | person : Son | parent of person
+person europe : Father | person : Savior | parent of person
+person europe : Father | female : Mary | parent of person
+male : Terah | male : Abram | parent of person
+male : Terah | male : Abraham | parent of person
+person : Shepherd | person : Lord Jesus | parent of person
+person : Shepherd | person south america : Jesus | parent of person
+person : Hannah | person : Samuel001 | parent of person
+person : Wife Eve | person : Eden | parent of person
+person : Creator | male : Jesus Christ | parent of person
+person : Creator | person : Lord Jesus | parent of person
+person : Creator | person south america : Jesus | parent of person
+person : Creator | person : Son | parent of person
+person : Arjuna | female : Kunti | parent of person
+male : Abraham | male : Isaac | parent of person
+male : Abraham | male : Noah | parent of person
+male : Abraham | person : Ishmael | parent of person
+male : Abraham | person : Jesus | parent of person
+male : Abraham | male : Jacob | parent of person
+male : Abraham | person : Isaac | parent of person
+person : Begotten Son | person : Lord Jesus | parent of person
+person : Begotten Son | person south america : Jesus | parent of person
+male : Serug | male : Nahor | parent of person
+monarch : Vespasian | monarch : Titus | parent of person
+male : Jacob | male : Isaac | parent of person
+male : Jacob | male : Laban | parent of person
+male : Jacob | athlete : Lt's Joseph R's Hunt | parent of person
+male : Jacob | person : Lord | parent of person
+person : Holy Ghost | male : Jesus Christ | parent of person
+person : Holy Ghost | person : Lord | parent of person
+person : Holy Ghost | person : Lord Jesus | parent of person
+person : Holy Ghost | person south america : Jesus | parent of person
+person : Holy Ghost | person : Son | parent of person
+male : Salah | male : Eber | parent of person
+person : Sacrifice | person south america : Jesus | parent of person
+person : Buddha001 | person : Jesus | parent of person
+male : Isaac | male : Jacob | parent of person
+athlete : Michael | person : Jesus | parent of person
+female : Blessed Virgin | coach : New Orleans Saints | parent of person
+female : Blessed Virgin | person : Jesus | parent of person
+female : Mary | person : Saviour | parent of person
+female : Mary | male : Jesus Christ | parent of person
+female : Mary | person europe : Infant | parent of person
+female : Mary | coach : New Orleans Saints | parent of person
+female : Mary | person : Child | parent of person
+female : Mary | person : Lord | parent of person
+female : Mary | person : Jesus | parent of person
+female : Mary | person : Baby | parent of person
+female : Mary | person : Lord Jesus | parent of person
+female : Mary | person : Savior | parent of person
+female : Mary | person europe : Father | parent of person
+female : Mary | person : James003 | parent of person
+person : Christians | person : Jesus | parent of person
+person : David | person : Solomon | parent of person
+person : Husband | person : Jesus | parent of person
+female : Virgin | male : Jesus Christ | parent of person
+female : Virgin | person : Christ Child | parent of person
+female : Virgin | female : Angels | parent of person
+female : Virgin | coach : New Orleans Saints | parent of person
+female : Virgin | person : Lord | parent of person
+female : Virgin | person : Jesus | parent of person
+female : Virgin | person : Lord Jesus | parent of person
+female : Blessed Mother | person : Jesus | parent of person
+male : Lamech | male : Noah Five Hundred | parent of person
+female : Holy Mother | person : Jesus | parent of person
+person : Jared001 | male : Enoch | parent of person
+person : Jared001 | male : Enoch Eight Hundred Years | parent of person
+monarch : God the Father | male : Jesus Christ | parent of person
+monarch : God the Father | person south america : Jesus | parent of person
+monarch : God the Father | person : Son | parent of person
+person : Cross | male : Jesus Christ | parent of person
+person : Christopher001 | person : Jesus | parent of person
+person : Shepard | person : Jesus | parent of person
+person us : Julia Roberts | person : Henry Daniel Moder | parent of person
+person us : Julia Roberts | person : Phinneaus Walter Moder | parent of person
+person : Son | male : Yeshua | parent of person
+person : Son | person : Jesus | parent of person
+person : Son | female : Mary | parent of person
+person : Jew | person : Jesus | parent of person
+person : Child | person : Jesus | parent of person
+writer : King | person south america : Son Jesus | parent of person
+person : Example | person : Jesus | parent of person
+male : King David | person : Jesus | parent of person
+politician us : Grace | male : Jesus Christ | parent of person
+politician us : Grace | person : Jesus | parent of person
+person : Saviour | person : Jesus | parent of person
+person : Saviour | person europe : Father | parent of person
+person : Second Person | person : Jesus | parent of person
+person : John the Baptist | person : Lord Jesus | parent of person
+person : Catholic | person : Jesus | parent of person
+person : Savior | person : Christ Jesus | parent of person
+person : Savior | male : Yeshua | parent of person
+person : Savior | person south america : Jesus | parent of person
+person : Savior | person : Accept Jesus Christ | parent of person
+person : Savior | male : Yahshua | parent of person
+person : Savior | person south america : Biblical Jesus | parent of person
+person : Savior | person south america : Son Jesus | parent of person
+person : Savior | person : Begotten Son | parent of person
+person : Savior | person : Lord Jesus | parent of person
+person : Savior | person south america : Jesus | parent of person
+person : Savior | person europe : Father | parent of person
+person : Savior | person : God Jesus | parent of person
+person : Savior | scientist : Jesuschrist | parent of person
+person : Saturn | male : Uranus | parent of person
+person : Billy Ray Cyrus | person : Miley Cyrus | parent of person
+female : Man | male : Jesus Christ | parent of person
+female : Man | person : Jesus | parent of person
+female : Man | person : Lord Jesus | parent of person
+female : Man | person : Eden | parent of person
+female : Hermes | person : Dionysos | parent of person
+politician us : Rachel | person : Joseph | parent of person
+person : Tamar | person : Perez | parent of person
+male : Israel | male : Jesus Christ | parent of person
+male : Israel | male : Yeshua | parent of person
+male : Zechariah | person : John the Baptist | parent of person
+person : Alpha | person : Jesus | parent of person
+female : Virgin Mary | male : Jesus Christ | parent of person
+female : Virgin Mary | person : Lord | parent of person
+female : Virgin Mary | person : Jesus | parent of person
+female : Virgin Mary | person : Son | parent of person
+male : Zeus | male : Apollo | parent of person
+male : Sun | person : Jesus | parent of person
+male : Shem | male : Arphaxad | parent of person
+person europe : St Joseph | person : Jesus | parent of person
+person : Jesus | female : Blessed Mother | parent of person
+person : Jesus | person : Anthony001 | parent of person
+government organization : U S's House | politician us : John Boehner | political group of politician us
+government organization : U S's House | politician us : Nancy Pelosi | political group of politician us
+government organization : U S's House | politician us : Tom Delay | political group of politician us
+political party : Assembly | politician us : Bills | political group of politician us
+political party : Assembly | politician us : Bill | political group of politician us
+government organization : Senate | politician us : Bob Dole | political group of politician us
+government organization : Senate | politician us : Arlen Specter | political group of politician us
+government organization : Senate | politician us : Tom Daschle | political group of politician us
+government organization : Senate | politician us : Nancy Pelosi | political group of politician us
+government organization : Senate | politician us : Mitch Mcconnell | political group of politician us
+government organization : Senate | politician us : Harry Reid | political group of politician us
+government organization : Senate | politician us : Lyndon B's Johnson | political group of politician us
+government organization : House | politician us : Calvin Coolidge | political group of politician us
+government organization : House | politician us : Barack Obama | political group of politician us
+government organization : House | astronaut : Herbert Hoover | political group of politician us
+government organization : House | politician us : Jimmy Carter | political group of politician us
+government organization : House | politician us : Palin | political group of politician us
+government organization : House | politician us : Democrat Bill Clinton | political group of politician us
+government organization : House | politician us : Grover Cleveland | political group of politician us
+government organization : House | politician us : Mark Green | political group of politician us
+government organization : House | politician us : Nancy Pelosi | political group of politician us
+government organization : House | politician us : Bush | political group of politician us
+government organization : House | politician us : Harry Truman | political group of politician us
+government organization : House | politician us : John Kerry | political group of politician us
+government organization : House | politician us : Dwight Eisenhower | political group of politician us
+government organization : House | politician us : President Elect Barack Obama | political group of politician us
+government organization : House | politician us : Mitt Romney | political group of politician us
+government organization : House | politician us : Bill | political group of politician us
+government organization : House | politician us : Gephardt | political group of politician us
+government organization : House | politician us : Democrat Barack Obama | political group of politician us
+government organization : House | politician us : George Mcgovern | political group of politician us
+government organization : House | politician us : Rahm Emanuel | political group of politician us
+government organization : House | politician us : President George W Bush | political group of politician us
+government organization : House | politician us : John Boehner | political group of politician us
+government organization : House | politician us : President Bush | political group of politician us
+government organization : House | politician us : John Conyers | political group of politician us
+government organization : House | politician us : Bill Clinton | political group of politician us
+government organization : House | politician us : Santorum | political group of politician us
+government organization : House | person : Gingrich | political group of politician us
+government organization : House | politician us : Cynthia Mckinney | political group of politician us
+government organization : House | female : Hillary | political group of politician us
+government organization : House | politician us : Richard Nixon | political group of politician us
+government organization : House | politician us : George W Bush | political group of politician us
+government organization : House | politician us : Karl Rove | political group of politician us
+government organization : House | politician : George W | political group of politician us
+government organization : House | politician us : Dick Armey | political group of politician us
+government organization : House | politician us : Dick Gephardt | political group of politician us
+government organization : House | politician us : Billy Tauzin | political group of politician us
+government organization : House | politician us : John Murtha | political group of politician us
+government organization : House | politician us : Michelle Obama | political group of politician us
+government organization : House | politician us : John A's Boehner | political group of politician us
+government organization : House | politician us : John Kasich | political group of politician us
+government organization : House | politician us : George H W's Bush | political group of politician us
+government organization : House | politician us : Tom Delay | political group of politician us
+government organization : House | politician us : Andrew Jackson | political group of politician us
+government organization : House | politician us : Sherrod Brown | political group of politician us
+government organization : House | politician us : Sen's Barack Obama | political group of politician us
+government organization : House | politician us : Newt Gingrich | political group of politician us
+government organization : House | politician us : Gore | political group of politician us
+government organization : House | politician us : Senator Obama | political group of politician us
+government organization : House | politician us : Al Gore | political group of politician us
+government organization : House | politician us : President Obama | political group of politician us
+government organization : House | politician us : Time Bill Clinton | political group of politician us
+government organization : House | politician us : George W's Bush | political group of politician us
+government organization : House | male : Gerald Ford | political group of politician us
+government organization : House | politician us : Pawlenty | political group of politician us
+government organization : House | politician us : President George Bush | political group of politician us
+government organization : House | politician us : John Mccain | political group of politician us
+government organization : House | politician us : Laura Bush | political group of politician us
+government organization : House | politician us : Ronald Reagan | political group of politician us
+government organization : House | politician us : John Edwards | political group of politician us
+government organization : U S's Senate | politician us : Bill | political group of politician us
+government organization : U S's Senate | politician us : John Mccain | political group of politician us
+government organization : U S's Senate | politician us : Harry Reid | political group of politician us
+government organization : U S's House of Representatives | politician us : Nancy Pelosi | political group of politician us
+government organization : U S's House of Representatives | politician us : Barney Frank | political group of politician us
+bank : Deutsche Bank | country : India | bank bank in country
+bank : Wells Fargo | country : America | bank bank in country
+bank : Abn Amro | country : Netherlands | bank bank in country
+bank : Abn Amro | country : India | bank bank in country
+bank : Citigroup | country : Uk | bank bank in country
+bank : Citigroup | country : America | bank bank in country
+bank : Citigroup | country : 's America | bank bank in country
+bank : Citigroup | geopolitical organization : America | bank bank in country
+bank : Fidelity | country : India | bank bank in country
+bank : Deutsche | country : India | bank bank in country
+bank : J P's Morgan Securities Inc | country : America | bank bank in country
+bank : J P's Morgan Securities Inc | country : 's America | bank bank in country
+bank : J P's Morgan Securities Inc | geopolitical organization : America | bank bank in country
+bank : Barclays Capital | country : Uk | bank bank in country
+bank : J P's Morgan Securities | country : 's America | bank bank in country
+bank : J P's Morgan Securities | country : America | bank bank in country
+bank : J P's Morgan Securities | geopolitical organization : America | bank bank in country
+bank : Credit Suisse | country : Switzerland Switzerland | bank bank in country
+bank : Lloyds Tsb | country : Uk | bank bank in country
+bank : Commonwealth | country : South Africa | bank bank in country
+bank : Commonwealth | country : Canada | bank bank in country
+bank : Commonwealth | country : Nigeria | bank bank in country
+bank : Commonwealth | country : India | bank bank in country
+bank : Chase | country : 's America | bank bank in country
+bank : Chase | country : America | bank bank in country
+bank : Chase | geopolitical organization : America | bank bank in country
+bank : Citizens | country : Us | bank bank in country
+bank : Citizens | country : U S | bank bank in country
+bank : First Bank | country : South Africa | bank bank in country
+bank : First Bank | country : Nigeria | bank bank in country
+bank : Bnp Paribas | country : India | bank bank in country
+bank : Td | country : Canada | bank bank in country
+bank : Citibank | country : Belgium | bank bank in country
+bank : Citibank | country : Malaysia | bank bank in country
+bank : Citibank | country : Bahrain | bank bank in country
+bank : Citibank | country : Indonesia | bank bank in country
+bank : Citibank | country : Uk | bank bank in country
+bank : Citibank | country : the Philippines | bank bank in country
+bank : Citibank | country : Kenya | bank bank in country
+bank : Citibank | country : Hong Kong | bank bank in country
+bank : Citibank | country : Japan | bank bank in country
+bank : Citibank | country : Uae | bank bank in country
+bank : Citibank | country : Pakistan | bank bank in country
+bank : Citibank | country : Singapore | bank bank in country
+bank : Citibank | country : Greece | bank bank in country
+bank : Citibank | country : Thailand | bank bank in country
+bank : Citibank | country : Hungary | bank bank in country
+bank : Citibank | country : China | bank bank in country
+bank : Citibank | country : India | bank bank in country
+bank : Standard Chartered | country : Hong Kong | bank bank in country
+bank : Standard Chartered | country : China | bank bank in country
+bank : Standard Chartered | country : India | bank bank in country
+bank : Banamex | country : Mexico | bank bank in country
+bank : Lloyds | country : England | bank bank in country
+bank : Reliance | country : India | bank bank in country
+bank : Principal | country : India | bank bank in country
+bank : Morgan Stanley | country : India | bank bank in country
+bank : Citigroup Global Markets | country : Uk | bank bank in country
+bank : Citigroup Global Markets | country : America | bank bank in country
+bank : Citigroup Global Markets | country : 's America | bank bank in country
+bank : Citigroup Global Markets | geopolitical organization : America | bank bank in country
+bank : Royal | country : Belgium | bank bank in country
+bank : Royal | country : Ireland | bank bank in country
+bank : Royal | country : New Zealand | bank bank in country
+bank : Royal | country : Scotland | bank bank in country
+bank : Royal | country : Denmark | bank bank in country
+bank : Goldman Sachs | country : America | bank bank in country
+bank : World Bank | country : United States | bank bank in country
+bank : J P's Morgan | country : America | bank bank in country
+bank : J P's Morgan | country : 's America | bank bank in country
+bank : J P's Morgan | geopolitical organization : America | bank bank in country
+bank : Fortis | country : Belgium | bank bank in country
+bank : Jpmorgan | country : America | bank bank in country
+bank : Jpmorgan | country : 's America | bank bank in country
+bank : Jpmorgan | geopolitical organization : America | bank bank in country
+bank : Reliance Industries Limited | country : India | bank bank in country
+bank : Wachovia | country : America | bank bank in country
+bank : Wachovia | country : 's America | bank bank in country
+bank : Wachovia | geopolitical organization : America | bank bank in country
+bank : Federal Bank | country : India | bank bank in country
+bank : Bank America | country : India | bank bank in country
+bank : Visa | country : America | bank bank in country
+bank : Bank One | country : America | bank bank in country
+bank : Halifax | country : Scotland | bank bank in country
+bank : Hsbc | country : Oman | bank bank in country
+bank : Hsbc | country : Brunei | bank bank in country
+bank : Hsbc | country : Arabia Saudita | bank bank in country
+bank : Hsbc | country : Jordan | bank bank in country
+bank : Hsbc | country : Bahrain | bank bank in country
+bank : Hsbc | country : Usa | bank bank in country
+bank : Hsbc | country : Cayman Islands | bank bank in country
+bank : Hsbc | country : Uk | bank bank in country
+bank : Hsbc | country : Kuwait | bank bank in country
+bank : Hsbc | country : America | bank bank in country
+bank : Hsbc | country : Panama | bank bank in country
+bank : Hsbc | country : Japan | bank bank in country
+bank : Hsbc | country : Uae | bank bank in country
+bank : Hsbc | country : Pakistan | bank bank in country
+bank : Hsbc | country : Brazil | bank bank in country
+bank : Hsbc | country : Bermuda | bank bank in country
+bank : Hsbc | country : Singapore | bank bank in country
+bank : Hsbc | country : Sri Lanka | bank bank in country
+bank : Hsbc | country : Thailand | bank bank in country
+bank : Hsbc | country : Canada | bank bank in country
+bank : Hsbc | geopolitical location : Qatar | bank bank in country
+bank : Hsbc | country : Poland | bank bank in country
+bank : Hsbc | country : South Korea | bank bank in country
+bank : Hsbc | country : China | bank bank in country
+bank : Hsbc | country : India | bank bank in country
+bank : Rbc | country : Canada | bank bank in country
+bank : Rbs | country : Scotland | bank bank in country
+bank : Pnc | country : America | bank bank in country
+bank : Fed | country : Japan | bank bank in country
+bank : Anz | country : New Zealand | bank bank in country
+bank : Aig | country : America | bank bank in country
+bank : Citi | country : Uk | bank bank in country
+bank : Citi | country : America | bank bank in country
+bank : Citi | country : Canada | bank bank in country
+bank : Citi | country : India | bank bank in country
+bank : Cibc | country : Canada | bank bank in country
+bank : Axis | country : India | bank bank in country
+bank : Northern Rock | country : Uk | bank bank in country
+bank : Northern Rock | country : Britain | bank bank in country
+bank : Northern Rock | country : United Kingdom | bank bank in country
+bank : Northern Rock | country : England | bank bank in country
+geopolitical location : National | country : Turkey | bank bank in country
+geopolitical location : National | country : Angola | bank bank in country
+geopolitical location : National | country : Ghana | bank bank in country
+geopolitical location : National | country : Senegal | bank bank in country
+geopolitical location : National | country : Malta | bank bank in country
+geopolitical location : National | country : Greenland | bank bank in country
+geopolitical location : National | country : Ireland | bank bank in country
+geopolitical location : National | country : Panama | bank bank in country
+geopolitical location : National | country : Great Britain | bank bank in country
+geopolitical location : National | country : Indonesia | bank bank in country
+geopolitical location : National | country : Bulgaria | bank bank in country
+geopolitical location : National | country : Lithuania | bank bank in country
+geopolitical location : National | country : Latvia | bank bank in country
+geopolitical location : National | country : New Zealand | bank bank in country
+geopolitical location : National | country : Luxembourg | bank bank in country
+geopolitical location : National | country : Iraq | bank bank in country
+geopolitical location : National | country : Netherlands | bank bank in country
+geopolitical location : National | country : Nepal | bank bank in country
+geopolitical location : National | country : Laos People S Democratic Republic | bank bank in country
+geopolitical location : National | country : Armenia | bank bank in country
+geopolitical location : National | country : Uae | bank bank in country
+geopolitical location : National | country : Estonia | bank bank in country
+geopolitical location : National | country : Rwanda | bank bank in country
+geopolitical location : National | country : Bangladesh | bank bank in country
+geopolitical location : National | country : the Philippines | bank bank in country
+geopolitical location : National | country : Austria | bank bank in country
+geopolitical location : National | country : Soviet Union | bank bank in country
+geopolitical location : National | country : Maldives | bank bank in country
+geopolitical location : National | country : Kenya | bank bank in country
+geopolitical location : National | country : Swaziland | bank bank in country
+geopolitical location : National | country : Albania | bank bank in country
+geopolitical location : National | country : Gambia | bank bank in country
+geopolitical location : National | country : Japan | bank bank in country
+geopolitical location : National | country : Wales | bank bank in country
+geopolitical location : National | country : South Africa | bank bank in country
+geopolitical location : National | country : Argentina | bank bank in country
+geopolitical location : National | country : Thailand | bank bank in country
+geopolitical location : National | country : Democratic Republic of Congo | bank bank in country
+geopolitical location : National | country : Germany | bank bank in country
+geopolitical location : National | country : Spain | bank bank in country
+geopolitical location : National | country : Mozambique | bank bank in country
+geopolitical location : National | country : Sri Lanka | bank bank in country
+geopolitical location : National | country : Italy | bank bank in country
+geopolitical location : National | country : Portugal | bank bank in country
+geopolitical location : National | country : New South Wales | bank bank in country
+geopolitical location : National | country : Peru | bank bank in country
+geopolitical location : National | country : Mongolia | bank bank in country
+geopolitical location : National | country : Uganda | bank bank in country
+geopolitical location : National | country : Libya | bank bank in country
+geopolitical location : National | country : Greece | bank bank in country
+geopolitical location : National | country : People Republic | bank bank in country
+geopolitical location : National | country : Belize | bank bank in country
+geopolitical location : National | country : Bosnia Herzegovina | bank bank in country
+geopolitical location : National | country : South Vietnam | bank bank in country
+geopolitical location : National | country : Persia | bank bank in country
+geopolitical location : National | country : Canada | bank bank in country
+geopolitical location : National | geopolitical location : Tunisia | bank bank in country
+geopolitical location : National | island : Vanuatu | bank bank in country
+geopolitical location : National | country : Tajikistan | bank bank in country
+geopolitical location : National | geopolitical location : Cambodia | bank bank in country
+geopolitical location : National | geopolitical organization : Malawi | bank bank in country
+geopolitical location : National | geopolitical location : Macedonia001 | bank bank in country
+geopolitical location : National | geopolitical location : Mali | bank bank in country
+geopolitical location : National | island : Barbados | bank bank in country
+geopolitical location : National | geopolitical location : Qatar | bank bank in country
+geopolitical location : National | country : Vietnam | bank bank in country
+geopolitical location : National | geopolitical location : Cyprus | bank bank in country
+geopolitical location : National | geopolitical location : Romania | bank bank in country
+geopolitical location : National | geopolitical location : Slovakia | bank bank in country
+geopolitical location : National | country : South Korea | bank bank in country
+geopolitical location : National | geopolitical location : Mauritania | bank bank in country
+geopolitical location : National | country : China | bank bank in country
+geopolitical location : National | geopolitical organization : Uk | bank bank in country
+geopolitical location : National | country : Mauritius | bank bank in country
+geopolitical location : National | geopolitical location : East Timor | bank bank in country
+geopolitical location : National | country : Montenegro | bank bank in country
+geopolitical location : National | geopolitical location : Algeria | bank bank in country
+geopolitical location : National | geopolitical location : Ecuador | bank bank in country
+geopolitical location : National | geopolitical location : Sierra Leone | bank bank in country
+geopolitical location : National | country : England | bank bank in country
+geopolitical location : National | geopolitical location : Venezuela | bank bank in country
+geopolitical location : National | geopolitical location : Palestine | bank bank in country
+geopolitical location : National | country : India | bank bank in country
+geopolitical location : National | geopolitical location : Cape Verde | bank bank in country
+bank : J's P's Morgan Chase | country : America | bank bank in country
+bank : J's P's Morgan Chase | country : 's America | bank bank in country
+bank : J's P's Morgan Chase | geopolitical organization : America | bank bank in country
+bank : J's P's Morgan Chase | country : India | bank bank in country
+bank : Barclays | country : Botswana | bank bank in country
+bank : Barclays | country : Uk | bank bank in country
+bank : Barclays | country : Britain | bank bank in country
+bank : Barclays | country : France France | bank bank in country
+bank : Barclays | country : America | bank bank in country
+bank : Barclays | country : Scotland | bank bank in country
+bank : Barclays | country : Canada | bank bank in country
+bank : Barclays | geopolitical organization : Uk | bank bank in country
+bank : Barclays | country : England | bank bank in country
+bank : Barclays | country : India | bank bank in country
+bank : European Central Bank | country : Japan | bank bank in country
+bank : European Central Bank | country : England | bank bank in country
+bank : Paypal | country : America | bank bank in country
+bank : Paypal | country : 's America | bank bank in country
+bank : Paypal | geopolitical organization : America | bank bank in country
+company : Us Airways | country : America | bank bank in country
+room : Standard | country : South Africa | bank bank in country
+county : Los Angeles County | city : La | city also known as
+city : Santa Fe | city : Rio | city also known as
+city : Creighton | city : Omaha | city also known as
+city : Tucson | city : La | city also known as
+city : Chilliwack | city : Columbia | city also known as
+city : New Brunswick | city : Columbia | city also known as
+city : Empire | geopolitical location : Uk001 | city also known as
+city : Springfield | city : London | city also known as
+city : Augusta | geopolitical organization : Savannah | city also known as
+city : Boston | city : Orient | city also known as
+city : Boston | city : Columbia | city also known as
+city : Powell River | city : Columbia | city also known as
+city : Burnaby | city : Columbia | city also known as
+city : Bombay | city : Mumbai | city also known as
+city : Philly | city : Philadelphia | city also known as
+city : Baltimore | city : Newton | city also known as
+city : Waterloo | city : Austin | city also known as
+city : Darlington | city : San Diego | city also known as
+city : Hawaii | city : Columbia | city also known as
+city : Leningrad | city : Petersburg | city also known as
+city : Harlem | geopolitical location : Central001 | city also known as
+city : Harare | geopolitical location : Salisbury | city also known as
+city : Santa Cruz | city : Tenerife | city also known as
+city : Santa Cruz | city : Columbia | city also known as
+city : Santa Cruz | city : Nogales | city also known as
+city : New York | city : Hudson | city also known as
+city : New York | city : Jackson | city also known as
+city : New York | city : Hamilton | city also known as
+city : New York | city : Dc | city also known as
+city : New York | city : D C | city also known as
+city : Hong Kong | city : Canton | city also known as
+city : Hong Kong | city : Columbia | city also known as
+city : Enderby | city : Columbia | city also known as
+geopolitical organization : Savannah | city : Augusta | city also known as
+city : Varanasi | city : Kashi | city also known as
+city : La Crosse | city : Mississippi | city also known as
+city : Kelowna | city : Columbia | city also known as
+city : Hanoi | city : Saigon | city also known as
+city : Hanoi | city : Hue | city also known as
+city : Hanoi | county : Ho Chi Minh City | city also known as
+city : Comox Valley | city : Columbia | city also known as
+city : Batavia | city : Jakarta | city also known as
+city : Mexico City | city : Columbia | city also known as
+geopolitical organization : Kinshasa | city : Leopoldville | city also known as
+city : Ireland | city : Land | city also known as
+city : Ireland | city : Columbia | city also known as
+city : Toronto | city : Columbia | city also known as
+city : Benton | city : Columbia | city also known as
+city : San Francisco | city : Pacific | city also known as
+city : San Francisco | city : Columbia | city also known as
+city : Newton | city : Baltimore | city also known as
+city : Pittsburgh | city : Ohio | city also known as
+city : Whitehorse | city : Columbia | city also known as
+city : Auckland | city : Columbia | city also known as
+city : Canton | city : Hong Kong | city also known as
+city : Canton | city : Guangzhou | city also known as
+city : Porto | city : Oporto | city also known as
+geopolitical location : Greenland | city : Columbia | city also known as
+city : Cambridge | city : Columbia | city also known as
+organization : Warsaw | city : Warszawa | city also known as
+geopolitical organization : Santa Barbara | city : La | city also known as
+city : Calgary | city : Columbia | city also known as
+city : Winnipeg | city : Columbia | city also known as
+city : Nogales | city : Santa Cruz | city also known as
+city : Nanaimo | city : Columbia | city also known as
+city : New Orleans | city : Xavier | city also known as
+city : New Orleans | city : Mississippi | city also known as
+city : Pearl | city : Jackson | city also known as
+city : Quebec | city : Columbia | city also known as
+city : Queens | city : Jackson | city also known as
+city : Patna | geopolitical organization : Pataliputra | city also known as
+city : Paris | city : Detroit | city also known as
+city : Paris | geopolitical organization : Bucharest | city also known as
+geopolitical organization : St Paul | city : Mississippi | city also known as
+geopolitical organization : Bilbao | city : Barakaldo | city also known as
+city : Mississippi | city : Baton Rouge | city also known as
+city : Mississippi | city : La Crosse | city also known as
+city : Mississippi | city : New Orleans | city also known as
+city : Mississippi | city : Chicago South | city also known as
+city : Mississippi | city : Sharm El Sheikh | city also known as
+city : Mississippi | city : Helena | city also known as
+city : Mississippi | city : Saint Louis | city also known as
+city : Mississippi | geopolitical organization : St Paul | city also known as
+geopolitical location : Central001 | city : Nyc | city also known as
+geopolitical location : Central001 | city : Harlem | city also known as
+geopolitical location : Central001 | city : Nyc | city also known as
+geopolitical location : Kingstown | geopolitical location : Dun Laoghaire | city also known as
+city : Rio Vista | city : Sacramento | city also known as
+city : Omaha | city : Creighton | city also known as
+city : Kamloops | city : Columbia | city also known as
+city : Warszawa | organization : Warsaw | city also known as
+city : Prospect | city : Brooklyn | city also known as
+city : Baton Rouge | city : Mississippi | city also known as
+geopolitical location : Uk001 | city : Empire | city also known as
+geopolitical location : Uk001 | city : Columbia | city also known as
+city : Surrey | city : Columbia | city also known as
+city : Arkansas | city : Buena Vista | city also known as
+city : Arkansas | city : Cache | city also known as
+city : Summit | county : Redwood City | city also known as
+city : Orient | city : Boston | city also known as
+city : Peking | city : Beijing | city also known as
+city : Houston | city : Harvard | city also known as
+city : Orense | city : Ourense | city also known as
+city : Forest | city : Portland | city also known as
+city : Las Vegas | city : Columbia | city also known as
+city : Leopoldville | geopolitical organization : Kinshasa | city also known as
+city : College | city : Columbia | city also known as
+city : Portland | city : Forest | city also known as
+city : Portland | city : Columbia | city also known as
+city : Portland | city : Arlington | city also known as
+city : Saskatchewan | city : Columbia | city also known as
+city : Brooklyn | city : Prospect | city also known as
+city : Santa Clara | county : Los Angeles Ca | city also known as
+city : Mount Pleasant | city : Dc | city also known as
+city : Georgetown | city : Dc | city also known as
+city : Georgetown | city : Washington's  D's  C's | city also known as
+city : Georgetown | city : D C | city also known as
+city : Georgetown | visualiza ble scene : Northwest Washington | city also known as
+city : Saint Louis | city : D C | city also known as
+city : Saint Louis | city : Mississippi | city also known as
+city : Harvard | city : Houston | city also known as
+city : Xavier | city : New Orleans | city also known as
+city : Sacramento | city : Rio Vista | city also known as
+geopolitical organization : Bucharest | city : Paris | city also known as
+city : Washington's  D's  C's | city : Howard | city also known as
+city : Washington's  D's  C's | city : Columbia | city also known as
+city : Washington's  D's  C's | city : D C | city also known as
+city : Washington's  D's  C's | city : Georgetown | city also known as
+geopolitical location : Louisville | city : Ohio | city also known as
+city : St's Augustine | island : Saint Augustine | city also known as
+city : Peace River | city : Columbia | city also known as
+county : Redwood City | city : Oakland | city also known as
+county : Redwood City | city : Summit | city also known as
+geopolitical location : Northwest Territories001 | city : Columbia | city also known as
+city : Milan | city : Rho | city also known as
+city : Howard | city : Washington's  D's  C's | city also known as
+city : Howard | city : Dc | city also known as
+city : Howard | city : D C | city also known as
+city : Howard | visualiza ble scene : Northwest Washington | city also known as
+city : Durham | city : Columbia | city also known as
+city : Dc | city : Georgetown | city also known as
+city : Dc | city : Gw | city also known as
+city : Dc | city : Columbia | city also known as
+city : Dc | city : Mount Pleasant | city also known as
+city : Dc | city : Howard | city also known as
+city : Dc | city : New York | city also known as
+city : Dc | city : Crystal | city also known as
+city : Dc | county : Salt Lake | city also known as
+city : La | city : L a | city also known as
+city : La | city : London | city also known as
+city : La | city : Tucson | city also known as
+city : La | county : Los Angeles County | city also known as
+city : La | city : San Diego | city also known as
+city : La | geopolitical location : Beverly Hills | city also known as
+city : La | geopolitical organization : Santa Barbara | city also known as
+city : La | county : Los Angeles Ca | city also known as
+city : Gw | city : Dc | city also known as
+city : Constantinople | city : Istanbul | city also known as
+city : Oporto | city : Porto | city also known as
+city : Duncan | city : Columbia | city also known as
+county : Salt Lake | city : Dc | city also known as
+city : Coastal | city : Columbia | city also known as
+city : Jackson | city : New York | city also known as
+city : Jackson | city : Pearl | city also known as
+city : Jackson | city : Queens | city also known as
+county : Los Angeles Ca | city : La | city also known as
+county : Los Angeles Ca | city : L a | city also known as
+county : Los Angeles Ca | city : Columbia | city also known as
+county : Los Angeles Ca | city : Santa Clara | city also known as
+city : Saigon | city : Hanoi | city also known as
+city : Saigon | county : Ho Chi Minh City | city also known as
+city : Rome | city : Roma | city also known as
+city : Roma | city : Rome | city also known as
+city : Ohio | city : Columbia | city also known as
+city : Ohio | city : Pittsburgh | city also known as
+city : Ohio | geopolitical location : Louisville | city also known as
+city : North Charleston | city : Union | city also known as
+city : Torino | city : Turin | city also known as
+city : Cape Town | city : Columbia | city also known as
+city : Buena Vista | city : Arkansas | city also known as
+city : San Diego | city : Logan | city also known as
+city : San Diego | city : Darlington | city also known as
+city : San Diego | city : La | city also known as
+city : Nyc | city : D C | city also known as
+city : Nyc | geopolitical location : Central001 | city also known as
+city : L a | city : La | city also known as
+city : L a | county : Los Angeles Ca | city also known as
+city : Land | city : Tasmania | city also known as
+city : Land | city : Ireland | city also known as
+city : Tenerife | city : Santa Cruz | city also known as
+city : Logan | city : San Diego | city also known as
+city : Napoli | island : Naples | city also known as
+city : John | city : Columbia | city also known as
+city : St's Petersburg | city : Petersburg | city also known as
+city : Revelstoke | city : Columbia | city also known as
+city : Columbia | city : Washington's  D's  C's | city also known as
+city : Columbia | city : San Francisco | city also known as
+city : Columbia | city : Kelowna | city also known as
+city : Columbia | city : Spokane | city also known as
+city : Columbia | city : Saskatchewan | city also known as
+city : Columbia | city : Ohio | city also known as
+city : Columbia | city : Windsor | city also known as
+city : Columbia | city : Cambridge | city also known as
+city : Columbia | city : Whitehorse | city also known as
+city : Columbia | city : Coastal | city also known as
+city : Columbia | city : Kansas | city also known as
+city : Columbia | city : Crofton | city also known as
+city : Columbia | city : Dc | city also known as
+city : Columbia | city : Duncan | city also known as
+city : Columbia | city : Chicago South | city also known as
+city : Columbia | city : Austin | city also known as
+city : Columbia | city : Plymouth | city also known as
+city : Columbia | city : Durham | city also known as
+city : Columbia | city : Enderby | city also known as
+city : Columbia | city : Revelstoke | city also known as
+city : Columbia | city : Oxford | city also known as
+city : Columbia | city : Kamloops | city also known as
+city : Columbia | city : Nanaimo | city also known as
+city : Columbia | city : Manitoba | city also known as
+city : Columbia | city : Spa | city also known as
+city : Columbia | city : Burnaby | city also known as
+city : Columbia | city : Peace River | city also known as
+city : Columbia | city : Hong Kong | city also known as
+city : Columbia | city : Powell River | city also known as
+city : Columbia | city : Arlington | city also known as
+city : Columbia | city : Quebec | city also known as
+city : Columbia | city : Baja California Sur | city also known as
+city : Columbia | city : Tasmania | city also known as
+city : Columbia | city : Merritt | city also known as
+city : Columbia | city : Cape Town | city also known as
+city : Columbia | city : Mexico City | city also known as
+city : Columbia | city : Boston | city also known as
+city : Columbia | city : Auckland | city also known as
+city : Columbia | city : Surrey | city also known as
+city : Columbia | city : Clearwater | city also known as
+city : Columbia | city : Chilliwack | city also known as
+city : Columbia | city : Abbotsford | city also known as
+city : Columbia | city : New Brunswick | city also known as
+city : Columbia | city : Victoria | city also known as
+city : Columbia | city : Calgary | city also known as
+city : Columbia | city : College | city also known as
+city : Columbia | city : Arts | city also known as
+city : Columbia | city : Santa Cruz | city also known as
+city : Columbia | city : Ireland | city also known as
+city : Columbia | city : John | city also known as
+city : Columbia | city : Hawaii | city also known as
+city : Columbia | city : Toronto | city also known as
+city : Columbia | city : North Vancouver | city also known as
+city : Columbia | city : Prince George | city also known as
+city : Columbia | city : New Westminster | city also known as
+city : Columbia | city : District | city also known as
+city : Columbia | city : D C | city also known as
+city : Columbia | city : Benton | city also known as
+city : Columbia | city : Las Vegas | city also known as
+city : Columbia | geopolitical location : Greenland | city also known as
+city : Columbia | island : Sidney | city also known as
+city : Columbia | island : Prince Edward Island | city also known as
+city : Columbia | geopolitical location : Northwest Territories001 | city also known as
+city : Columbia | city : Comox Valley | city also known as
+city : Columbia | city : Portland | city also known as
+city : Columbia | geopolitical location : Uk001 | city also known as
+city : Columbia | city : Winnipeg | city also known as
+city : Columbia | geopolitical organization : Queensland | city also known as
+city : Columbia | visualiza ble thing : Castlegar | city also known as
+city : Columbia | county : Los Angeles Ca | city also known as
+city : Columbia | visualiza ble scene : Northwest Washington | city also known as
+city : D C | city : Washington's  D's  C's | city also known as
+city : D C | city : Georgetown | city also known as
+city : D C | city : Howard | city also known as
+city : D C | city : Saint Louis | city also known as
+city : D C | city : New York | city also known as
+city : D C | city : Columbia | city also known as
+city : D C | city : Nyc | city also known as
+city : D C | city : Albany | city also known as
+city : Union | city : North Charleston | city also known as
+city : Guangzhou | city : Canton | city also known as
+city : Rio | city : Santa Fe | city also known as
+city : Rho | city : Milan | city also known as
+city : Spa | city : Columbia | city also known as
+city : Nyc | geopolitical location : Central001 | city also known as
+city : Edo | city : Tokyo | city also known as
+city : Hue | city : Hanoi | city also known as
+city : Plymouth | city : Columbia | city also known as
+city : Beijing | city : Peking | city also known as
+city : Arts | city : Columbia | city also known as
+city : New Westminster | city : Columbia | city also known as
+city : Cache | city : Arkansas | city also known as
+city : Prince George | city : Columbia | city also known as
+city : Helena | city : Mississippi | city also known as
+city : Sharm El Sheikh | city : Mississippi | city also known as
+city : Manitoba | city : Columbia | city also known as
+city : Ourense | city : Orense | city also known as
+city : Windsor | city : Columbia | city also known as
+city : Oakland | county : Redwood City | city also known as
+city : Crystal | city : Dc | city also known as
+geopolitical location : Dun Laoghaire | geopolitical location : Kingstown | city also known as
+city : Arlington | city : Columbia | city also known as
+city : Arlington | city : Portland | city also known as
+city : Chicago South | city : Columbia | city also known as
+city : Chicago South | city : Mississippi | city also known as
+city : Oxford | city : Columbia | city also known as
+city : Turin | city : Torino | city also known as
+city : Jakarta | city : Batavia | city also known as
+city : Tokyo | city : Edo | city also known as
+city : Philadelphia | city : Philly | city also known as
+city : Philadelphia | city : Amman | city also known as
+city : Clearwater | city : Columbia | city also known as
+city : Bangkok | county : Ho Chi Minh City | city also known as
+island : Saint Augustine | city : St's Augustine | city also known as
+city : Istanbul | city : Constantinople | city also known as
+city : Austin | city : Waterloo | city also known as
+city : Austin | city : Columbia | city also known as
+city : Kashi | city : Varanasi | city also known as
+city : Pacific | city : San Francisco | city also known as
+island : Naples | city : Napoli | city also known as
+visualiza ble scene : Northwest Washington | city : Howard | city also known as
+visualiza ble scene : Northwest Washington | city : Georgetown | city also known as
+visualiza ble scene : Northwest Washington | city : Columbia | city also known as
+city : Detroit | city : Paris | city also known as
+city : Victoria | city : Columbia | city also known as
+city : Albany | city : Hudson | city also known as
+city : Albany | city : D C | city also known as
+city : Crofton | city : Columbia | city also known as
+city : Amman | city : Philadelphia | city also known as
+city : Mumbai | city : Bombay | city also known as
+city : Merritt | city : Columbia | city also known as
+city : Spokane | city : Columbia | city also known as
+city : Spokane | city : Gonzaga | city also known as
+city : District | city : Columbia | city also known as
+city : Kansas | city : Columbia | city also known as
+city : Baja California Sur | city : Columbia | city also known as
+city : Petersburg | city : Leningrad | city also known as
+city : Petersburg | city : St's Petersburg | city also known as
+island : Sidney | city : Columbia | city also known as
+geopolitical location : Salisbury | city : Harare | city also known as
+visualiza ble thing : Castlegar | city : Columbia | city also known as
+city : London | city : La | city also known as
+city : London | city : Springfield | city also known as
+city : Gonzaga | city : Spokane | city also known as
+city : Hamilton | city : New York | city also known as
+geopolitical organization : Queensland | city : Columbia | city also known as
+city : Abbotsford | city : Columbia | city also known as
+city : North Vancouver | city : Columbia | city also known as
+island : Prince Edward Island | city : Columbia | city also known as
+city : Tasmania | city : Land | city also known as
+city : Tasmania | city : Columbia | city also known as
+city : Barakaldo | geopolitical organization : Bilbao | city also known as
+city : Hudson | city : New York | city also known as
+city : Hudson | city : Albany | city also known as
+city : Elizabeth | city : Norfolk | city also known as
+city : Norfolk | city : Elizabeth | city also known as
+county : Ho Chi Minh City | city : Hanoi | city also known as
+county : Ho Chi Minh City | city : Saigon | city also known as
+county : Ho Chi Minh City | city : Bangkok | city also known as
+geopolitical organization : Pataliputra | city : Patna | city also known as
+geopolitical location : Beverly Hills | city : La | city also known as
+sport : Soccer | stadium or event venue : Wembley Stadium | sport uses stadium
+sport : Basketball | stadium or event venue : Target Center | sport uses stadium
+sport : Basketball | stadium or event venue : Td Banknorth Garden | sport uses stadium
+sport : Basketball | stadium or event venue : Bradley Center | sport uses stadium
+sport : Basketball | stadium or event venue : Palace of Auburn Hills | sport uses stadium
+sport : Basketball | stadium or event venue : Wachovia Center | sport uses stadium
+sport : Basketball | stadium or event venue : Amway Center | sport uses stadium
+sport : Basketball | stadium or event venue : Staples Center | sport uses stadium
+sport : Basketball | stadium or event venue : Rose Garden Arena | sport uses stadium
+sport : Basketball | stadium or event venue : American Airlines Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Fedexforum | sport uses stadium
+sport : Basketball | stadium or event venue : Td Garden | sport uses stadium
+sport : Basketball | stadium or event venue : Time Warner Cable Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Ford Center | sport uses stadium
+sport : Basketball | stadium or event venue : Philips Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Verizon Center | sport uses stadium
+sport : Basketball | stadium or event venue : Amway Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Pepsi Center | sport uses stadium
+sport : Basketball | stadium or event venue : United Center | sport uses stadium
+sport : Basketball | stadium or event venue : Toyota Center's  Tx | sport uses stadium
+sport : Basketball | stadium or event venue : Energysolutions Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Air Canada Center | sport uses stadium
+sport : Basketball | stadium or event venue : Oracle Arena | sport uses stadium
+sport : Basketball | stadium or event venue : at T Center | sport uses stadium
+sport : Basketball | stadium or event venue : New Orleans Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Quicken Loans Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Wachovia Spectrum | sport uses stadium
+sport : Basketball | stadium or event venue : Arco Arena | sport uses stadium
+sport : Basketball | stadium or event venue : Izod Center | sport uses stadium
+sport : Basketball | stadium or event venue : American Airlines Center | sport uses stadium
+sport : Basketball | stadium or event venue : Madison Square Garden | sport uses stadium
+sport : Basketball | stadium or event venue : Us Airways Center | sport uses stadium
+sport : Basketball | stadium or event venue : Rose Garden | sport uses stadium
+sport : Basketball | stadium or event venue : Conseco Fieldhouse | sport uses stadium
+sport : Basketball | stadium or event venue : Toyota Center | sport uses stadium
+sport : Football | stadium or event venue : Giant Center | sport uses stadium
+sport : Football | stadium or event venue : Heinz Field | sport uses stadium
+sport : Football | stadium or event venue : Soldier Field | sport uses stadium
+sport : Hockey | stadium or event venue : Mts Centre | sport uses stadium
+sport : Hockey | stadium or event venue : Scottrade Center | sport uses stadium
+sport : Hockey | stadium or event venue : Consol Energy Center | sport uses stadium
+sport : Hockey | stadium or event venue : Scotiabank Saddledome | sport uses stadium
+sport : Hockey | stadium or event venue : Td Banknorth Garden | sport uses stadium
+sport : Hockey | stadium or event venue : Nassau Coliseum | sport uses stadium
+sport : Hockey | stadium or event venue : Hp Pavilion | sport uses stadium
+sport : Hockey | stadium or event venue : Wachovia Center | sport uses stadium
+sport : Hockey | stadium or event venue : Staples Center | sport uses stadium
+sport : Hockey | stadium or event venue : Pengrowth Saddledome | sport uses stadium
+sport : Hockey | stadium or event venue : Td Garden | sport uses stadium
+sport : Hockey | stadium or event venue : Philips Arena | sport uses stadium
+sport : Hockey | stadium or event venue : Verizon Center | sport uses stadium
+sport : Hockey | stadium or event venue : Sommet Center | sport uses stadium
+sport : Hockey | stadium or event venue : Pepsi Center | sport uses stadium
+sport : Hockey | stadium or event venue : Mellon Arena | sport uses stadium
+sport : Hockey | stadium or event venue : Joe Louis Arena | sport uses stadium
+sport : Hockey | stadium or event venue : United Center | sport uses stadium
+sport : Hockey | stadium or event venue : Prudential Center | sport uses stadium
+sport : Hockey | stadium or event venue : Hsbc Arena | sport uses stadium
+sport : Hockey | stadium or event venue : Air Canada Center | sport uses stadium
+sport : Hockey | stadium or event venue : Honda Center | sport uses stadium
+sport : Hockey | stadium or event venue : Bridgestone Arena | sport uses stadium
+sport : Hockey | stadium or event venue : St's Pete Times Forum | sport uses stadium
+sport : Hockey | stadium or event venue : Nationwide Arena | sport uses stadium
+sport : Hockey | stadium or event venue : Rogers Arena | sport uses stadium
+sport : Hockey | stadium or event venue : General Motors Place | sport uses stadium
+sport : Hockey | stadium or event venue : Xcel Energy Center | sport uses stadium
+sport : Hockey | stadium or event venue : Izod Center | sport uses stadium
+sport : Hockey | stadium or event venue : Rbc Center | sport uses stadium
+sport : Hockey | stadium or event venue : American Airlines Center | sport uses stadium
+sport : Hockey | stadium or event venue : Madison Square Garden | sport uses stadium
+sport : Hockey | stadium or event venue : Bank Atlantic Center | sport uses stadium
+sport : Hockey | stadium or event venue : Bankatlantic Center | sport uses stadium
+sport : Hockey | stadium or event venue : Rexall Place | sport uses stadium
+sport : Baseball | stadium or event venue : at T Park | sport uses stadium
+sport : Baseball | stadium or event venue : Safeco Field | sport uses stadium
+sport : Baseball | stadium or event venue : Rogers Centre | sport uses stadium
+sport : Baseball | stadium or event venue : Pac Bell Park | sport uses stadium
+sport : Baseball | stadium or event venue : Olympic Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Oriole Park at Camden Yards | sport uses stadium
+sport : Baseball | stadium or event venue : Target Field | sport uses stadium
+sport : Baseball | stadium or event venue : Shea Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Great American Ball Park | sport uses stadium
+sport : Baseball | stadium or event venue : Progressive Field | sport uses stadium
+sport : Baseball | stadium or event venue : Uic Pavilion | sport uses stadium
+sport : Baseball | stadium or event venue : Oakland Coliseum | sport uses stadium
+sport : Baseball | stadium or event venue : Busch Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Rfk Memorial Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Coors Field | sport uses stadium
+sport : Baseball | stadium or event venue : Metrodome | sport uses stadium
+sport : Baseball | stadium or event venue : Minute Maid Park | sport uses stadium
+sport : Baseball | stadium or event venue : Kauffman Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Three Rivers Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Qualcomm Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Wrigley Field | sport uses stadium
+sport : Baseball | stadium or event venue : Dolphin Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Jacobs Field | sport uses stadium
+sport : Baseball | stadium or event venue : Chase Field | sport uses stadium
+sport : Baseball | stadium or event venue : U S's Cellular Arena | sport uses stadium
+sport : Baseball | stadium or event venue : Braves Field | sport uses stadium
+sport : Baseball | stadium or event venue : Pnc Park | sport uses stadium
+sport : Baseball | stadium or event venue : Tiger Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Tropicana Field | sport uses stadium
+sport : Baseball | stadium or event venue : County Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Exposition Park | sport uses stadium
+sport : Baseball | stadium or event venue : Skydome | sport uses stadium
+sport : Baseball | stadium or event venue : Petco Park | sport uses stadium
+sport : Baseball | stadium or event venue : Mcafee Coliseum | sport uses stadium
+sport : Baseball | stadium or event venue : the Metrodome | sport uses stadium
+sport : Baseball | stadium or event venue : Autozone Park | sport uses stadium
+sport : Baseball | stadium or event venue : Network Associates Coliseum | sport uses stadium
+sport : Baseball | stadium or event venue : Angel Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Camden Yards | sport uses stadium
+sport : Baseball | stadium or event venue : Dodger Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Candlestick Park | sport uses stadium
+sport : Baseball | stadium or event venue : Turner Field | sport uses stadium
+sport : Baseball | stadium or event venue : Rangers Ballpark In Arlington | sport uses stadium
+sport : Baseball | stadium or event venue : Edison Field | sport uses stadium
+sport : Baseball | stadium or event venue : Comerica Park | sport uses stadium
+sport : Baseball | stadium or event venue : New Yankee Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Miller Park | sport uses stadium
+sport : Baseball | stadium or event venue : Louisiana Superdome | sport uses stadium
+sport : Baseball | stadium or event venue : Fenway Park | sport uses stadium
+sport : Baseball | stadium or event venue : Citizens Bank Park | sport uses stadium
+sport : Baseball | stadium or event venue : Yankee Stadium | sport uses stadium
+sport : Baseball | stadium or event venue : Invesco Field at Mile High | sport uses stadium
