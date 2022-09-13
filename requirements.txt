@@ -1,4 +1,4 @@
-torch==1.8.0
+torch==1.11.0
 transformers==4.16.2
 numpy==1.16.5
 pandas==1.2.4
