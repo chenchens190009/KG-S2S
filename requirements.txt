@@ -6,3 +6,4 @@ dataclasses==0.6
 tqdm==4.61.2
 scipy==1.4.1
 pygtrie==2.4.2
+pytorch_lightning=1.5.3
